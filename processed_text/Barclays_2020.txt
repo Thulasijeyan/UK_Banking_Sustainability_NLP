@@ -1,0 +1,1876 @@
+Contents
+Page
+Strategic Report
+Performance review 1
+Managing risk 5
+Performance measures 7
+Our people and culture 9
+Engaging with our stakeholders 11
+Governance
+Chair’s introduction 15
+Governance Report 17
+(including our Corporate Governance Statement)
+Directors’ Report 27
+Risk review
+Risk review contents 30
+Risk management strategy 32
+Material existing and emerging risks 34
+Climate change risk management 44
+Principal risk management 46
+Risk performance 52
+Supervision and regulation 109
+Financial statements
+Financial statements contents 113
+Consolidated financial statements 124
+Notes to the financial statements 132
+Strategic Report
+Performance review
+We are reinventing our service model for customers to create a more efficient, more resilient and seamless service, which will include the expansion
+of our Wealth Management proposition. We are building partnerships in the open market and working across the whole of Barclays to deliver
+additional value for our customers and businesses through our size and scale.
+We will continue to invest in digital platforms, remove unnecessary processes and costs and make it seamless for customers to self-serve. We will
+continue to invest in digitalisation and automation to be more efficient, reduce costs and to create additional capacity for colleagues to support
+customers.
+In recent years we have invested in cloud technology and begun to build our digital bank capabilities, removing reliance on a heritage core. This
+investment will continue and will provide a strong digital customer platform that stands out from our competitors.
+Money Mentors – a free and impartial mentoring service customers can now book a free session with one of our 300 Money Mentors, asking
+questions playing on their minds without fear of judgment. The service responds to millennial customers who told us they wanted a more open
+forum to talk through their financial concerns and goals. We had over 2,000 conversations in 2020, with over 80% of customer saying they will do
+something different with their finances as a result.
+Our role in society
+The Barclays Bank UK Group success is judged not only by commercial performance, but also by how we act sustainably and responsibly for each
+other and the long term. We believe that we can, and should, make a positive difference for society – globally and locally. We do that through the
+choices we make about how we run our business, and through the commitments we make proactively to support others in our communities to
+achieve their goals. For detail on our integration of social and environmental issues into our business, please refer to pages 39 to 43 in the Barclays
+PLC Annual Report 2020.
+As the global effort to tackle climate change grows, Barclays Group is moving rapidly to take a leading role in contributing to the transition to a
+low-carbon economy. In March last year, Barclays Group set out our ambition to be a net zero bank by 2050. In November 2020, on the way to
+achieving that ambition, Barclays Group set out the methodology and targets that begin to align the emissions we finance with the Paris Climate
+Agreement. More information is set out in the Barclays Group ESG Report, with the Barclays Bank UK Group contributing to the overall Barclays
+Group climate change agenda. For further information, please see pages 39 to 43 in the Barclays PLC Annual Report.
+Against the ambition to be a net zero bank by 2050, Barclays Group are already net zero in the context of our own emissions; our focus now is on
+reducing the client emissions that we finance. That starts with aligning our financing with the Paris Climate Agreement – the international treaty on
+climate change adopted in 2015.
+Looking ahead, Barclays Group is optimistic about some of the additional opportunities the transition to a low carbon economy will present for
+Barclays, including through increased green and infrastructure finance capabilities. Gradual changes to the structure of our economy are likely to
+be accelerated by advances in sustainable technologies, which will require us to be able to support new industries, and help customers in impacted
+industries adapt.
+Barclays Group have also committed to providing £100bn of green financing by 2030, to help accelerate the transition to a low-carbon economy.
+Green financing supports the transition by providing investment that is specifically focused on green activity, including for renewables, energy
+efficiency and sustainable transport. This includes specific products such as Green Loans and there is increasing demand for more innovative
+products, such as Sustainability Linked Loans.
+In 2020, Barclays Group updated our Sustainable Finance Framework, which sets out our approach to classifying financing as sustainable, and
+references industry guidelines and principles. Barclays Group welcome and encourage greater global harmonisation in the way this financing is
+defined, and will be working with other financial institutions and stakeholders towards this goal.
+Barclays Group also issued the second Barclays Green Bond in October 2020. Funds from the £400m bond are allocated to mortgages on energy
+efficient residential properties in England and Wales. More than half the funds raised will be allocated to refinance Barclays’ Green Home Mortgage
+products, which are offered to customers at a discount provided their property meets certain energy efficiency thresholds.
+For an overview of the Barclays Bank UK Group’s approach to managing climate change risk, please refer to pages 44 to 45 in the climate change
+risk management section.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 4
+Strategic Report
+Managing risk
+The Barclays Bank UK Group is exposed to internal and external risks as part of our ongoing activities. These risks are managed as part of our
+business model.
+Enterprise Risk Management Framework
+Within the Barclays Bank UK Group, risks are identified and overseen through the Enterprise Risk Management Framework (ERMF), which supports
+the business in its aim to embed effective risk management and a strong risk management culture.
+The ERMF governs the way in which the Barclays Bank UK Group identifies and manages its risks. The ERMF is approved by the Barclays PLC Board
+on recommendation of the Barclays Group Chief Risk Officer; it is then adopted by the Barclays Bank UK Group with minor modifications where
+needed.
+The management of risk is embedded into each level of the business, with all colleagues being responsible for identifying and controlling risks.
+Risk appetite
+Risk appetite defines the level of risk we are prepared to accept across the different risk types, taking into consideration varying levels of financial
+and operational stress. Risk appetite is key for our decision making processes, including ongoing business planning and setting of strategy, new
+product approvals and business change initiatives.
+The Barclays Bank UK Group may choose to adopt a lower risk appetite than allocated to it by the Barclays Group.
+Three Lines of Defence
+The first line of defence is comprised of the revenue generating and customer facing areas, along with all associated support functions, including
+Finance, Treasury, Human Resources and Operations and Technology. The first line identifies the risks, sets the controls and escalates risk events to
+the second line of defence.
+The second line of defence is made up of Risk and Compliance and oversees the first line by setting the limits, rules and constraints on their
+operations, consistent with the risk appetite.
+The third line of defence is comprised of Internal Audit, providing independent assurance over the effectiveness of governance, risk management
+and control over current, systemic and evolving risks.
+Although the Legal function does not sit in any of the three lines, it works to support them all and plays a key role in overseeing Legal risk
+throughout the bank. The Legal function is also subject to oversight from the Risk and Compliance functions (second line) with respect to the
+management of operational and conduct risks.
+Monitoring the risk profile
+Together with a strong governance process, using Business and Barclays Group-level Risk Committees as well as Board level forums, the Barclays
+Bank UK PLC Board receives regular information in respect of the risk profile of the Barclays Bank UK Group. Information received includes
+measures of risk profile against risk appetite as well as identification of new and emerging risks.
+During 2020, Barclays Group ran a range of scenario analyses to determine potential outcomes of the COVID-19 pandemic which informed
+management actions. One of the scenarios was a macroeconomic stress test which considered, amongst other factors, a no deal Brexit and a
+second wave of the COVID-19 pandemic in which scientific progress was limited to the extent that no vaccine was available throughout 2021. In
+addition, a Group-wide, exploratory stress test was performed against a severe but plausible climate scenario, testing vulnerability to disorderly
+transition risks and elevated physical risks. The aim of the tests was to identify key vulnerabilities that were most relevant and material to the
+Barclays Group business model and geographical footprint. We believe that our structure and governance supports us in managing risk in the
+changing economic, political and market environments.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 5
+Strategic Report
+Our people and culture
+The strength and success of Barclays is in our people. We want to support their health and wellbeing, enable them to build their career and
+empower and motivate them to be able to provide excellent service. The following sub-sections are consistent with those detailed in the People
+Section of the Barclays PLC Annual Report and figures mentioned are for the Barclays Group other than where specifically mentioned.
+Adapting to challenge
+Events over the last 12 months have affected all our lives, and the disruption has been significant. Nevertheless, we have continued to invest in our
+colleagues in order to strengthen our business and protect our culture. Our people have shown extraordinary adaptability and resilience, and
+thanks to them, so has Barclays.
+Throughout the COVID-19 pandemic, colleagues around the world have been working incredibly hard to continue to support our customers and
+clients. Many were designated as frontline or critical workers in the countries in which they work. At all times, we have worked tirelessly to prioritise
+each other’s safety and wellbeing, as well as taking all necessary steps to slow the spread of the virus.
+We put in place a set of global principles to ensure we were doing as much as possible to support our people. This included instigation of new
+working patterns, digital tools and technology. We also helped colleagues cope with some of the personal challenges the COVID-19 pandemic
+created, including offering paid leave to support self-quarantine, sickness or care for dependents, financial help with childcare and advice made
+available to help protect physical and mental health. Through our colleague surveys, we have also regularly checked in with our people to better
+understand the impact that working through the COVID-19 pandemic has had.
+Barclays continues to believe that people working together in the same physical location reinforces our culture and helps with collaboration and
+inspiration. Where possible, and in line with local government guidance, we have continued to have critical workers in offices and in our customer
+branches, and we have instigated gradual returns to the office in certain parts of the business and in certain parts of the world. In time, with the
+safety and wellbeing of colleagues as our first priority, we envisage more people will return to on-site working. In advance of this, we have already
+put in place additional measures to ensure we are COVID-secure, including risk assessments at our sites and Return to Office Crews to support
+social distancing and minimise risks.
+Over the last 12 months, we have learnt an enormous amount about the benefits and challenges of working more flexibly. Ultimately, we believe
+this will inform our ambitions for future ways of working.
+A continuous conversation with colleagues
+We think colleague engagement should be a two-way exercise, with equal weight placed on listening to our people as it is on keeping them
+informed. We want to be able to consider our colleagues’ perspective when we make decisions, including at the most senior level.
+Our regular Here to Listen and Your View surveys are a key part of how we track engagement. In 2020, in part in response to the challenge of the
+COVID pandemic, we improved the effectiveness and regularity of how we do this.
+We saw a 10 percentage point increase in the response rate to our annual Your View employee engagement survey with 72% of Barclays Bank UK
+PLC colleagues responding. The results showed an increase in Barclays Bank UK PLC engagement levels, up 5 percentage points to 81%, and an
+increase of 7 percentage points to 85% of colleagues saying they would recommend Barclays as a good place to work. We were also very pleased
+to see that our colleagues have continued their focus on customer and client feedback, with 84% of Barclays Bank UK PLC respondents responding
+favourably to this question. In addition, 96% of Barclays Bank UK PLC respondents said they believe they and their teams do a good job of role
+modelling the values every day, an increase of 3 percentage points.
+Overall, we are encouraged by our ability to work remotely in many more roles than we had previously thought possible. Our colleagues told us
+that they enjoyed having more flexibility in their lives, with 82% of Barclays Bank UK PLC respondents saying they have been able to balance
+personal and work demands, and 71% saying there is effective collaboration between teams.
+With that said, we recognise there are also areas where we need to do more. Colleague feedback indicates we have room to make our internal
+processes more user friendly, with only 62% of Barclays Bank UK PLC colleagues saying work processes make it easy for employees to be
+productive.
+We maintain an engagement approach that is in line with the UK’s Financial Reporting Council (FRC) governance requirements. This extends to
+those who work for us indirectly as well, such as contractors, although in a more limited way. As of 2020, our supplier code of conduct requires
+organisations with more than 250 employees to demonstrate that they have an effective workforce engagement approach of their own.
+The results from our surveys are an important part of the conversations our Executive Committee and Board have about our culture and how we
+run Barclays. We also update the Board and its relevant sub-committees throughout the year.
+We monitor our culture across the organisation, and in individual business areas, through culture dashboards. These combine colleague survey
+data with other metrics about our business, so wider leadership teams can identify areas of continued strength of our culture and areas of focus for
+leaders.
+In addition to these data sources, our leaders engage regularly with colleagues locally to hear what they think. Where possible this year, leaders
+visited branches to support colleagues during the COVID-19 pandemic. However, the majority of engagement activities moved to virtual forums,
+with opportunities for face to face engagement being more limited due to social distancing requirements, these included large-scale virtual town
+halls, training and development activity, mentoring, informal breakfast sessions, committee membership, ex-officio roles, diversity and wellbeing
+programmes, focus and consultative groups.
+Direct engagement, a comprehensive reporting approach and dedicated time at board meetings, helps our Board take the issues of interest to our
+colleagues into account in their decision making. This has enabled them to confirm that our workforce engagement approach is effective.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 9
+Strategic Report
+Our people and culture
+We make sure we are keeping everyone up to date on the strategy, performance and progress of the organisation through a strategic, multichannel
+approach. This combines leader-led engagement, digital and print communication, blogs, vlogs and podcasts. In response to the COVID-19
+pandemic, this year we also provided additional regular updates to colleagues to provide practical advice and support, including via a dedicated
+COVID-19 pandemic intranet-page.
+We also engage with our people collectively through a strong and effective partnership with Unite. In 2020 we worked together closely with the
+specific goal of ensuring the safety and wellbeing of our colleagues throughout the COVID-19 pandemic. Unite strongly supported the transition of
+many colleagues to homeworking, as well as the introduction of measures to protect colleagues working in our branches and offices. As we
+progress to return more colleagues to work, our union partners remain centrally involved.
+We regularly brief our union partners on the strategy and progress of the business, seeking their input on ways in which we can improve the
+colleague experience of working for Barclays. The collective bargaining coverage of Unite in the UK represents around 84% of the Barclays Group
+UK workforce and 50% of the global Barclays workforce. We consult in detail with colleague representatives on major change programmes
+affecting our people. We do this to help us minimise compulsory job losses wherever possible, including through voluntary redundancy and
+redeployment.
+Creating an inclusive and supportive culture
+Creating an inclusive and supportive culture is not only the right thing to do, but also best for our business. It creates a sense of belonging and
+value and enables colleagues to perform at their best.
+In 2020, we increased our focus on embedding a culture of inclusion and encouraged colleagues to become allies in the workplace. Through a new
+toolkit we supported them to take conscious, positive steps to make everyone feel that they belong, and develop empathy towards another group’s
+challenges or issues. In our Your View survey, 80% of Barclays Bank UK PLC colleagues told us they believe we are all in this together.
+Events last year rightly prompted organisations like ours to appraise what we have been doing to aid the fight against racism, and to ask ourselves
+whether we can do more. Over recent months, Barclays has worked extensively with its Black colleague forums to produce a Race at Work Action
+Plan. The plan comprises a thorough set of actions that will open up new opportunities to attract, develop, and add to our great Black talent, using
+data to measure success. From 2021, we will expand our plan to include all ethnically diverse groups as well as actions to enhance our long-
+standing support for citizenship programmes dedicated to tackling racial inequalities in communities, as well as support of this agenda for
+customers and clients.
+We want to become one of the most accessible and inclusive FTSE companies for all our customers, clients and colleagues. We require managers to
+give full and fair consideration to those with a disability on the basis of strengths, potential and ability, both when hiring and managing. We also
+ensure opportunities for training, career development and promotion are available to all. As part of the UK Government Disability Confident
+scheme, we encourage applications from people with a disability, or a physical or mental health condition.
+Through our BeWell programme, we continue to provide expert advice and guidance on the practical steps colleagues can take to look after their
+physical and mental health. In 2020, our Mental Health Awareness e-learning became mandatory, and we regularly check-in with managers to
+ensure they are supporting colleagues’ wellbeing. We were also one of the first businesses to sign up to the Mental Health at Work Commitment. In
+our Your View survey, 83% of Barclays Bank UK PLC colleagues told us that Barclays supports their efforts to enhance their wellbeing.
+We encourage our people to benefit from Barclays’ performance by enrolling in our share ownership plans, further strengthening their commitment
+to the organisation.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 10
+Strategic Report
+Engaging with our stakeholders
+Section 172(1) statement
+Having regard to our stakeholders in Board decision-making
+The Directors have acted in the way that they considered, in good faith, would be most likely to promote the success of the company for the benefit
+of its member as a whole and this section forms our Section 172 disclosure, describing how, in doing so, the Directors considered the matters set
+out in section 172(1)(a) to (f) of the Companies Act 2006. The Directors also took into account the views and interests of a wider set of
+stakeholders, including regulators, the UK Government and non-governmental organisations.
+Detail about Barclays Bank UK Group’s key stakeholders, how management and/or the Directors engaged with them, the key issues raised and
+actions taken can be found on pages 16 to 17 of the Barclays PLC Annual Report 2020 which is incorporated by reference into this statement.
+The Directors recognise that having a good understanding of the views and interests of the Barclays Bank UK Group’s key stakeholders will help
+them to deliver the Barclays Bank UK Group’s strategy in line with its purpose and to operate the business in a sustainable way. Consistent with its
+regulatory responsibilities, the Board also considers carefully the impact its decisions will have on the Barclays Bank UK Group’s risk and control
+environment, and on customer outcomes. Considering a broad range of stakeholders and their relative interests is an important part of the way in
+which the Board makes decisions, although in having regard to those different perspectives it is not always possible to deliver everyone’s desired
+result or necessarily achieve a positive outcome for all stakeholders.
+How does the Board engage with stakeholders?
+Depending on the decision in question, the relevance of each particular stakeholder group may differ, and equally the Board adopts a variety of
+methods of engagement with different stakeholder groups. The Board will sometimes engage directly with certain stakeholders on certain issues,
+but the number and distribution of the Barclays Bank UK Group’s stakeholders and the size of the Barclays Bank UK Group overall means that
+stakeholder engagement often takes place at an operational level. In addition, to ensure a more efficient and effective approach, certain
+stakeholder engagement is led at Barclays Group level, in particular where matters are of Group-wide significance or have the potential to impact
+the reputation of the Barclays Group.
+In addition to direct engagement with stakeholders by Board members, the Board regularly receives reports and considers and discusses
+information from across the organisation to help it understand the impact of the Barclays Bank UK Group’s operations on, and the interests and
+views of, the Barclays Bank UK Group’s key stakeholders. As a result of these activities and the information it receives, the Board has an overview of
+engagement with stakeholders, and other relevant factors, which enables the Directors to comply with their legal duty under section 172 of the
+Companies Act 2006.
+For more details on how the Board operates, and the way in which it reaches decisions, including the matters it discussed and debated during the
+year, please refer to page 17 to 26 of the Governance Report.
+Engagement in action
+The following, in the context of responding to the challenges arising from the COVID-19 pandemic, is an example of how the Directors have had
+regard to the matters set out in section 172 when discharging their duties, and the effect of those considerations in reaching certain decisions
+taken by them.
+COVID-19
+Throughout almost the entirety of 2020, as the pandemic unfurled, the primary focus of the company and the Board has been on (i) the operational
+and financial resilience of the bank to ensure the Barclays Bank UK Group has been able to maximise its support for the economy and society
+during a time of such challenge; (ii) supporting customers and clients to relieve financial pressure whilst at the same time working with the UK
+Government to deliver programmes to help businesses; and (iii) protecting the health and well-being of colleagues (the ‘COVID-19 Priorities’). The
+Board and its Committees have demonstrated leadership and oversight during the pandemic, and this continues at the date of this report. This has
+seen the Board meet, whether in person (when permitted) or by video conference calls, significantly more frequently than in previous years, in
+order to devote the time needed to address the challenges which have arisen and to provide the necessary support to customers, clients, colleagues
+and society more broadly.
+Between formal meetings, the Board has received regular updates on the implementation of the Barclays Bank UK Group’s strategy, in particular in
+relation to the Barclays Bank UK Group’s participation in UK Government schemes and its broader support for customers and clients, as well as its
+ongoing engagement with key stakeholders and the steps being taken to safeguard the health and well-being of customers and colleagues. Given
+the importance of Barclays Bank UK Group’s response to the COVID-19 pandemic and its impact on stakeholders and the economy as a whole, in
+addition to the increased Board interaction and reporting referenced earlier, the Risk Committee, on behalf of the Board, met initially fortnightly
+from March until June 2020 and, since July, on approximately a monthly basis. The Committee reviewed and monitored material risk considerations
+and issues arising during the pandemic as well as acting as a point of escalation for management. Specifically, the Committee focused on the
+COVID-19 Priorities (referenced above). The Committee escalated to the Board any material risk matters and any business decisions made by
+management which might impact the reputation of the Barclays Bank UK Group. Close co-ordination between the Chair of the Board and the
+Barclays PLC Board has also ensured an ongoing dialogue has been maintained across the Barclays Group throughout the COVID-19 pandemic,
+resulting in a more coordinated response.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 11
+Strategic Report
+Engaging with our stakeholders
+Set out below is a summary of some of the key decisions and actions the Barclays Bank UK Group has taken in response to the impact of the
+ongoing pandemic where the Board has had regard to the interests of, and impact on, affected stakeholders, including consideration of stakeholder
+engagement and feedback received.
+Customers and clients Continuing to support customers and clients has been a critical focus of the Board throughout the year.
+This has been reflected in a range of actions and decisions taken by the Board and management, including in its efforts to
+ensure a COVID-19 safe environment has been maintained for our customers and clients as well as our colleagues. This
+has been achieved through the provision of safe access to bank branches, putting in place a programme to achieve
+effective social distancing and a stringent cleaning routine. Balancing the needs of our customers and clients against
+their health and safety and that of our colleagues has been crucial and so, whilst such measures included notifying
+customers and clients of reduced opening times, we also sought to enhance our call centre facilities within the UK, in
+order to deal with increased call volumes resulting from the impact of the pandemic and the closure of operations in
+India, leading to a redeployment of technology to enable UK call centre staff to handle enquiries at home, as well as
+redeployment of some branch staff to bolster capacity. We also took steps to support vulnerable customers who were
+unable to visit a branch, and ensured that access to cash was maintained throughout the pandemic.
+In order to help relieve the financial pressure for customers and clients throughout these unprecedented times, the Board
+supported management in making appropriate adjustments to the Barclays Bank UK Group’s strategy and policies. This
+has included decisions to assist the Barclays Bank UK Group's borrowers such as the implementation of payment
+holidays, the waiver of interest and fees on overdrafts and forbearance on late payments, as well as facilitating borrowing
+under the various UK Government loan schemes.
+The rationale for these changes has been to provide breathing space for customers; to appropriately reflect the impact of
+the pandemic on customers’ income and circumstances in affordability calculations and credit decisions given the
+unprecedented uncertainty as a result of the pandemic.
+All of this has been achieved whist maintaining an appropriate risk and control environment. Through regular updates
+from the Risk Committee, Audit Committee and management, the Board has closely scrutinised the risk and control
+environment across the Barclays Bank UK Group, and ensured that the ongoing support for customers and clients during
+the pandemic has been achieved whilst continuing to adopt a robust approach to risk and control so as to maintain a
+strong capital position for the longer term. The Board has paid particularly keen attention to updates from management
+on various metrics and tools used to measure customer and client satisfaction and had been pleased to note that
+feedback on the Barclays Bank UK Group’s support during 2020 has been positive.
+The Board and senior management will continue to monitor customer and client behaviours and preferences – whether
+arising from ongoing concerns over social distancing or from a change in customer and client banking patterns, or
+greater use of on-line services rather than branch or call centre facilities - and this information will help inform the
+Board’s decisions on future strategy as it evolves to meet the long-term needs of our customers and clients.
+Colleagues The Board regards colleagues’ wellbeing as being of paramount importance throughout the pandemic.
+Together with management, the Board has sought to support colleagues both financially (in terms of preservation of
+employment by minimising job losses), and by adapting working practices across the Barclays Bank UK Group to
+minimise the risk of spreading COVID-19, including through reduced branch opening times; deep cleaning of branches,
+call centres and offices; and the instigation of a widespread regime of remote working where possible.
+In early April 2020 the Barclays PLC Group Chairman, on behalf of the Barclays PLC Board, announced the launch of the
+Barclays Group’s COVID-19 Community Aid Package totalling £100m and, in addition, colleagues across the Barclays
+Bank UK Group have also made a considerable contribution towards charitable giving during the year – much of this has
+been provided by way of personal donations and salary sacrifices. In this way colleagues have been able to support
+charities of their choice, local to their homes or places of work and which are working to support communities impacted
+by the COVID-19 pandemic. The Barclays PLC Board approved the Barclays Group making a £50m commitment to
+match-fund these colleague contributions.
+Colleague surveys have been conducted on a number of occasions throughout the year in order to maintain ongoing
+engagement and gather feedback, and reported to the Board. The Board has been pleased to note that the results of
+these surveys confirmed a high degree of satisfaction among colleagues with the measures being taken to ensure their
+wellbeing; and a strong sense of engagement through the matched funding for charities local to them and chosen by
+them as recipients of such funding.
+In addition to the colleague surveys and regular updates from management, members of the Board have continued to
+engage with colleagues in a variety of ways throughout the pandemic. These included holding virtual town halls,
+interactive video call sessions, virtual meetings with representatives of employee resource groups and visits to branches,
+where possible. Further details on colleague engagement is set out on pages 9 and 10 in the Strategic Report.
+The Board has also ensured that colleagues have been provided with the necessary tools to enable the shift to remote
+working, including by the provision of increased technological support, laptops and other home office equipment and
+human resources support. Recognising the additional pressures and challenges faced by colleagues as a result of the
+pandemic, the Board has overseen support initiatives including paid leave to support self-quarantine, sickness or care for
+dependents, financial help with childcare and support services and helplines for colleagues, to help protect physical and
+mental health and wellbeing. Further information is set out on pages 9 and 10 of the Strategic Report.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 12
+Strategic Report
+Engaging with our stakeholders
+In assessing the Barclays Bank UK Group’s future strategy, the Board will take into account the lessons learnt during the
+pandemic and, in particular, will monitor changes in customer and client banking patterns and the ability of colleagues to
+provide services through remote working, in order to assess whether these changes could be adopted in the longer term
+so as to provide greater flexibility in terms of working practices for colleagues once the pandemic is over.
+Society From the outset of the pandemic, the Board has encouraged management to ensure that the Barclays Bank UK Group, as
+a key bank in the UK, strives to operate responsibly in supporting the wider community in dealing with the current
+unprecedented medical and economic crisis caused by COVID-19, and in preparing for recovery in its aftermath.
+In particular, the Board has focused on the need for the economy to be supported; and has taken a particularly keen
+interest in the regular updates provided by management as to the Barclays Bank UK Group’s efforts in this regard.
+In addition, set out in the ‘colleagues’ section above and on page 43 of the Barclays PLC Annual Report 2020, are details
+of the COVID-19 Community Aid package launched by Barclays Group in April 2020. We have and continue to work with
+some of the UK’s leading charities to bring immediate relief to vulnerable people and communities hardest hit by the
+social and economic hardship caused by the pandemic.
+We have also continued to engage with local communities throughout the pandemic, to understand their needs and
+develop alternative solutions to enhance the provision of our services where possible, including by working closely in
+communities across the UK to help them access and feel confident in using our digital services through our team of
+Barclays Digital Eagles.
+The Board is pleased to note that external feedback has been very positive in relation to the Barclays Bank UK Group’s
+support of society both through the maintenance of its financial services and the delivery, as part of the Barclays Group,
+of the Community Aid Package.
+The Board is committed to develop its future strategy so as to continue this support and engagement with local
+communities and society more broadly through the remainder of the pandemic and its aftermath during 2021.
+Investors The Board is committed to achieving sustainable returns for our shareholder, Barclays PLC, and in turn its investors over
+the long-term.
+Taking into consideration the importance to our shareholder, and its investors more broadly, of the long-term security
+and soundness of the Barclays Bank UK Group and the preservation of its balance sheet, the Board encouraged
+management to ensure that lending decisions would continue to be taken prudently throughout the pandemic,
+notwithstanding the drive to provide increased support to our customers and clients. This has also been reflected in the
+Risk Committee monitoring closely any changes to relevant risk limits and financial products. In addition, in order to
+preserve capital for use in servicing Barclays Bank UK Group’s customers and clients though the challenges imposed by
+COVID-19, the Board decided that, despite the short term impact on Barclays PLC, it was right and prudent not to pay an
+interim dividend to Barclays PLC in 2020. The Board is pleased to end the year with a strong capital position.
+The Board considers engagement with its shareholder as being critical to its understanding of the Barclays Group’s
+strategy, and the Barclays Bank UK Group’s role in it, and ultimately of Barclays PLC’s investors’ views. Such engagement
+is achieved in a variety of ways, including the Barclays PLC Group Chairman, Chief Executive and other Barclays Group
+Executive members attending, by invitation, certain Board meetings, to update on Barclays Group matters, as well as
+providing Board members with the opportunity to engage and ask questions to better understand the shareholder view
+and Barclays Group context. In addition, the Barclays Bank UK PLC Chair’s position on the Barclays PLC Board ensures the
+views of the Barclays Bank UK Group are represented. This engagement model will continue in 2021 and beyond.
+Crawford Gillies
+Chair – Barclays Bank UK PLC
+17 February 2021
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 13
+Governance
+Chair’s introduction
+I am very pleased to present our Governance Report for 2020. This is my first report, following my appointment as Non-Executive Director and Chair
+of the Board on 1 January 2021, subsequent to Sir Ian Cheshire stepping down from the Board on 31 December 2020.
+On behalf of the Board, and as a member of the Barclays Board, I thank Sir Ian for his hard work and significant contribution to the Barclays Group
+over the last four years, notably in overseeing the successful set up of Barclays Bank UK PLC’s (the ‘Company’) independent board and governance
+structure, as a ring-fenced bank. I am excited to have joined the Board and very much look forward to working with my Board colleagues and
+management in the months and years ahead. Sir Ian will remain on the Barclays Board until its Annual General Meeting (‘AGM’), in May 2021,
+providing support, where required, to ensure my smooth transition into the role.
+Response to the COVID-19 pandemic
+This extraordinary year, and specifically the COVID-19 pandemic, has underlined the importance of the Company’s purpose in everything we do and
+demonstrated the Barclays Group’s continued commitment to customers and clients, our colleagues, society and Barclays’ investors. As the pandemic
+unfurled, the Company’s priorities, and in turn the Board’s priorities, were clear with the need to focus on three things: (i) the operational and financial
+resilience of the bank to ensure we were able to maximise our support for the economy and society during a time of such challenge; (ii) supporting
+our customers and clients to relieve financial pressure whilst at the same time working with the UK Government to deliver programmes to help
+businesses; and (iii) protecting the health and well-being of our colleagues. The Board and its Committees have played a key role in overseeing
+delivery against these priorities.
+The key highlights in respect of our response to the pandemic are included on page 3 of the Strategic Report and further detail on the support we
+have given to our stakeholders can be found in the section 172 statement on page 11 of the Strategic Report.
+Purpose, values and culture
+Reflecting on learnings from 2020, the Barclays Group has refreshed its purpose and values to ensure that it is relevant in today’s world and operating
+environment. Barclays commitment now is to “deploy finance responsibly to support people and businesses, acting with empathy and integrity,
+championing innovation and sustainability, for the common good and the long term”. The events of this year have reaffirmed the Board’s view that
+a strong purpose and clear values are an essential foundation for delivery for all stakeholders. The Board will continue to play a key role in 2021 and
+beyond, in ensuring that behind the headline, this real sense of purpose is deeply embedded in the way the organisation takes decisions.
+The Board has continued to focus on ensuring an inclusive and supportive culture is embedded into the organisation. This remains not only the right
+thing to do but a culture that creates a sense of belonging and value and enables colleagues to perform at their best, is good for our business. The
+events of 2020 prompted the Barclays Bank UK Group to appraise its culture, and details of this are on pages 9 to 10 of the Strategic Report. In respect
+of diversity, the Board has, and will continue to focus on the Company’s Diversity and Inclusion (‘D&I’) agenda; key developments in the year included
+a refresh of the D&I Council and the development of a 2020 Inclusion Index, to ensure we truly measure how colleagues feel. For further detail on
+how the Board monitors the culture of the organisation, please see page 10 of the Strategic Report.
+The Board has increased its focus on Sustainability and the Citizenship agenda. In respect of Sustainability, the Board fully supports the Barclays
+Group’s strategic ambition to be a net zero bank by 2050 and to support its clients’ transition to a low carbon economy. The Board will continue to
+engage on and oversee the Barclays Bank UK Group’s commitments to achieve this ambition in the years ahead. Whilst the Board is reassured by the
+commitments made, there remains much to do in 2021 and beyond. Further detail on the UK initiatives in respect of both Sustainability and Citizenship
+can be found on page 4 and 10 of the Strategic Report and separately on pages 32 to 43 of the Barclays PLC Annual Report 2020.
+Transformation
+The value of the Barclays Group strategy as a British universal bank, and the benefits of diversification were demonstrated this year as the Barclays
+Group ended the year profitably with a strong capital and liquidity position. However, the COVID-19 pandemic and its economic consequences, as
+referenced in the Strategic Report, has brought the structural changes required in the UK retail banking market into sharper focus, leading to a need,
+and the opportunity, for transformation of the business. During the year, the Board has played, and will continue to play, a key role in overseeing the
+development of the transformation plan, designed to restore the Barclays Bank UK Group to a position of strong and sustained profitability (with the
+support of the Barclays Group) through further digitalisation and the delivery of improved propositions and services for consumers and small
+businesses. Further detail on the Barclays Bank UK Group’s strategy can be found in the Strategic Priorities section on page 1 of the Strategic Report
+and the Board’s role in development and oversight of execution of the strategy on page 18.
+Risk and control
+As referenced above, the Board, in conjunction with the Risk Committee, has played a key role in overseeing the actions taken by management, in
+response to the COVID-19 pandemic, to help our customers and ensure fair outcomes whilst protecting the financial resilience of the bank and the
+wellbeing of our colleagues, particularly those designated as key workers. In addition, the Board, in conjunction with the Risk Committee, continues
+to oversee the operational impact of the UK’s departure from the European Union with a key area of focus in 2020 being the Barclays Bank UK Group’s
+readiness for Brexit.
+The Risk Committee has continued to review on a regular basis conduct risk matters, including oversight of execution of key customer remediation
+programmes, operational resilience (with fraud and scam risk heightened during the pandemic), and the effectiveness of risk management and
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 15
+Governance
+Chair’s introduction
+internal control systems. The Audit Committee, in addition to its usual matters, has spent considerable time on the control environment, in particular
+changes arising from remote working, as well as on topics including data usage and governance.
+Governance matters
+In respect of Board composition, in late 2020, in line with the Barclays Group’s plans for orderly succession and ensuring that board composition
+addresses the ongoing needs of the Company, the Nominations Committee led a formal and transparent Chair succession process. This followed
+notification from Sir Ian of his plan to step down as Chair and from the Board of the Company at the end of 2020, due to being unable to accommodate
+the increased time commitment and tenure duration required to see through the transformation programme. Further detail on the Chair succession
+process is set out on page 21 of this report. This process culminated in the Nominations Committee’s recommendation to the Board of my
+appointment; such appointment was approved (subject to regulatory approval), and became effective on 1 January 2021. There have been no other
+changes as regards Non-Executive Directors during the year.
+We continue to believe an effective Board is a cohesive Board, which provides informed and constructive challenge to the management team. We
+continue to assess the effectiveness of the Board, via routine evaluations. An internal evaluation was undertaken in 2020, the conclusion of which
+was that the Board was operating effectively, and has done so specifically during the pandemic, with the Board priorities clarified in 2019, as
+referenced in last year’s report, continuing to help to better inform and prioritise the Board agenda. We continue to focus on embedding and
+strengthening our governance arrangements.
+Looking ahead
+Notwithstanding the positive progress being made on the medical front, with a vaccination programme well underway, the impact of the COVID-19
+pandemic will continue to be felt by the economy, our customers and our colleagues for some time to come. We will take the learnings of 2020
+regarding the Company’s strengths, values and resilience to not only support our stakeholders through this continued period of challenge but also
+to continue to innovate and leverage the new operating flexibility in delivery of the transformation plan.
+Finally, I would like to thank all colleagues, many of whom are designated as key workers, for their extraordinary contribution in 2020 and for
+continuing to deliver for customers in exceptionally challenging circumstances, and management and my fellow Board colleagues for their significant
+commitment and hard work throughout 2020.
+Crawford Gillies
+Chair – Barclays Bank UK PLC
+17 February 2021
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 16
+Governance Report
+Corporate Governance Statement
+The Board
+Welcome to our Board. The Directors who served during the year ended 31 December 2020 and up to the date of signing this report are set out in
+the table below, together with the composition of each of the Board’s Committees.
+Board Audit Committee Risk Committee Remuneration Nominations
+Committee Committee
+Sir Ian Cheshire C C
+Chair of the Board (resigned 31 December 2020)
+Independent Non-Executive Director
+Crawford Gillies* C C
+Chair of the Board (appointed 1 January 2021)
+Independent Non-Executive Director
+Michael Jary M M C M
+Independent Non-Executive Director
+Andrew Ratcliffe M C M M
+Independent Non-Executive Director
+David Thorburn M M C M
+Independent Non-Executive Director
+Avid Larizadeh Duggan M M M**
+Independent Non-Executive Director
+Kathryn Matthews M M
+Independent Non-Executive Director
+Chris Pilling M M M
+Independent Non-Executive Director
+Sir John Timpson M M M
+Independent Non-Executive Director
+Matt Hammerstein M
+Chief Executive
+James Mack M
+Chief Financial Officer (appointed 3 February 2020)
+Rupert Fowden M
+Chief Financial Officer (resigned 2 February 2020)
+C Chair of Board or Committee
+M Member of Board or Committee
+* Subject to regulatory approval from the Financial Conduct Authority and the Prudential Regulation Authority in relation to his position as both Chair and Chair of the Nominations Committee
+** Since 11 September 2020
+The Board has high standards of corporate governance and, as explained last year, we have chosen not to adopt and report against the 2018 UK
+Corporate Governance Code, as this is designed for premium listed companies. Whilst we fully supported the introduction of the Wates Corporate
+Governance Principles for Large Private Companies (in particular the focus on purpose, culture and employee and stakeholder engagement), we
+continue to feel they are less appropriate for a wholly-owned subsidiary of a premium listed company which is also a complex financial institution
+subject to a comprehensive regulatory regime. We have therefore continued to adopt our own corporate governance principles and arrangements
+which we believe are most appropriate for the Company, and are designed to ensure effective decision-making to promote the Company’s success
+for the long term.
+Our primary aim, as reported last year, is that our governance arrangements:
+ are effective, in particular to ensure the safety and soundness of the ring-fenced bank
+ provide checks and balances and encourage constructive challenge
+ drive informed, collaborative and accountable decision-making
+ create long-term sustainable value for our shareholder Barclays, the ultimate shareholders of Barclays and our wider stakeholders.
+Below is a table setting out the governance principles which underpin our corporate governance arrangements. We have also explained how these
+principles have been applied during 2020 on pages 17 to 26. Certain additional information, signposted throughout this section, is available in the
+Strategic Report.
+The Barclays Bank UK Group governance framework is set by Barclays and has been designed to facilitate the effective management of the Barclays
+Group. This includes the setting of Barclays Group policies in relation to matters such as Barclays’ values, Barclays’ Remuneration Policy and the
+Barclays’ Charter of Expectations. Where appropriate, this Corporate Governance Statement makes reference to those Barclays Group policies which
+are relevant to the way in which the Company is governed.
+Our corporate governance principles
+Principle One: Board Leadership and Company Purpose Principle Two: Division of Responsibilities
+A successful company is led by an effective and entrepreneurial Board An effective Board requires a clear division of responsibilities with the
+whose role is to establish the company’s purpose, values and strategy, Chair leading the Board and being responsible for its overall
+aligned to its culture, and make decisions to promote its success for the effectiveness, and the executive leadership of the company’s business
+long term benefit of its shareholder, having regard to the interests of being delegated to the Chief Executive. The Board should consist of an
+other relevant stakeholders and factors. appropriate combination of executive and independent Non-Executive
+Directors each with a clear understanding of their accountability and
+responsibilities. The Board’s policies and procedures should support
+effective decision-making and independent challenge.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 17
+Governance Report
+Corporate Governance Statement
+Principle Three: Composition, Succession and Evaluation Principle Four: Audit, Risk and Internal Control
+A Board with the right balance of skills, experience and diversity is The Board should establish formal and transparent policies and
+critical to the sustainable delivery of value to the company’s procedures to: (i) identify the nature and extent of principal risks the
+shareholder and broader stakeholders. The size of the Board should be company is willing to take in order to achieve its long-term strategic
+guided by the scale and complexity of the company and appointments objectives; (ii) manage such risks effectively; (iii) oversee the internal
+should be based on merit and objective criteria and with a view to control framework; (iv) promote the independence and effectiveness of
+promoting diversity and subject to a formal, rigorous and transparent Internal and External Audit functions; and (v) satisfy itself on the
+procedure which is underpinned by an effective succession plan for the integrity of financial reporting.
+Board and senior management. A successful Board is a cohesive Board
+that provides informed and constructive challenge to the management
+team and measures its effectiveness.
+Principle Five: Remuneration Principle Six: Stakeholder Relationships and Engagement
+The remuneration policies and practices should support strategy and Directors should foster effective stakeholder relationships aligned to
+promote long-term sustainable success, and be developed in the company’s purpose. The Board should recognise the importance of
+accordance with formal and transparent procedures, ensuring no listening to, and understanding the views of its stakeholders, including
+Director is involved in deciding their own remuneration outcome. the workforce, and specifically the impact of the company’s behaviour
+Executive remuneration should be aligned to the company’s purpose and business on customers and clients, colleagues, suppliers,
+and values and the successful delivery of the strategy; with outcomes communities and society more broadly; having regard to these views
+taking account of company and individual performance, and wider and impact when taking decisions.
+circumstances such as pay across the company’s workforce and
+Barclays’ Fair Pay agenda.
+How we applied our corporate governance principles in 2020
+Principle One: Board Leadership and Company Purpose
+The Board
+The Board is responsible for the overall leadership of the Company and is also responsible for setting the Company’s strategic direction and
+creating and articulating a clear vision based on Barclays values; this ultimately ensures that the business is able to take decisions and operate
+independently, and is run in a way that promotes the long term success of the Company, creating and delivering sustainable value. A central role
+of the Board is the development and execution of a strategy for the Barclays Bank UK Group and the continued evolution of a robust corporate
+governance framework that embeds the right culture, values and behaviours throughout the Barclays Bank UK Group. This framework ensures
+that the business maintains an effective system of internal, financial, legal and regulatory controls designed to support the reputation of the
+business and mitigate financial and other risks. For further details on risk management and internal control, please see pages 23 to 25. As the
+Board of a ring-fenced entity, the Board must ensure the Company is managed to meet the obligations and objectives of the ring-fencing
+requirements, with independent decision-making where appropriate.
+Purpose, strategy and culture
+Given the impact of the global COVID-19 pandemic, the Company’s purpose in supporting our customers and clients, colleagues, society and
+Barclays investors, has been of particular significance this year. Key highlights of the support given to our stakeholders are set out fully in the
+Strategic Report and summarised in the Chair’s introduction.
+Separately, as referenced in the Chair’s introduction, reflecting on learnings from 2020, a truly extraordinary year, the Barclays Group has refreshed
+its purpose and values to ensure that they are relevant in today’s world and operating environment. Key to building a sustainable bank is the need
+for Barclays Bank UK Group to continue to support customers and businesses, acting with empathy and integrity. The Board continues to believe
+that a strong purpose and values ensures delivery for all stakeholders. In this regard, a key area of focus for the Board in 2020 has been to continue
+to ensure an inclusive and supportive culture is embedded in the organisation to enable colleagues to make the right decision in any given situation.
+Specifically, the events of 2020 prompted the Barclays Group to reflect on its fight against racism, developing a Race to Work Action Plan, with
+clear executive ownership. This forms part of the Company’s D&I agenda, for which the Board has exercised close oversight; receiving
+presentations directly from the D&I Council on progress made and those areas for continued focus. The development of a 2020 Inclusion Index
+(as referenced in the Strategic Report) has further supported the Board in assessing how colleagues truly feel.
+The Board has continued to measure cultural progress via regular review of the Culture dashboard and oversight on colleague engagement via
+the ‘Here to Listen’ and ‘Your View’ surveys (undertaken with increased frequency during the pandemic). Further details can be found on pages 9
+and 10 of the Strategic Report and separately on pages 32 to 37 of the Barclays PLC Annual Report 2020.
+As set out in the Chair’s introduction, COVID-19, and its economic consequences, has brought the structural changes required in the UK retail
+banking market into sharper focus; leading to a need and opportunity for transformation of the UK business. During the year, the Board has played,
+and will continue to play, a key role in overseeing the development of the transformation plan designed to restore the Barclays Bank UK Group to
+a position of strong and sustained profitability (with the support of the Barclays Group) through further digitalisation and the delivery of improved
+propositions and services for consumers and small businesses. The Board will monitor closely execution of the strategy in 2021 and beyond.
+Further detail on the Barclays Bank UK Group’s strategy including its three strategic priorities can be found on page 1 of the Strategic Report and,
+as to the Board’s role in development and oversight of execution of this strategy, on page 20.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 18
+Governance Report
+Corporate Governance Statement
+Board role, resources and commitment
+The Board and its Committees have demonstrated leadership and oversight during the pandemic, and this continues as at the date of this report.
+Some of the key steps the Board has taken include an increased frequency of Board and, in particular, Risk Committee meetings (all held virtually),
+the introduction at the height of the pandemic of exception reporting, via weekly emails, to the Board on colleagues, customers, operational
+resilience, financial and other matters to aid their oversight responsibilities and support management in responding in a timely manner to a
+continually evolving environment. In addition to this, the Board has ensured consideration of all stakeholders in its decision making. Further detail
+on the Company’s stakeholders and the steps taken in relation to our stakeholders is set out in the Strategic Report starting on page 11.
+In the ordinary course, the Board is also responsible for ensuring that the necessary resources are in place to enable objectives to be met and that
+performance is measured against them. The Board receives regular and timely information on all key aspects of the business including financial
+performance, strategy, operational matters, risks, opportunities, customers and conduct matters, all supported by key performance indicators.
+The Board maintains a formal schedule of powers reserved for it to ensure control over key decision-making. These include approval over key
+appointments, strategy, financial statements and any major acquisitions, mergers or disposals.
+Expectations of each Director are set out in Barclays’ Charter of Expectations. This includes role profiles and the behaviours and competencies
+required for each role on the Board, namely the Chair, Non-Executive Directors, Executive Directors and Committee Chairs. In accordance with the
+Charter of Expectations, Non-Executive Directors provide effective oversight and scrutiny, strategic guidance and constructive challenge whilst
+holding the Executive Directors to account against their agreed performance objectives.
+Non-Executive Directors time commitment and conflict
+Non-Executive Directors, including the Chair, are informed of the minimum time commitment required prior to their appointment and they are
+required to devote sufficient time to the Company to effectively discharge their responsibilities. A Non-Executive Director’s preparation for, and
+attendance at, Board and Committee meetings is only part of their role. As stated above, COVID-19 led to a significant increase in Board and
+Committee engagement (including formal meetings attended by Non-Executive Directors) and a significant investment of additional time outside
+of these meetings by Non-Executive Directors to support management’s response to the pandemic and ensure all business and operational
+matters were monitored in a timely fashion and remained within risk appetite. As one would expect at a time of crisis, our Non-Executive Directors
+went above and beyond their core role and responsibilities, providing leadership, crisis management expertise and experience, and challenge and
+support of management.
+The time commitments of Directors are considered by the Board on appointment and are reviewed annually. External appointments must be
+agreed with the Chair and disclosed to the Board, before appointment, with an indication of the time involved. During the year the Nominations
+Committee kept under review the number of external directorships held by each Director and considered the limits on the number of directorships
+imposed by relevant regulations. Following this year’s review, the Board is satisfied that there are no Directors whose time commitment is
+considered to be a matter for concern.
+In accordance with the Companies Act 2006 (the ‘Act’) and the Articles of Association, the Board has authority to authorise conflicts of interest,
+and this ensures that the influence of third parties does not compromise or override the independent judgement of the Board. The Company
+Secretary maintains a conflicts register, which is a record of actual and potential conflicts, together with any Board authorisation of the conflict.
+What the Board did in 2020
+This year has been an extraordinary and challenging year in supporting our customers and clients, colleagues and communities through the health
+and economic impact of COVID-19 and overseeing the acceleration of the Barclays Bank UK Group’s customer focused strategy to deliver a better
+and more digital bank for consumers and small businesses.
+In respect of strategy, as referenced in the Chair’s introduction, whilst the Board has been encouraged by the progress made there is more to be
+done in 2021 and beyond to ensure the Barclays Bank UK Group returns to a position of strong and sustained profitability.
+The Board continued to monitor the ring-fence perimeter of the Barclays Bank UK Group to ensure ongoing compliance with the ring-fencing
+requirements.
+During 2020, the principal activities of the Board included:
+Strategy and operational matters
+ Evolution and acceleration of the Barclays Bank UK Group’s strategy in response to the structural changes required in the UK retail banking
+market and specifically the economic and operational consequences of COVID-19 and reviewing progress against the same
+ Oversight of further changes to the organisational structure to support execution of the strategy and transformation plan
+ Receiving updates on the market and operating environment (including the potential for negative interest rates), new developments in UK
+banking, the evolving regulatory landscape and the impact of FinTechs on market disruption and changing customer behaviours
+ Endorsement of the Barclays Group purpose and values, refreshed to ensure relevance in today’s world, and ensure continued delivery for all
+stakeholders going forward
+ An increased focus on and receiving regular updates in respect of culture, workforce engagement and wellbeing (particularly in supporting
+colleagues needs during the pandemic)
+ Oversight of commercial, financial, customer, operational, risk and regulatory matters, with regular updates from the Chief Executive and
+Executive Committee members and, as referenced earlier, increased reporting on operational matters at the height of the pandemic
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 19
+Governance Report
+Corporate Governance Statement
+ In conjunction with the Risk Committee, oversight of the implementation of the initiatives required to relieve financial pressures of customers,
+ensuring appropriate customer outcomes and delivering the support programmes to businesses. This oversight extended to responding to
+operational challenges and ensuring operational capacity, particularly in financial assistance, to meet our customers’ needs
+ Oversight, in conjunction with the Risk Committee, of the Barclays Bank UK Group’s readiness for the UK’s departure from the European
+Union and execution of our strategy to ensure compliance with current requirements in European Economic Area (EEA) jurisdictions
+ Receiving updates on key strategic projects, including those strengthening the customer’s digital and integrated product experience; for
+example, the launch of the ‘Plan and Invest’ platform, a digitally delivered advice and investment offering for current account customers in
+the UK and the development of the digital journey for CBILS and BBLS clients
+ Receiving updates on sustainability (including climate change agenda and initiatives).
+Finance (including capital and liquidity)
+ Discussed and approved the Barclays Bank UK Group’s Medium Term Plan (‘MTP’), in which strategy is embedded, together with related
+funding and capital plans for the Barclays Bank UK Group
+ Oversight of the financial performance of the Barclays Bank UK Group and its main businesses through regular reports from the Chief
+Financial Officer
+ On recommendation of the Audit Committee, approval of the Barclays Bank UK Group’s full year and half year financial statements and
+approval and declaration of a 2019 full year dividend
+ Approval, in the first quarter of 2020, on the recommendation of the Risk Committee, of the Internal Capital Adequacy Assessment Process
+(‘ICAAP’) and the Internal Liquidity Adequacy Assessment Process (‘ILAAP’). The Risk Committee, pursuant to a delegation from the Board,
+approved refreshed versions of the ICAAP and ILAAP in the final quarter of 2020, to reflect the impact of COVID-19 on capital and liquidity
+requirements.
+Governance, risk and regulatory matters
+ Approval, on the recommendation of the Risk Committee, of the Company Risk Appetite Statement and oversight of risk parameters
+ Oversight of key risk matters including themes and emerging risks, via a regular report and attendance at Board by the Chief Risk Officer
+ Oversight of the Barclays Bank UK Group’s operational and technology capacity, including updates on cyber risk and operational resilience
+ Oversight of the extensive changes required operationally in response to COVID-19 for colleagues to adapt to remote working and/or adhere
+to social distancing requirements as well as the significant increase in operational demands in order to support customers and clients at a
+time of financial hardship
+ Oversight of the services received from Barclays Execution Services Limited, the Barclays Group services company
+ Oversight of Barclays Bank UK Group’s internal controls framework, via regular updates from the Company’s Chief Controls Officer
+ On the recommendation of the Nominations Committee, approval of the new Chair appointment and separately appointment of a Non-
+Executive Director to a Board Committee
+ Receiving regular updates from the Chairs of Board Committees, Chair of the Barclays Investment Solutions Limited Board and Chair of the
+Barclays Insurance Services Company Limited (the Company’s material subsidiaries) on matters discussed at meetings
+ In conjunction with the Nominations Committee, oversight of the 2020 Board, Committees and Non-Executive Director evaluation reviews.
+During 2020 the Board regularly held deep dive and briefing sessions with management on key areas of strategic focus. Deep dives provide
+Directors with deeper insight and understanding of a subject matter to help drive better quality of debate and enhance knowledge. In 2020 topics
+included various business areas impacted directly or indirectly by COVID-19, emerging risks and regulatory trends, operational security,
+technology architecture, data and operational resilience, the Barclays Group’s sustainability approach, the Company’s relationship with Unite,
+components of the transformation plan (including customer strategy, colleague wellbeing and culture. There were a number of joint briefings
+held with the Risk Committee on pertinent topics, including capital risk appetite. More information can be found in the Risk Committee overview
+on pages 24 and 25. Additionally, deep dives are included on a typical Board meeting agenda, and in 2020, aligned with the 2019 approach,
+elements of the strategy were considered at every meeting, rather than at set times each year. The Board will continue to enhance its education
+and training proposition in 2021, including participation by the Non-Executive Directors in the Barclays bi-annual training deep dives.
+Principle Two: Division of Responsibilities
+There is a clear division of responsibilities between the Chair and Chief Executive. The Chair is responsible for leading the Board and its overall
+effectiveness, demonstrating objective judgement and promoting a culture of openness and constructive debate between all Directors. The Chair
+also facilitates constructive Board relations and the effective contribution of all Non-Executive Directors and ensures Directors receive accurate,
+clear and timely information. The duties of the Board are executed in part through Board Committees, which provide oversight and make
+recommendations on the matters delegated to them by the Board. The Chairs of each Board Committee provide a report on Committee business
+at each Board meeting, including the matters being recommended by a Committee for Board approval. Details on the principal Committees and
+their core responsibilities and activities in 2020 are set out in principles 3 to 5 on pages 21 to 26. Overall, the importance of Board committees has
+never been more pertinent given the onset of a global pandemic. The Risk Committee and Audit Committee have played a crucial role in helping
+to manage risk and maintain sound systems of internal control. Further detail on their role is set out under Principle Four: Audit Risk and Internal
+Control on pages 23 to 25. Responsibility for the day-to-day management of the Company is delegated to the Chief Executive who is supported
+by the Company’s Executive Committee.
+Executive and Non-Executive Directors share the same statutory duties and are subject to the same constraints. Appropriate information and
+support is provided to the Board to enable them to undertake their work with due care, ultimately to discharge their responsibilities.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 20
+Governance Report
+Corporate Governance Statement
+Executive Committee
+Executive Committee membership includes the Chief Financial Officer, Chief Risk Officer, Chief Operations Officer, Heads of Customer, Channels
+and Product, Heads of Business Banking and Wealth and Investment Management, and the leaders of, Human Resources, Legal and Compliance.
+The Executive Committee meets weekly and is chaired by the Chief Executive. The Executive Committee supports the Chief Executive in ensuring
+that the values, strategy and culture align, and that those elements are implemented and communicated consistently to colleagues – for example
+through regular leadership team conferences, roadshows (both of which have operated virtually throughout the pandemic) and communications
+that are available to all colleagues – further details are set out on pages 9 to 10 of the Strategic Report. Policies and protocols are in place to
+support effective decision-making and independent challenge including: the Barclays Group’s corporate governance manual setting out clearly
+how the Barclays Group entities and their respective Boards and Board Committees should interact, and the Barclays’ Charter of Expectations,
+which sets out clearly the role and responsibilities of each Director.
+Principle Three: Composition, Succession and Evaluation
+We continue to consider the size and composition of the Board to be appropriate for a large UK retail bank. This assessment is supported by a
+skills matrix (refreshed annually) which helps us to continually review and assess the skills and experience we have on the Board to ensure the
+necessary knowledge and expertise to support and challenge management in its execution of our strategy. A good balance exists between
+Executive and independent Non-Executive Directors who bring independent challenge, a strong combination of technical, finance (including
+significant financial services experience), retail and audit skills and broader experience in culture, colleague engagement and technology. Overall,
+the majority of the Board are independent Non-Executive Directors and the independence of our Non-Executive Directors is considered annually,
+using the independence criteria set out in the ring-fencing requirements. The Chair meets privately with the Non-Executive Directors prior to each
+scheduled Board meeting and on other occasions to promote required independence.
+The Board regularly reviews the leadership and succession needs of the business. These robust succession planning procedures help the Board to
+understand the depth and diversity of talent from the Board and Executive Committee down. As referenced in the Chair’s introduction, in late
+2020, in line with Barclays Group’s plans for orderly succession and ensuring that board composition addresses the ongoing needs of the Barclays
+Bank UK Group, the Board, on the recommendation of the Nominations Committee, approved the appointment of Crawford Gillies as Chair of the
+Board and Chair of the Nominations Committee (subject to regulatory approval), such appointment taking effect on 1 January 2021. This followed
+Sir Ian Cheshire stepping down from the Board on 31 December 2020 due to being unable to accommodate the increased time commitment and
+duration required to see through the transformation programme. Sir Ian Cheshire is to remain on the Barclays Board until the AGM in May 2021
+to help ensure a smooth Chair transition. Crawford Gillies’ significant experience, knowledge and skills developed in a long career in business
+transformation and as a very experienced Non-Executive Director, together with his deep knowledge of the Barclays Group including the Barclays
+Bank UK Group (having served as a Non-Executive Director of Barclays since 2014) position him well for the Chair role.
+Separately a number of changes were made to the Executive Committee during the year, further strengthening the leadership and capability to
+support the transformation and execution of the strategy against the backdrop of a challenging economic and operating environment. Board
+succession planning and talent and succession both at the Executive Committee level and one level down will remain a key focus for 2021 and
+beyond to ensure the appropriate breadth and depth of talent within the organisation.
+Accountability is driven through routine evaluations of the Board and its Committees. The Board, in conjunction with the Nominations Committee,
+has during the year reviewed its progress against the recommendations arising from the external Board evaluation undertaken in 2019 and the
+internal Board Committee evaluation undertaken that year, and was pleased with the progress made. In 2020, an internal evaluation of the Board
+and Board Committees, led by the Chair at that time and the Company Secretary, together with the Non-Executive Director reviews (including the
+Chair) has been concluded, relating to 2020 activity. Review of the Board performance against the key Board priorities referenced in last year’s
+Chair Introduction, has been a consideration in the 2020 internal evaluation exercise. Key findings are summarised on pages 22.
+Nominations Committee
+The Board has in place a Nominations Committee which comprises independent Non-Executive Directors (see page 17). Meetings are attended
+by the Chief Executive and the Human Resources Director, at the invitation of the Chair.
+The principal role and responsibilities of the Committee are set out in its terms of reference and include:
+ Skills and Diversity - to evaluate the balance of skills, knowledge, experience and diversity for the Board and more broadly across the
+senior management of the business
+ Director Appointments - to identify, and recommend to the Board, candidates for appointment to the Board and its Committees
+ Director Independence - to consider and assess the independence of the Non-Executive Directors, including recommendations for
+any steps to manage conflicts or potential conflicts of interest
+ Board Performance - to assess the performance of the Non-Executive Directors and their annual time requirements
+ Board Evaluation - to consider any actions, from the Company’s Board evaluation process, that relate to the composition of the Board
+or Committees
+ Board Development – to lead the development and effective implementation of policies and procedures for the induction, training and
+professional development of all members of the Board
+ Talent - to oversee the adoption of internal policies and talent progression for senior management.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 21
+Governance Report
+Corporate Governance Statement
+During 2020, the Committee’s principal activities were:
+ Review of the Board’s composition, including skills and experience of Board members, time commitments and the independence of
+the Non-Executive Directors (excluding the Chair)
+ Review of the Committee’s own diversity resulting in a recommendation to appoint an additional Non-Executive Director to its
+membership to ensure a broader representation of views and perspectives
+ On a bi-annual basis, review of the Company’s talent and succession plans at Executive Committee and one level below
+ Monitoring of the Board’s progress against the Barclays Group Diversity Policy
+ On behalf of the Board, review and monitoring of the Company’s progress against its D&I agenda, including receiving a report from
+the D&I Council and review of the Race at Work action plan developed in response to the events in 2020 prompting Barclays and
+other organisations to challenge themselves to do more in the fight against racism
+ Leading, on behalf of the Board, the Chair succession process, following notification from Sir Ian Cheshire of his plan to step down as
+Chair and from the Board at the end of 2020. As part of the robust process, the Committee approved: a description of the role and
+capabilities required for the position of Chair; the process regarding the recommendation and appointment of a new Chair
+(considering all options available for Chair succession); culminating in the recommendation to the Board of the appointment of
+Crawford Gillies
+ Appointment of James Mack, Chief Financial Officer, who joined the Board, as reported in the Company’s 2019 Annual Report and
+Accounts, as an Executive Director on the 3 February 2020
+ Evolution of the organisational structure to support delivery of the strategy, including consequential changes to the Executive
+Committee
+ Review of the results of the internal Board and Board Committee evaluation and Non-Executive Director reviews. The reviews
+concluded that the Board, its Committees and Non-Executive Directors are operating effectively and meeting their required
+responsibilities. Whilst significant progress has been made to enhance effectiveness, in particular around Board and Committee focus,
+to align with the Board priorities adopted in 2019, recommendations in respect of certain matters, including continued focus on the
+quality of Board and Committee papers are being progressed
+ Oversaw the management of any Non-Executive Director conflicts of interest and the conflicts of interest management procedures.
+Diversity and inclusion
+All appointments to the Board and senior management are based on merit. Objective criteria are used to ensure that the Board has the necessary
+knowledge, skills and experience on it to be effective in the execution of strategy. Having said that, the Board recognises the importance of diversity
+amongst the Directors inclusive of, but not limited to, gender, ethnicity, geography and business experience. In addition, the Company aims to
+ensure that employees of all backgrounds are treated equally and have the opportunity to be successful. The Barclays Group’s Global D&I initiative
+sets objectives, initiatives and plans across five core pillars: gender, LGBT+, disability, multicultural and multigenerational, in support of that
+ambition. Further information on the Barclays Group’s Board Diversity Policy and D&I initiative can be found on pages 32 and 37 of the Barclays
+PLC Annual Report 2020, in the Barclays D&I Report (to be published on 18 February 2021) and on page 9 of the Strategic Report.
+Within the Barclays Bank UK Group we strive to build a workforce that reflects the diversity of our customers and the communities we serve. We
+acknowledge that there continues to be a relative lack of gender diversity on the Board. As set out in our Barclays Group’s Board Diversity Policy
+our ambition remains to achieve a target of 33% women on the Board and to improve diversity on the Board in other forms. Whilst we have not
+achieved this in 2020, we will continue to focus on diversity in succession and appointment considerations to ensure we bring the very best,
+diverse, talent that we can attract to the Board.
+Training and induction
+During 2020, Directors continued to ensure their skills, knowledge and familiarity with the Barclays Bank UK Group by meeting (albeit virtually for
+the majority of the year) with senior management and, despite the COVID-19 pandemic, certain Directors were still able to visit a number of
+branches and operational sites – further details are set out on pages 9 to 10 of the Strategic Report. In addition, Directors are regularly provided
+with the opportunity to take part in ongoing training and development and can also request specific training they may consider necessary or
+useful. During 2020 the Directors received training on legal and regulatory developments, including Whistleblowing, and the Senior Manager’s
+Regime. Please see page 20 (Principle One) for details of the deep dive sessions and briefings held with management on key areas of strategy and
+risk matters, providing a deeper and more granular understanding of the business, which in turn contributes to informed and sound decision-
+making.
+Due to COVID-19, whilst 2020 was a more challenging year for physical interaction, the Board managed to maintain a strong connection to the
+business and colleagues, supplemented by attending town halls and senior leadership gatherings (virtually) and virtual colleague sessions to, for
+example, better understand the impact of COVID-19 on our colleagues and customers and separately presentations were received from the
+Colleague Council and the D&I. Regular review of colleague engagement remains an important tool for the Board and management in ensuring
+they stay closely connected to the business, even at times when physical interaction is difficult. Further details are set out on pages 9 to 10 of the
+Strategic Report.
+There is an induction programme for all new Directors which is tailored to their specific experience and knowledge, providing access to all parts
+of the business, so that the Directors have sufficient understanding of the nature of the business and the key issues the Barclays Bank UK Group
+faces. When a Director is joining a Board Committee, the programme includes a specific induction to the operation of that Committee.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 22
+Governance Report
+Corporate Governance Statement
+ Receiving reports from management on certain areas of the business where Internal Audit reports had recommended improvements to existing
+controls for example Business Banking and Bereavement or on areas of new risks, for example data usage and governance
+ In response to COVID-19, reviewing the controls in place to ensure colleagues can work from home effectively and from branches and other
+physical locations safely and in accordance with Government guidelines; overseeing how management are working to ensure colleague
+wellbeing and the control environment regarding future ways of working
+ Monitoring management progress on the embedding of, and enhancements to, a bespoke Risk Control Self-Assessment framework
+ Review and re-adoption of the refreshed Barclays Group specific policy on the provision of non-audit services by the statutory auditor
+ Monitoring the whistleblowing programme including receiving regular whistleblowing metrics as they relate to the Barclays Bank UK Group and
+ensuring that the procedures for protection from detrimental treatment of staff who raise concerns continue to be effective
+ Receiving updates on financial crime activity that impacted the Barclays Bank UK Group in 2020, including overseeing the Company’s Money
+Laundering Reporting Officer’s report
+ Receiving the Company’s Data Protection Officer’s report for the first time, as this was previously provided to the Risk Committee
+ Consideration of future internal control needs
+ Reviewing the Committee’s effectiveness.
+Risk Committee
+The Risk Committee comprises independent Non-Executive Directors (see page 17).
+At the invitation of the Committee Chair, meetings are attended by management, including the Chief Executive, Chief Risk Officer, Chief
+Compliance Officer, Chief Financial Officer, General Counsel, Chief Internal Auditor and the Company’s external auditor, and where requested,
+Non-Executive Directors who are not members of the Risk Committee who wish to further their knowledge and understanding on risk matters.
+The Risk Committee is responsible for providing oversight and advice to the Board in relation to current and potential future risk exposures
+examining reports covering the principal risks including those that would threaten its business model, future performance, solvency or liquidity,
+as well as reports on risk measurement methodologies and risk appetite.
+In response to the COVID-19 pandemic, the Risk Committee increased the frequency of meetings to ensure appropriate oversight of (i) the
+wellbeing of colleagues classified as key workers; (ii) capital and liquidity; (iii) management actions taken in response to the pandemic, with
+particular emphasis on relieving the financial pressure for customers; (iv) implementation of the Government support programmes for the benefit
+of business clients; (v) as well as operational challenges which may create additional conduct and operational risk. From March to June 2020 this
+was on a fortnightly basis, and since July, the Committee has met approximately monthly.
+The principal role and responsibilities of the Committee are set out in its terms of reference and include:
+ Risk Appetite and Risk Profile – reviewing and ensuring that the risks undertaken by the business are within the risk appetite of the Board
+ Risk Limits – reviewing and adopting risk limits and mandates for financial and non-financial risk, monitoring the risk profile and receiving and
+considering reports on key risk issues (including emerging risks)
+ Regulatory – reviewing and monitoring the Company’s capital and liquidity position including considering both the existing and forecasted
+Company risk profile and the potential impact of stress
+ Brexit – reviewing the potential impact on the Barclays Bank UK Group’s customers and key risks to the business of the UK’s decision to leave
+the European Union and the Barclays Bank UK Group’s readiness for Brexit
+ Internal Control and Risk Control – monitoring the Internal Control and Risk Control framework
+ Credit risk – reviewing credit risk performance (including concentration of credit risk and expected credit losses)
+ Conduct risk – reviewing the effectiveness of the management of conduct risk, seeking to ensure fair customer outcomes following the
+implementation of policies and reviewing the effectiveness of the conduct risk management framework, as it applies to the Company and its
+subsidiaries
+ Risk culture – monitoring to ensure a robust risk culture (relating to risk awareness, risk taking and risk management)
+ Ring fencing – reviewing the ring-fencing requirements (including attestation and ongoing compliance requirements).
+During 2020, the principal activities of the Committee were:
+ Recommending to the Board the adoption of a Risk Appetite Statement
+ Reviewing regular financial and non-financial risk reporting on each of the principal risks (detailed on page 6) and reviewing emerging risks
+ Adopting the 2020 limits and mandates and monitoring the risk profile in accordance with the same
+ A review of the key risks and management actions taken in response to the COVID-19 pandemic. In particular, health and safety of key worker
+colleagues; customer outcomes in respect of secured and unsecured payment holidays and the UK Government loan schemes, CBILs and BBLS,
+(including associated fraud risk); capital and liquidity levels and sensitivities; access to the Term Funding Scheme with additional incentives for
+Small and Medium Enterprises; risk management under stress; operational capacity and resilience
+ Reviewing conduct risk and overseeing the execution of conduct remediation programmes
+ Monitoring compliance with key portfolio metrics, including the use of Chief Risk Officer discretion
+ Reviewing data aggregation risk limitations in accordance with Basel regulations
+ Oversight on risk resources and the independence of the Risk function
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 24
+Governance Report
+Corporate Governance Statement
+During 2020, the principal activities of the Committee were:
+ Considering stakeholder, regulatory and legal updates and ensuring that incentives do not encourage risk taking
+ Reviewing and approving, for recommendation to Barclays’ Remuneration Committee where appropriate, the remuneration of Executive
+Directors and other senior employees
+ Reviewing and approving the methodology, framework and proposals for the 2020 remuneration review including the incentive funding
+framework and incentive pool outcome
+ Considering financial and risk performance updates (including appropriateness of risk adjustments to incentives)
+ Receiving updates on Barclays Bank UK Group remuneration initiatives and developments
+ Overseeing reward and recognition across the entire workforce to ensure alignment with our desired culture and behaviours
+ Reviewing the Committee’s effectiveness.
+Principle Six: Stakeholder Relationships and Engagement
+As set out under Principle One, the Company has a defined purpose and strategy and through this, key stakeholders on whom the success of the
+Company depends are identified by the Board. As a result of this process, the Board seeks to understand key stakeholder’s views, and the impact
+of the Barclays Bank UK Group’s behaviour and business on them. Details about Barclays Bank UK Group’s key stakeholders, how management
+and/or the Directors engaged with them, the key issues raised and actions taken, can be found on pages 16 to 21 of the Barclays PLC Annual
+Report 2020.
+The Board continues to monitor key indicators across areas such as culture, citizenship, conduct and customer satisfaction on a regular and
+ongoing basis and the Board also engaged throughout the year with broader stakeholders through participation in industry forums, debates and
+roundtables, particularly concerning the approach to the COVID-19 pandemic – this is expected to continue in 2021.
+With the onset of COVID-19, 2020 was an extraordinary year and stakeholder engagement was an important part of everything we did as a
+business and the impact on our stakeholders of the decisions we made as a Board was a key consideration. Details on how we engaged with, and
+the support provided to, our key stakeholders, in response to COVID-19, and a summary of the key decisions and actions taken, is set out in the
+section 172 statement on pages 11 to 13 of the Strategic Report and is also summarised in the Chair introduction.
+Our long-standing commitment to the importance and value of colleague and customer engagement continued throughout the year and will
+continue to be central to our strategy in 2021 and beyond - overall our customers, clients and colleagues are at the heart of everything we do.
+Details on how the Company has engaged with customers is set out on page 28 of the Directors’ Report. The Board regularly monitors and has
+oversight over of the Barclays Bank UK Group Net Promoter Score (a key metric) – see page 3 of the Strategic Report for further information. In
+addition to the work already done, we continued to use an extensive engagement matrix to ensure sufficient and effective engagement with our
+colleagues and that the Board is made aware of views expressed. Further detail on our colleague commitment and engagement model can be
+found on pages 9 to 10 of the Strategic Report.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 26
+Governance
+Directors’ Report
+The Directors present their report together with the audited accounts for the Company for the year ended 31 December 2020.
+Section 414A of the Companies Act 2006 (the ‘Act’) requires the Directors to present a Strategic Report in the Annual Report. The information can
+be found on pages 1 to 13.
+The Company has addressed the Non-Financial Reporting requirements contained in sections 414CA and 414CB of the Act through the disclosure
+contained in the Barclays PLC Annual Report 2020 on pages 52 to 53. In addition, the Company has chosen, in accordance with section 414C(11) of
+the Act and as noted in this Directors’ Report, to include certain matters in its Strategic Report that would otherwise be disclosed in this Directors’
+Report. Such information is incorporated by reference into this report.
+The particulars of important events affecting the Company since the financial year end can be found in the notes to the financial statements. An
+indication of likely future developments may be found in the Strategic Report.
+Other information that is relevant to the Directors’ Report, and which is incorporated by reference into this report, can be located at:
+Page
+Climate change 4
+Governance Report 17 to 26
+Performance measures 7 to 8
+Managing risk 5 to 6
+Principal Risks 6
+Disclosures required pursuant to Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008
+as updated by Companies (Miscellaneous Reporting) Regulations 2018 can be found on the following pages:
+Engagement with employees (Sch.7 Para 11 and 11A 2008/2018 Regs) 9 to 10
+Policy concerning the employment of disabled persons (Sch.7 Para 10 2008 Regs) 10
+Financial Instruments (Sch.7 Para 6 2008 Regs) 146 to 160
+Hedge accounting policy (Sch.7 Para 6 2008 Regs) 147 to 148
+Profits and dividends
+The results of the Barclays Bank UK Group show statutory profit after tax of £379m (2019: £156m). The Barclays Bank UK Group had net assets of
+£17,027m at 31 December 2020 (2019: £16,513m).
+The 2020 financial statements include £220m (2019: £1,050m) of dividend paid. This is the final dividend declared in relation to the prior year of
+£220m (2019: £700m) and half year dividends of £nil (2019: £350m). This results in a total dividend for the year of 44p (2019: 208p) per ordinary
+share. A dividend of £220m was paid on 25 March 2020 by the Company to its parent, Barclays. This was prior to the announcement made by the
+Prudential Regulation Authority on 31 March 2020 that capital be preserved for use in serving Barclays customers and clients through the
+extraordinary challenges presented by the COVID-19 pandemic. As part of a response to this announcement, Barclays took steps to provide additional
+capital of £220m to the Company in the form of a capital contribution. Further information can be found in Note 10 to the financial statements.
+No full year 2020 dividend is to be paid to Barclays. More details are set out in Note 10 to the financial statements.
+Share capital
+There was no increase in ordinary share capital during the year. Barclays owns 100% of the issued ordinary shares. There are no restrictions on the
+transfer of ordinary shares or agreements between holders of ordinary shares known to the Company, which may result in restrictions on the transfer
+of ordinary shares or voting rights. Further information on the Company’s share capital can be found in Note 26 to the financial statements.
+Powers of Directors to issue or buy back the Company’s shares
+The powers of the Directors are determined by the Act and the Company’s Articles of Association. No shares were repurchased in 2020.
+Directors
+The list of current Directors of the Company can be found in the Governance Report on page 17. Changes to Directors during the year and up to the
+date of signing this report are set out below.
+Name Role Effective date of appointment / resignation
+Rupert Fowden Executive Director Resigned 2 February 2020
+James Mack Executive Director Appointed 3 February 2020
+Sir Ian Cheshire Non-Executive Director and Chair Resigned 31 December 2020
+Crawford Gillies Non-Executive Director and Chair Appointed 1 January 2021
+Directors’ indemnities
+Qualifying third party indemnity provisions (as defined by section 234 of the Act) were in force during the course of the financial year ended 31
+December 2020 for the benefit of the then Directors and, at the date of this report, are in force for the benefit of the Directors in relation to certain
+losses and liabilities which they may incur (or have incurred) in connection with their duties, powers or office. In addition, the Company maintains
+Directors’ and Officers’ Liability Insurance which gives appropriate cover for legal action brought against its Directors.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 27
+Governance
+Directors’ Report
+Political donations
+The Barclays Bank UK Group did not give any money for political purposes in the UK, the rest of the EU or outside the EU, nor did it make any political
+donations to political parties or other political organisations, or to any independent election candidates, or incur any political expenditure during the
+year. Details of any political contributions made by the wider Barclays Group can be found in the Barclays PLC Annual Report 2020.
+Environment
+The Barclays Group focuses on addressing environmental issues where it is felt that there is the greatest potential to make a difference. As the global
+effort to tackle climate change grows, the Barclays Group is moving rapidly to take a leading role in contributing to the transition to a low-carbon
+economy. In March 2020, Barclays Group set out its ambition to be a net zero bank by 2050. Barclays Group is already net zero in the context of its
+own emissions; its focus now is on reducing the client emissions that Barclays Group finance. In November 2020, on the way to achieving that
+ambition, Barclays Group set out the methodology and targets that begin to align Barclays financing with the goals of the Paris Climate Agreement –
+the international treaty on climate change adopted in 2015. More information is set out in the Barclays Group ESG report, published alongside the
+Barclays PLC Annual Report 2020.
+The Barclays Group focuses on managing its own carbon footprint and reducing absolute carbon emissions, developing products and services to
+help enable the transition to a low-carbon economy, and managing the risks of climate change on operations, clients, customers and society at large.
+The Barclays Group invests in improving the energy efficiency of operations and offset the emissions remaining through the purchase of carbon
+credits. Barclays Group also has a long-standing commitment to managing the environmental and social risks associated with lending practices,
+which is embedded in risk management processes. A governance structure is in place to facilitate clear dialogue across the business and with
+suppliers around issues of potential environmental and social risk.
+Disclosure of global greenhouse gas emissions is done at a Barclays Group level with information available in the Barclays PLC Annual Report 2020
+with fuller disclosure available on our website at home.barclays.com/citizenship.
+Engagement with customers, suppliers and others in a business relationship with the Company
+Customers and clients are at the heart of everything we do. The Barclays Bank UK Group is relentless in its commitment to act in their best interests
+and in understanding the needs of our customers and clients to inform and improve its products and services, and we engage regularly with them to
+help achieve that. In 2020, the Barclays Bank UK Group engaged with customers and clients in a wide variety of ways, including running regular
+surveys, analysing customer complaints, and drawing on data from millions of individual transactions and personal customer interactions. COVID-
+19 had a wide-ranging impact on our customers and clients, and it became clear that certain support measures and products would become more
+relevant. As an illustration, during 2020, in response to COVID-19, amongst other measures, the Barclays Bank UK Group facilitated for our customers:
+borrowing under the various UK Government loan schemes; implemented payment holidays; waived interest and fees on overdrafts; and gave
+forbearance on late payments. For further details, please see page 3 of the Strategic Report.
+Barclays engagement with suppliers is important. The Directors have regard, via management oversight, to the need to foster business relationships
+with suppliers and, as such, engage with them to ensure adherence to the Barclays’ Supplier Code of Conduct and Supply Control obligations which
+cover our expectations of suppliers. Adherence is confirmed through pre-contract attestation. Further, Barclays is a signatory to the Prompt Payment
+Code in the UK, committing to pay our suppliers within clearly defined terms.
+Further details on customer, client and supplier engagement is set out on pages 16 to 17 and pages 42 to 43 of the Barclays PLC Annual Report 2020.
+Branches and Country-by-Country Reporting
+The Barclays Bank UK Group operates in the UK.
+The Company is exempt from publishing information required by The Capital Requirements (Country-by-Country Reporting) Regulations 2013 as
+this information is published by its parent Barclays. This information is due to be published on or around 18th February 2021 and will be available at
+home.barclays/annualreport.
+Research and development
+In the ordinary course of business, the Barclays Bank UK Group develops new products and services in each of its business divisions.
+The Auditor
+The Barclays Audit Committee reviews the appointment of the external auditor, as well as their relationship with the Barclays Group, including
+monitoring the Barclays Group’s use of the external auditor for non-audit services and the balance of audit and non-audit fees paid to them. More
+details on this can be found in Note 34 to the financial statements. Detail of the oversight of the external auditor by the Company’s Audit Committee
+is set out on page 23.
+An external audit tender was conducted in 2015 and the decision was made to appoint KPMG as Barclays’ Group’s external auditor with effect from
+the 2017 financial year, with PwC resigning as Barclays Group’s statutory auditor at the conclusion of the 2016 audit.
+The Company is in compliance with the requirements of The Statutory Audit Services for Large Companies Market Investigation (Mandatory Use of
+Competitive Tender Processes and Audit Committee Responsibilities) Order 2014, which relates to the frequency and governance of tenders for the
+appointment of the external auditor and the setting of a policy on the provision of non-audit services.
+Provided that KPMG continues to maintain their independence and objectivity, and the Barclays Audit Committee remains satisfied with their
+performance, the Barclays Group has no intention of appointing an alternative external auditor before the end of the current required period of 10
+years.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 28
+Governance
+Directors’ Report
+Disclosure of information to the Auditor
+Each Director confirms that, so far as he/she is aware, there is no relevant audit information of which the Company’s auditor is unaware and that
+each of the Directors has taken all the steps that he/she ought to have taken as a Director to make himself/herself aware of any relevant audit
+information and to establish that the Company's auditor is aware of that information. This confirmation is given pursuant to section 418 of the Act
+and should be interpreted in accordance with and subject to those provisions.
+Directors’ responsibilities
+The following statement, which should be read in conjunction with the auditor’s report set out on pages 114 to 125, is made with a view to
+distinguishing for shareholders the respective responsibilities of the Directors and of the auditor in relation to the financial statements.
+Going concern
+In preparing the Barclays Bank UK Group’s financial statements, the Directors are required to:
+ assess the Barclays Bank UK Group’s ability to continue as a going concern, disclosing, as applicable, matters related to going concern; and
+ use the going concern basis of accounting unless they either intend to liquidate the Barclays Bank UK Group or to cease operations, or have no
+realistic alternative but to do so.
+The Barclays Bank UK Group’s business activities, financial position, capital, factors likely to affect its future development and performance and its
+objectives and policies in managing the financial risks to which it is exposed are discussed in the Strategic Report and Risk Management sections.
+The Directors have evaluated these risks in the preparation of the financial statements and consider it appropriate to prepare the financial statements
+on a going concern basis.
+Preparation of accounts
+The Directors are required by the Act to prepare Barclays Bank UK Group and Company accounts for each financial year, and, with regards to Barclays
+Bank UK Group accounts, in accordance with Article 4 of the International Accounting Standard (‘IAS’) Regulation. The Directors have prepared the
+Barclays Bank UK Group accounts and the Company accounts: (a) in accordance with international accounting standards in conformity with the
+requirements of the Companies Act 2006; and (b) international financial reporting standards adopted pursuant to Regulation (EC) No. 1606/2002 as
+it applies in the European Union. Under the Act, the Directors must not approve the accounts unless they are satisfied that they give a true and fair
+view of the state of affairs of the Barclays Bank UK Group and the Company and of their profit or loss for that period.
+The Directors consider that, in preparing the financial statements on pages 124 to 183, the Barclays Bank UK Group and Company has used
+appropriate accounting policies, supported by reasonable judgements and estimates, and that all accounting standards which they consider to be
+applicable have been followed.
+The Directors are satisfied that the Annual Report and financial statements, taken as a whole, provide the information necessary for its shareholder
+to assess the Barclays Bank UK Group and Company’s position and performance, business model and strategy.
+Directors are responsible for such internal control as they determine is necessary to enable the preparation of financial statements that are free from
+material misstatement, whether due to fraud or error.
+Directors’ responsibility statement
+The Directors have responsibility for ensuring that the Company and the Barclays Bank UK Group keep accounting records which disclose with
+reasonable accuracy the financial position of the Company and the Barclays Bank UK Group and which enable them to ensure that the financial
+statements comply with the Act.
+The Directors are also responsible for preparing a Strategic Report, Directors’ Report and Corporate Governance Statement in accordance with
+applicable law and regulations.
+The Directors are responsible for the maintenance and integrity of the Annual Report and financial statements as they appear on the Company’s
+website. Legislation in the UK governing the preparation and dissemination of financial statements may differ from legislation in other jurisdictions.
+The Directors have a general responsibility for taking such steps as are reasonably open to them to safeguard the assets of the Company and to
+prevent and detect fraud and other irregularities.
+The Directors, whose names and functions are set out on page 17, confirm to the best of their knowledge that:
+(a) The financial statements, prepared in accordance with the applicable set of accounting standards, give a true and fair view of the assets, liabilities,
+financial position and profit or loss of the Company and the undertakings included in the consolidation taken as a whole; and
+(b) The Strategic Report on pages 1 to 13 which is incorporated in the Directors’ Report, includes a fair review of the development and performance
+of the business and the position of the Company and the undertakings included in the consolidation taken as a whole, together with a description
+of the principal risks and uncertainties that they face.
+By order of the Board
+Katie Marshall
+Company Secretary
+17 February 2021
+Registered in England.
+Company No. 9740322
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 29
+Risk review
+Risk management
+The Barclays Bank UK Group’s risk management strategy
+This section introduces Barclays Bank UK Group’s approach to managing and identifying risks, and for fostering a strong risk culture.
+Enterprise Risk Management Framework (ERMF)
+The ERMF sets the strategic approach for risk management by defining standards, objectives and responsibilities for all areas of the Barclays Group.
+It is approved by the Barclays PLC Board on recommendation of the Barclays Group Chief Risk Officer (CRO); it is then adopted by the Barclays Bank
+UK Group with modifications where needed. It supports senior management in effective risk management and developing a strong risk culture.
+The ERMF sets out:
+ Segregation of duties: The ERMF defines a Three Lines of Defence model;
+ Principal risks faced by the Barclays Bank UK Group: This list guides the organisation of the risk management function, and the identification,
+management and reporting of risks;
+ Risk appetite requirements: This helps define the level of risk we are willing to undertake in our business;
+ Roles and responsibilities for risk management: The ERMF sets out the accountabilities of the Barclays Bank UK Group CEO and other senior
+managers, as well as Barclays Bank UK Group committees.
+The ERMF is complemented by frameworks, policies and standards that are mainly aligned to individual principal risks:
+ Frameworks cover the management approach for a collection of related activities and define the associated policies used to govern them;
+ Policies set out principles and other core requirements for the activities of the Barclays Bank UK Group. Policies describe “what” must be done;
+ Standards set out the key control objectives that describe how the requirements set out in the policy are met, and who needs to carry them out.
+Standards describe “how” controls should be undertaken.
+Segregation of duties - the "Three Lines of Defence" model
+The ERMF sets out a clear lines of defence model. All colleagues are responsible for understanding and managing risks within the context of their
+individual roles and responsibilities, as set out below:
+ First line comprises all employees engaged in the revenue generating and client facing areas of the Barclays Bank UK Group and all associated
+support functions, including Finance, Treasury, and Human Resources. The first line is responsible for identifying and managing the risks they
+generate, establishing a control framework, and escalating risk events to Risk and Compliance;
+ Second line is comprised of the Risk and Compliance functions. The role of the second line is to establish the limits, rules and constraints under
+which first line activities shall be performed, consistent with the risk appetite of the Barclays Bank UK Group, and to monitor the performance of
+the first line against these limits and constraints. Note that limits for a number of first line activities, related to operational risk, will be set by the
+first line and overseen by the Chief Controls Office. These will remain subject to supervision by the second line;
+ Third line of defence is Internal Audit, who are responsible for providing independent assurance over the effectiveness of governance, risk
+management and control over current, systemic and evolving risks;
+ The Legal function provides support to all areas of the bank and is not formally part of any of the three lines, However, it is subject to second line
+oversight.
+Principal risks
+The ERMF identifies eight principal risks (see managing risk in the strategic report section) and sets out associated responsibilities and expectations
+around risk management. The principal risks are: credit risk, market risk, treasury and capital risk, operational risk, model risk, conduct risk,
+reputation risk and legal risk.
+Each of the principal risks is overseen by an accountable executive within the Barclays Group who is responsible for the framework, policies and
+standards that detail the related requirements. Risk reports to executive and Board committees are clearly organised by principal risk. In addition,
+certain risks span more than one principal risk; these are also subject to the ERMF and are reported to executive and Board committees.
+Risk appetite for the principal risks
+Risk appetite is defined as the level of risk which the Barclays Bank UK Group’s businesses are prepared to accept in the conduct of their activities. It
+provides a basis for ongoing dialogue between management and Board with respect to the Barclays Bank UK Group’s current and evolving risk
+profile, allowing strategic and financial decisions to be made on an informed basis.
+Risk appetite is approved by the Barclays PLC Board and disseminated across legal entities, including the Barclays Bank UK Group. The Barclays
+Bank UK Group may choose to adopt a lower risk appetite than allocated to it by the Barclays Group. Total Barclays Group risk appetite and its
+allocation to the Barclays Bank UK Group are supported by limits to control exposures and activities that have material concentration risk
+implications.
+Risk committees
+The Barclays Bank UK Group business level product/risk type committees consider risk matters relevant to their business, and escalate as required
+to the Barclays UK Risk Committee, whose Chairman, in turn, escalates to the Barclays Group Risk Committee, Barclays Bank UK PLC Board
+Committees and the Barclays Bank UK PLC Board.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 32
+Risk review
+Material existing and emerging risks
+Barclays Group or certain of its members including Barclays Bank UK PLC being required to enhance their capital position, limit capital
+distributions or position additional capital in specific subsidiaries.
+For further details on the regulatory supervision of, and regulations applicable to, the Barclays Bank UK Group, see the Supervision and regulation
+section.
+vii) The impact of climate change on the Barclays Bank UK Group’s business
+The risks associated with climate change are subject to rapidly increasing societal, regulatory and political focus, both in the UK and internationally.
+Embedding climate risk into the Barclays Bank UK Group’s risk framework in line with regulatory expectations, and adapting the Barclays Bank UK
+Group’s operations and business strategy to address the financial risks resulting from both: (i) the physical risk of climate change; and (ii) the risk
+from the transition to a low carbon economy, could have a significant impact on the Barclays Bank UK Group’s business.
+Physical risks from climate change arise from a number of factors and relate to specific weather events and longer-term shifts in the climate. The
+nature and timing of extreme weather events are uncertain but they are increasing in frequency and their impact on the economy is predicted to be
+more acute in the future. The potential impact on the economy includes, but is not limited to, lower GDP growth, higher unemployment and
+significant changes in asset prices and profitability of industries. Damage to the properties and operations of borrowers could impair asset values
+and the creditworthiness of customers leading to increased default rates, delinquencies, write-offs and impairment charges in the Barclays Bank UK
+Group’s portfolios. In addition, the Barclays Bank UK Group’s premises and resilience may also suffer physical damage due to weather events
+leading to increased costs for the Barclays Bank UK Group.
+As the economy transitions to a low-carbon economy, financial institutions such as the Barclays Bank UK Group may face significant and rapid
+developments in stakeholder expectations, policy, law and regulation which could impact the lending activities the Barclays Bank UK Group
+undertakes, as well as the risks associated with its lending portfolios and the value of the Barclays Bank UK Group’s assets. As sentiment towards
+climate change shifts and societal preferences change, the Barclays Bank UK Group may face greater scrutiny of the type of business it conducts,
+adverse media coverage and reputational damage, which may in turn impact customer demand for the Barclays Bank UK Group's products, returns
+on certain business activities and the value of certain assets resulting in impairment charges.
+In addition, the impacts of physical and transition climate risks can lead to second order connected risks, which have the potential to affect the
+Barclays Bank UK Group’s retail and wholesale portfolios. The impacts of climate change may increase losses for those sectors sensitive to the
+effects of physical and transition risks. Any subsequent increase in defaults and rising unemployment could create recessionary pressures, which
+may lead to wider deterioration in the creditworthiness of the Barclays Bank UK Group’s clients, higher ECLs, and increased charge-offs and
+defaults among retail customers.
+If the Barclays Bank UK Group does not adequately embed risks associated with climate change into its risk framework to appropriately measure,
+manage and disclose the various financial and operational risks it faces as a result of climate change, or fails to adapt its strategy and business
+model to the changing regulatory requirements and market expectations on a timely basis, it may have a material and adverse impact on the
+Barclays Bank UK Group’s level of business growth, competitiveness, profitability, capital requirements, cost of funding, and financial condition.
+For further details on the Barclays Bank UK Group’s approach to climate change, see the climate change risk management section.
+viii) Impact of benchmark interest rate reforms on the Barclays Bank UK Group
+For several years, global regulators and central banks have been driving international efforts to reform key benchmark interest rates and indices,
+such as the London Interbank Offered Rate (LIBOR), which are used to determine the amounts payable under a wide range of transactions and
+make them more reliable and robust. This has resulted in significant changes to the methodology and operation of certain benchmarks and indices,
+the adoption of alternative “risk-free” reference rates and the proposed discontinuation of certain reference rates (including LIBOR), with further
+changes anticipated, including legislative proposals to deal with ‘tough legacy’ contracts that cannot convert into or cannot add fall-back risk-free
+reference rates. The consequences of reform are unpredictable and may have an adverse impact on any financial instruments linked to, or
+referencing, any of these benchmark interest rates.
+The Barclays Bank UK Group predominantly offers products which reference central bank rates rather than LIBOR and other indices which are likely
+to be subject to reform. Consequently, the product offering and business model are unlikely to be significantly affected. Nevertheless, there are
+other ways the Barclays Bank UK Group could be affected.
+Uncertainty as to the nature of such potential changes, the availability and/or suitability of alternative “risk-free” reference rates and other reforms
+may adversely affect a broad range of transactions (including any securities, loans and derivatives which use LIBOR to determine the amount of
+interest payable that are included in the Barclays Bank UK Group’s financial assets and liabilities) that use these reference rates and indices and
+introduce a number of risks for the Barclays Bank UK Group, including, but not limited to:
+ Conduct risk: in undertaking actions to transition away from using certain reference rates (such as LIBOR) to new alternative, risk-free rates,
+the Barclays Bank UK Group faces conduct risks. These may lead to customer complaints, regulatory sanctions or reputational impact if the
+Barclays Bank UK Group is considered to be (among other things) (i) undertaking market activities that are manipulative or create a false or
+misleading impression, (ii) misusing sensitive information or not identifying or appropriately managing or mitigating conflicts of interest, (iii)
+providing customers with inadequate advice, misleading information, unsuitable products or unacceptable service, (iv) not taking a consistent
+approach to remediation for customers in similar circumstances, (v) unduly delaying the communication and migration activities in relation to
+client exposure, leaving them insufficient time to prepare or (vi) colluding or inappropriately sharing information with competitors;
+ Financial risks: the valuation of certain of the Barclays Bank UK Group’s financial assets and liabilities may change. Moreover, transitioning to
+alternative “risk-free” reference rates may impact the ability of members of the Barclays Bank UK Group to calculate and model amounts
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 37
+Risk review
+Material existing and emerging risks
+For further details on the Barclays Bank UK Group’s approach to conduct risk, see the conduct risk management and conduct risk performance
+sections.
+vi) Reputation risk
+Reputation risk is the risk that an action, transaction, investment, event, decision or business relationship will reduce trust in the Barclays Bank UK
+Group’s integrity and/or competence.
+Any material lapse in standards of integrity, compliance, customer service or operating efficiency may represent a potential reputation risk.
+Stakeholder expectations constantly evolve, and so reputation risk is dynamic and varies between geographical regions, groups and individuals. A
+risk arising in one business area can have an adverse effect upon the Barclays Bank UK Group’s overall reputation and any one transaction,
+investment or event (in the perception of key stakeholders) can reduce trust in the Barclays Bank UK Group’s integrity and competence. The
+Barclays Bank UK Group’s association with sensitive topics and sectors has been, and in some instances continues to be, an area of concern for
+stakeholders, including (i) the financing of, and investments in, businesses which operate in sectors that are sensitive because of their relative
+carbon intensity or local environmental impact; (ii) potential association with human rights violations (including combating modern slavery) in the
+Barclays Bank UK Group’s operations or supply chain and by clients and customers; and (iii) the financing of businesses which manufacture and
+export military and riot control goods and services.
+Reputation risk could also arise from negative public opinion about the actual, or perceived, manner in which the Barclays Bank UK Group conducts
+its business activities, or the Barclays Bank UK Group’s financial performance, as well as actual or perceived practices in banking and the financial
+services industry generally. Modern technologies, in particular online social media channels and other broadcast tools that facilitate communication
+with large audiences in short time frames and with minimal costs, may significantly enhance and accelerate the distribution and effect of damaging
+information and allegations. Negative public opinion may adversely affect the Barclays Bank UK Group’s ability to retain and attract customers, in
+particular, corporate and retail depositors, and to retain and motivate staff, and could have a material adverse effect on the Barclays Bank UK
+Group’s business, results of operations, financial condition and prospects.
+In addition to the above, reputation risk has the potential to arise from operational issues or conduct matters which cause detriment to customers,
+clients, market integrity, effective competition or the Barclays Bank UK Group (see “iii) Operational risk” above).
+For further details on the Barclays Bank UK Group’s approach to reputation risk, see reputation risk management and reputation risk performance
+sections.
+vii) Legal risk and legal, competition and regulatory matters
+The Barclays Bank UK Group conducts activities in a highly regulated market which exposes it and its employees to legal risk arising from (i) the
+multitude of laws and regulations that apply to the businesses it operates, which are highly dynamic, may vary between jurisdictions, and are often
+unclear in their application to particular circumstances especially in new and emerging areas; and (ii) the diversified and evolving nature of the
+Barclays Bank UK Group’s businesses and business practices. In each case, this exposes the Barclays Bank UK Group and its employees to the risk of
+loss or the imposition of penalties, damages or fines from the failure of members of the Barclays Bank UK Group to meet their respective legal
+obligations, including legal or contractual requirements. Legal risk may arise in relation to any number of the material existing and emerging risks
+identified above.
+A breach of applicable legislation and/or regulations by the Barclays Bank UK Group or its employees could result in criminal prosecution,
+regulatory censure, potentially significant fines and other sanctions. Where clients, customers or other third parties are harmed by the Barclays
+Bank UK Group’s conduct, this may also give rise to civil legal proceedings, including class actions. Other legal disputes may also arise between the
+Barclays Bank UK Group and third parties relating to matters such as breaches or enforcement of legal rights or obligations arising under contracts,
+statutes or common law. Adverse findings in any such matters may result in the Barclays Bank UK Group being liable to third parties or may result
+in the Barclays Bank UK Group’s rights not being enforced as intended.
+Details of legal, competition and regulatory matters to which the Barclays Bank UK Group is currently exposed are set out in Note 24. In addition to
+matters specifically described in Note 24, the Barclays Bank UK Group is engaged in various other legal proceedings which arise in the ordinary
+course of business. The Barclays Bank UK Group is also subject to requests for information, investigations and other reviews by regulators,
+governmental and other public bodies in connection with business activities in which the Barclays Bank UK Group is, or has been, engaged.
+The outcome of legal, competition and regulatory matters, both those to which the Barclays Bank UK Group is currently exposed and any others
+which may arise in the future, is difficult to predict. In connection with such matters, the Barclays Bank UK Group may incur significant expense,
+regardless of the ultimate outcome, and any such matters could expose the Barclays Bank UK Group to any of the following outcomes: substantial
+monetary damages, settlements and/or fines; remediation of affected customers and clients; other penalties and injunctive relief; additional
+litigation; criminal prosecution; the loss of any existing agreed protection from prosecution; regulatory restrictions on the Barclays Bank UK Group’s
+business operations including the withdrawal of authorisations; increased regulatory compliance requirements or changes to laws or regulations;
+suspension of operations; public reprimands; loss of significant assets or business; a negative effect on the Barclays Bank UK Group’s reputation;
+loss of confidence by investors, counterparties, clients and/or customers; risk of credit rating agency downgrades; potential negative impact on the
+availability and/or cost of funding and liquidity; and/or dismissal or resignation of key individuals. In light of the uncertainties involved in legal,
+competition and regulatory matters, there can be no assurance that the outcome of a particular matter or matters (including formerly active
+matters or those arising after the date of this Annual Report) will not have a material adverse effect on the Barclays Bank UK Group’s business,
+results of operations, financial condition and prospects.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 43
+Risk review
+Climate change risk management
+Climate change risk management
+Overview
+The Barclays Group has a longstanding commitment to Environmental Risk Management (ERM) and its approach, aided by regulatory initiatives,
+has continued to evolve, incorporating climate change in recent years as the understanding of associated risks has grown. A dedicated
+Sustainability team considers how the Barclays Group approaches wider sustainability and environmental, social and governance (ESG) matters,
+working closely with the ERM function.
+In 2020 Barclays implemented a Financial and Operational Risks of climate change plan built around three main pillars:
+1. Embedding climate risk into Enterprise Risk Management Framework (ERMF), via the Climate Change Financial and Operational
+Risk Policy
+2. Developing methodologies and including climate in stress testing (see Barclays PLC Climate-related financial disclosures 2020, Risk
+management section)
+3. Developing a carbon methodology to assess risk within high emitting sectors (see Barclays PLC Climate-related financial disclosures
+2020, Strategy section).
+In 2020 as part of the Climate Internal Stress Test the effect of flood risk (physical risk) and changes in affordability due to policy actions (transition
+risk) were considered as part of climate risk analysis for the Barclays Bank UK Group mortgage portfolio.
+In particular, a granular view of flood risks was developed in collaboration with an insurance specialist to further understand physical risks in the UK
+mortgage portfolio. A transition risk methodology was developed to assesses the impacts of tighter energy efficiency regulation and the resulting
+costs needed to upgrade properties to minimum standards. In addition, the agriculture sector was reviewed against heat wave impacts, linking
+business sector performance with regional rain fall.
+For more detail on how climate change risks arise and their impact on the Barclays Bank UK Group, refer to the ‘material existing and emerging
+risks’ section.
+Organisation and Structure
+The matters and risks associated with climate change are managed at a Barclays Group level, with additional input and oversight provided by the
+Barclays Bank UK Group CRO for matters pertaining to the Barclays Bank UK Group.
+On behalf of the Barclays PLC Board, the Barclays PLC BRC reviews and approves the Barclays Group’s approach to managing the financial and
+operational risks associated with climate change. Reputation risk is the responsibility of the Barclays PLC Board, which directly handles the most
+material issues facing the Barclays Group. Broader sustainability matters and other reputation risks associated with climate change are co-
+ordinated by the Sustainability team.
+Two new roles were introduced in 2020: a Barclays Group Head of Public Policy and Corporate Responsibility, reporting to the CEO; and a Barclays
+Group Head of Climate Risk appointed to develop Barclays’ climate risk methodologies and manage climate risk in the portfolio. Working groups
+have been established to support management of climate risk at Barclays International and Barclays Bank UK Group.
+Risk management – Policy
+Financial and Operational Risks:
+The Barclays Group’s ‘Climate Change Financial Risk and Operational Risk Policy’ considers climate change as an overarching risk impacting certain
+principal risks: credit risk, market risk, treasury & capital risk and operational risk. The policy is jointly owned by the relevant Principal Risk Delegates
+with oversight by the Barclays PLC BRC and applies across the Barclays Group including within the Barclays Bank UK Group.
+Each relevant Principal Risk Delegate has developed a methodology and implementation plan for quantifying climate change risk.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 44
+Risk review
+Climate change risk management
+Linking with ESG and Reputation Risk:
+The Barclays Group has developed an internal standard to reflect its net zero carbon ambition in more detail and together with other climate-
+related Standards (such as the Forestry & Palm Oil Standard), these now determine the approach to climate change and relevant sensitive sectors.
+These standards sit under the management of reputation risk within the ERMF and are enforced through an existing transaction origination, review
+and approval process.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 45
+Risk review
+Principal risk management
+ financial guarantees and similar off-balance sheet commitments: cash collateral may be held against these arrangements.
+Risk transfer
+A range of instruments including guarantees can be used to transfer credit risk from one counterparty to another. These mitigate credit risk in two
+main ways:
+ if the risk is transferred to a counterparty which is more creditworthy than the original counterparty, then overall credit risk is reduced;
+ where recourse to the first counterparty remains, both counterparties must default before a loss materialises. This is less likely than the default of
+either counterparty individually so credit risk is reduced.
+Treasury and capital risk management
+This comprises:
+Liquidity risk: The risk that Barclays Bank UK Group is unable to meet its contractual or contingent obligations or that it does not have the
+appropriate amount, tenor and composition of funding and liquidity to support its assets.
+Capital risk: The risk that Barclays Bank UK Group has an insufficient level or composition of capital to support its normal business activities and to
+meet its regulatory capital requirements under normal operating environments or stressed conditions (both actual and as defined for internal
+planning or regulatory testing purposes). This also includes the risk from Barclays Bank UK Group’s pension plans.
+Interest rate risk in the banking book: The risk that Barclays Bank UK Group is exposed to capital or income volatility because of a mismatch
+between the interest rate exposures of its (non-traded) assets and liabilities.
+Barclays Bank UK Group Treasury manages treasury and capital risk exposure on a day-to-day basis with the Barclays Bank UK PLC Asset and
+Liability Committee (ALCO) acting as the principal management body. The Treasury and Capital Risk function is responsible for oversight and
+provide insight into key capital, liquidity and interest rate risk in the banking book (IRRBB) activities.
+Liquidity risk management (audited)
+Overview
+The efficient management of liquidity is essential to the Barclays Bank UK Group in order to retain the confidence of the financial markets and
+maintain the sustainability of the business. The liquidity risk control framework is used to manage all liquidity risk exposures under both business as
+usual and stressed conditions. The framework is designed to maintain liquidity resources that are sufficient in amount, quality and funding tenor
+profile to support the liquidity risk appetite as expressed by the Barclays Bank UK PLC Board. The liquidity risk appetite is monitored against both
+internal and regulatory liquidity metrics.
+Organisation, roles and responsibilities
+Treasury has the primary responsibility for managing liquidity risk within the set risk appetite. Both Risk and Treasury contribute to the production
+of the Internal Liquidity Adequacy Assessment Process. The Barclays Bank UK Treasury and Capital Risk function is responsible for the
+management and governance of the liquidity risk framework, consistently with Barclays PLC Group policies and framework and with Barclays Bank
+UK CRO mandates.
+The liquidity risk control framework is designed to deliver the appropriate term and structure of funding, consistent with the liquidity risk appetite
+set by the Board.
+The control framework incorporates a range of ongoing business management tools to monitor, limit and stress test the Barclays Bank UK Group’s
+balance sheet and contingent liabilities. Limit setting and transfer pricing are tools that are designed to control the level of liquidity risk taken and
+drive the appropriate mix of funds. In addition, Barclays Group maintains a recovery plan which includes application to the Barclays Bank UK Group.
+Together, these tools reduce the likelihood that a liquidity stress event could lead to an inability to meet the Barclays Bank UK Group’s obligations
+as they fall due.
+The Barclays Bank UK Board approves the Barclays Bank UK Group funding plan, internal stress tests, regulatory stress test results, and the Barclays
+Bank UK contribution to the Barclays Group recovery plan. The Barclays Bank UK PLC ALCO is responsible for monitoring and managing liquidity
+risk in line with the Barclays Bank UK Group’s funding management objectives, funding plan and risk framework. The Barclays UK Risk Committee
+monitors and reviews the liquidity risk profile and control environment, providing second line oversight of the management of liquidity risk. The
+Barclays Bank UK PLC Board Risk Committee reviews the risk profile, and annually reviews risk appetite and the impact of stress scenarios on the
+Barclays Bank UK Group funding plan/forecast in order to agree the Barclays Bank UK Group’s projected funding abilities.
+Capital risk management (audited)
+Overview
+Capital risk is managed through ongoing monitoring and management of the capital position, regular stress testing and a robust capital
+governance framework. The objectives of the framework are to maintain adequate capital for the Barclays Bank UK Group to withstand the impact
+of the risks that may arise under normal and stressed conditions, and maintain adequate capital to cover current and forecast business needs and
+associated risks to provide a viable and sustainable business offering.
+Organisation, roles and responsibilities
+Treasury has the primary responsibility for managing and monitoring capital. The Barclays Bank UK Group Treasury and Capital Risk function
+provides oversight of capital risk and is an independent risk function that reports to the Barclays Bank UK Group CRO. Production of the Barclays
+Bank UK PLC Internal Capital Adequacy Assessment Process is the responsibility of Barclays Bank UK Group Treasury.
+Capital risk management is underpinned by a control framework and policies. Capital plans reflect the capital management strategy and are
+implemented to deliver on the Barclays Bank UK Group’s objectives, which are aligned to those of Barclays Group. The Barclays Bank UK Group-
+specific capital plans are developed in conformance with the Barclays Group control framework and policies for capital risk.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 47
+Risk review
+Principal risk management
+The Barclays Bank UK PLC Board approves the Barclays Bank UK Group capital plan, internal stress tests and results of regulatory stress tests. The
+Barclays Bank UK PLC Board also approves the recovery options documented in the Barclays Group recovery plan pertaining to the Barclays Bank
+UK Group. The Barclays Bank UK PLC ALCO is responsible for monitoring and managing capital risk in line with the Barclays Bank UK Group’s
+capital management objectives, capital plan and risk frameworks. The Barclays UK Risk Committee monitors and reviews the capital risk profile and
+control environment, providing second line oversight of the management of capital risk. The Barclays Bank UK PLC Board Risk Committee reviews
+the risk profile, and annually reviews risk appetite and the impact of stress scenarios on the Barclays Bank UK Group capital plan/forecast in order
+to agree Barclays Bank UK Group’s projected capital resources.
+Management assures compliance with minimum regulatory capital requirements by reporting to the Barclays Bank UK PLC ALCO with oversight by
+the Barclays Group Treasury Committee, as required. In 2020, Barclays complied with all regulatory minimum capital requirements.
+Pension risk
+Barclays Bank UK PLC is a participating employer in the UK Retirement Fund (UKRF), whose assets and liabilities are currently held on the Barclays
+Bank PLC balance sheet. This participation is expected to cease in 2025. The nature of pension risk for Barclays Bank UK PLC is contingent,
+specifically on a Barclays Bank PLC default. Refer to Note 34 Staff Costs for further detail.
+Interest rate risk in the banking book management (IRRBB)
+Overview
+Interest rate risk in the banking book is driven by customer deposit taking and lending activities, investments in the liquid asset portfolio and
+funding activities. As per the Barclays Bank UK Group’s policy to remain within the defined risk appetite, hedging strategies are executed to mitigate
+the risks. However, the Barclays Bank UK Group remains susceptible to interest rate risk and other non-traded market risks from key sources:
+ interest rate and repricing risk: the risk that net interest income could be adversely impacted by a change in interest rates, differences in the
+timing of interest rate changes between assets and liabilities, and other constraints on interest rate changes as per product terms and conditions.
+ customer behavioural risk: the risk that net interest income could be adversely impacted by the discretion that customers and counterparties
+may have in respect of being able to vary their contractual obligations with the Barclays Bank UK Group. This risk is often referred to by industry
+regulators as ‘embedded option risk’.
+ investment risks in the liquid asset portfolio: the risk that the fair value of assets held in the liquid asset portfolio and associated risk
+management portfolios could be adversely impacted by market volatility, creating volatility in capital directly.
+Organisation, roles and responsibilities
+The Barclays Bank UK Group ALCO, together with the Barclays Group Treasury Committee, are responsible for monitoring and managing IRRBB risk
+in line with the Barclays Bank UK Group’s management objectives and risk frameworks. The Barclays UK Risk Committee and Treasury and Capital
+Risk Committee monitors and reviews the IRRBB risk profile and control environment, providing second line oversight of the management of IRRBB.
+The Barclays Bank UK Group BRC reviews the interest rate risk profile, including annual review of the risk appetite and the impact of stress
+scenarios on the interest rate risk of the Barclays Bank UK Group’s banking books.
+In addition, the Barclays Bank UK Group’s IRRBB policy sets out the processes and key controls required to identify all IRRBB risks arising from
+banking book operations, to monitor the risk exposures via a set of metrics with a frequency in line with the risk management horizon, and to
+manage these risks within agreed risk appetite and limits.
+Market risk management (audited)
+The risk of loss arising from potential adverse changes in the value of Barclays Bank UK Group’s assets and liabilities from fluctuation in market
+variables including, but not limited to, interest rates, foreign exchange, credit spreads, implied volatilities and asset correlations.
+Overview
+Market Risk within the Barclays Bank UK Group arises from the risk management of the assets held within the liquidity pool. As a result, the market
+risk in the Barclays Bank UK Group is minimal. Transactions carrying market risk are executed by the Barclays Bank UK Group Treasury function.
+Organisation, roles and responsibilities
+The objectives of market risk management are to:
+ understand and control market risk by robust measurement, limit setting, reporting and oversight
+ control market risk within the allocated appetite.
+To meet the above objectives, a governance structure is in place to manage these risks consistent with the ERMF.
+The Barclays Bank UK PLC Board Risk Committee recommends market risk appetite to the Barclays Bank UK PLC Board for their approval, within the
+parameters set by the Barclays PLC Board. The Barclays Bank UK Group CRO confirms the Barclays Bank UK Group market risk appetite with the
+Barclays Group CRO.
+The Market Risk Committee reviews and makes recommendations concerning the Barclays Group-wide market risk profile to the Barclays Group
+Risk Committee. This includes overseeing the operation of the Market Risk Framework and associated standards and policies; reviewing market or
+regulatory issues and limits and utilisation. The committee is chaired by the Market Risk Principal Risk Lead and attendees include the business
+heads of market risk and business aligned market risk managers.
+The Barclays Bank UK Group Treasurer is accountable for all market risks associated with its activities, whilst the Barclays Bank UK Group CRO is
+the senior manager accountable for oversight of market risk, in line with the Barclays Group Framework.
+Operational risk management
+The risk of loss to Barclays Bank UK Group from inadequate or failed processes or systems, human factors or due to external events (for example
+fraud) where the root cause is not due to credit or market risks.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 48
+Risk review
+Principal risk management
+Overview
+The management of operational risk has three key objectives:
+ deliver an operational risk capability owned and used by business leaders to enable sound risk decisions over the long term;
+ provide the frameworks, policies and standards to enable management to meet their risk management responsibilities while the second line of
+defence provides robust, independent, and effective oversight and challenge; and
+ deliver a consistent and aggregated measurement of operational risk that will provide clear and relevant insights, so that the right management
+actions can be taken to keep the operational risk profile consistent with the Barclays Bank UK Group’s strategy, the stated risk appetite and
+stakeholder needs.
+The Barclays Bank UK Group operates within a system of internal controls that enables business to be transacted and risk taken without exposing
+Barclays Bank UK Group to unacceptable potential losses or reputational damages.
+Organisation, roles and responsibilities
+The prime responsibility for the management of operational risk and the compliance with control requirements rests with the business and
+functional units where the risk arises. The operational risk profile and control environment is reviewed by business management through business
+risk committees and control committees. Operational risk issues escalated from these meetings are considered through the second line of defence
+review meetings. Depending on their nature, the outputs of these meetings are presented to the Operational Risk Profile Forum, the Operational
+Risk Committee, the Barclays UK Risk Committee, the Barclays Bank UK PLC Board Risk Committee or the Barclays Bank UK PLC Board Audit
+Committee. In addition, specific reports are prepared by Operational Risk on a regular basis for the GRC and the Barclays Bank UK PLC Board Risk
+Committee.
+Businesses and functions are required to report their operational risks on both a regular and an event-driven basis. The reports include a profile of
+the material risks that may threaten the achievement of their objectives and the effectiveness of key controls, operational risk events and a review
+of scenarios. Specific reports are prepared by the business and Barclays Bank UK Group Operational Risk on a regular basis for the Barclays UK Risk
+Committee, and the BRC
+The Barclays Group Head of Operational Risk is responsible for establishing, owning and maintaining an appropriate Barclays Group-wide
+Operational Risk Framework, meanwhile the Barclays Bank UK PLC Head of Operational Risk is responsible for overseeing the portfolio of
+operational risk across all businesses.
+The Operational Risk function acts in a second line of defence capacity, and is responsible for defining and overseeing the implementation of the
+framework and monitoring the Barclays Bank UK Group’s operational risk profile. The Operational Risk function alerts management when risk levels
+exceed acceptable tolerance in order to drive timely decision making and actions by the first line of defence.
+Operational risk categories
+Operational risks are grouped into risk categories to support effective risk management, measurement and reporting. These comprise: Data
+Management Risk; Financial Reporting Risk; Fraud Risk; Information Security Risk; Operational Resilience Planning Risk; Payments Process Risk;
+People Risk; Premises Risk; Physical Security Risk; Strategic Investment Change Management Risk; Supplier Risk; Tax Risk; Technology Risk and
+Transaction Operations Risk.
+Risk themes
+Barclays Bank UK Group also recognises that there are certain threats/risk drivers that are more thematic and have the potential to impact Barclays
+Bank UK Group’s strategic objectives. These are risk themes which require an overarching and integrated risk management approach. The Barclays
+Bank UK Group’s risk themes include Cyber, Data and Resilience.
+For definitions of the Barclays Bank UK Group’s operational risk categories and risk themes, refer to page 117 of the Barclays Bank UK PLC Pillar 3
+Report 2020.
+Model risk management
+The risk of the potential adverse consequences from financial assessments or decisions based on incorrect or misused model outputs and reports.
+Overview
+The Barclays Bank UK Group uses models to support a broad range of activities, including informing business decisions and strategies, measuring
+and limiting risk, valuing exposures, conducting stress testing, assessing capital adequacy, managing client assets, and meeting reporting
+requirements.
+Since models are imperfect and incomplete representations of reality, they may be subject to errors affecting the accuracy of their output. Model
+errors and misuse are the primary sources of model risk.
+Organisation, roles and responsibilities
+The Barclays Group has a dedicated Model Risk Management (MRM) function that consists of four teams: (i) Independent Validation Unit (IVU),
+responsible for model validation and approval; (ii) Model Governance and Controls (MGC), responsible for regulatory, audit, policy, standards,
+conformance and controls; (iii) Strategy and Transformation responsible for inventory, strategy, communications and business management and
+(iv) Model Risk Measurement and Quantification (MRMQ), responsible for the design of the framework and methodology to accurately measure
+and quantify model risk.
+The model risk management framework consists of the model risk policy and standards. The policy prescribes group-wide, end-to-end
+requirements for the identification, measurement and management of model risk, covering model documentation, development, implementation,
+monitoring, annual review, independent validation and approval, change and reporting processes. The policy is supported by global standards
+covering model inventory, documentation, validation, complexity and materiality, testing and monitoring, overlays, risk appetite, as well as vendor
+models and stress testing challenger models.
+The function reports to the Barclays Group CRO and operates a global framework. Implementation of best practice standards is a central objective
+of the Barclays Bank UK Group.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 49
+Risk review
+Principal risk management
+The key model risk management activities include:
+ Correctly identifying models across all relevant areas of the Barclays Bank UK Group, and recording models in the Barclays Bank UK Group
+Models Database (GMD), the Barclays Group-wide model inventory.
+ Enforcing that every model has a model owner who is accountable for the model. The model owner must sign off models prior to submission
+to IVU for validation and maintain that the model presented to IVU is and remains fit for purpose.
+ Overseeing that every model is subject to validation and approval by IVU, prior to being implemented and on a continual basis.
+ Defining model risk appetite in terms of risk tolerance, and qualitative metrics which are used to track and report model risk.
+Conduct risk management
+The risk of detriment to customers, clients, market integrity, effective competition or Barclays from the inappropriate supply of financial services,
+including instances of wilful or negligent misconduct.
+Overview
+The Barclays Bank UK Group defines, manages and mitigates conduct risk with the objective of providing good customer and client outcomes,
+protecting market integrity and promoting effective competition.
+Conduct risk incorporates risks associated with the maintenance of market integrity, customer protection, and product and services lifecycle
+governance and the prevention of financial crime.
+Organisation, roles and responsibilities
+The Conduct Risk Management Framework (CRMF) outlines how the Barclays Bank UK Group manages and measures its Conduct Risk Profile. The
+Group Chief Compliance Officer is accountable for developing, maintaining and overseeing a group-wide CRMF. The Barclays Bank UK Group Chief
+Compliance Officer is responsible for providing effective oversight, management and escalation of conduct risk in line with the CRMF. This includes
+overseeing the development and maintenance of the relevant conduct risk policies and standards and monitoring and reporting on the consistent
+application and effectiveness of the implementation of controls to manage conduct risk. It is the responsibility of the first line of defence to establish
+controls to manage its performance and assess conformance to these policies and controls.
+Senior managers are accountable within their areas of responsibility for owning and managing conduct risk in accordance with the CRMF, as defined
+within their regulatory Statement of Responsibilities.
+Compliance as an independent second line function is designed to help prevent, detect and manage breaches of applicable laws, rules, regulations and
+procedures and has a key role in helping Barclays achieve the right conduct outcomes and evolve a conduct-focused culture.
+The governance of conduct risk within the Barclays Bank UK Group is fulfilled through management committees and forums operated by the first and
+second lines of defence with clear escalation and reporting lines to the Board. The Barclays Bank UK Group Risk Committee is the primary second line
+governance committees for the oversight of the Conduct Risk Profile. The risk committee’s responsibilities include the identification and discussion of
+any emerging conduct risks exposures in the Barclays Bank UK Group.
+Reputation risk management
+The risk that an action, transaction, investment, event, decision, or business relationship will reduce trust in Barclays Bank UK Group’s integrity
+and/or competence.
+Overview
+A reduction of trust in the Barclays Bank UK Group’s integrity and competence may reduce the attractiveness of the Barclays Bank UK Group to
+stakeholders and could lead to negative publicity, loss of revenue, regulatory or legislative action, loss of existing and potential client business, reduced
+workforce morale and difficulties in recruiting talent. Ultimately it may destroy shareholder value.
+Organisation, roles and responsibilities
+The Barclays UK Risk Committee is the most senior executive body responsible for reviewing and monitoring the effectiveness of the Barclays Bank UK
+Group’s management of reputation risk.
+The Barclays Bank UK Group Chief Compliance Officer is responsible for overseeing the management of Reputation Risk for Barclays Bank UK
+Group and the Group Head of Corporate Relations is responsible for developing a reputation risk policy and associated standards, including tolerances
+against which data is monitored, reported on and escalated, as required. The Reputation Risk Management Framework sets out what is required to
+manage reputation risk across the Barclays Bank UK Group.
+The primary responsibility for identifying and managing reputation risk and adherence to the control requirements sits with the business and support
+functions where the risk arises.
+The Barclays Bank UK Group is required to operate within established reputation risk appetite, and its component businesses prepare reports for its
+respective Risk and Board Risk Committees highlighting their most significant current and potential reputation risks and issues and how they are being
+managed. These reports are a key internal source of information for the quarterly reputation risk reports which are prepared for the Barclays UK Risk
+Committee and the Barclays Bank UK PLC Board Risk Committee.
+Legal risk management
+The risk of loss or imposition of penalties, damages or fines from the failure of Barclays Bank UK Group to meet its legal obligations including
+regulatory or contractual requirements.
+Overview
+The Barclays Bank UK Group has no tolerance for wilful breaches of laws, regulations or other legal obligations. However, the multitude of laws and
+regulations across the globe are highly dynamic and their application to particular circumstances is often unclear. This results in a high level of
+inherent legal risk which Barclays Bank UK Group seeks to mitigate through the operation of a Group-wide legal risk management framework,
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 50
+Risk review
+Risk performance
+Treasury and Capital risk
+Capital risk
+All disclosures in this section (pages 100 to 101) are unaudited unless otherwise stated.
+Overview
+The disclosures below provide key capital metrics for Barclays Bank UK Group with further information on its risk profile included in the Barclays
+Bank UK PLC Pillar 3 Report 2020, due to be published on 18 February 2021 and which will be available at home.barclays/investor-
+relations/reports-and-events/annual-reports.
+Under the withdrawal agreement between the UK and the EU, the 11-month transition period expired at 11pm on 31 December 2020. Any
+references to CRR as amended by CRR II mean, unless otherwise specified, CRR as amended by CRR II, as it forms part of UK law pursuant to the
+European Union (Withdrawal) Act 2018 and subject to the temporary transitional powers (TTP) available to UK regulators to delay or phase-in on-
+shoring changes to UK regulatory requirements arising at the end of the transition period until 31 March 2022, as at the applicable reporting date.
+Throughout the TTP period, the Bank of England and PRA are expected to review the UK legislation framework and any disclosures made by the
+Barclays Bank UK Group will be subject to any resulting guidance. Following its stated intention to consult, on 12 February 2021 the PRA launched
+a consultation on certain items within the Basel standards that remain to be implemented in the UK as well as setting out proposed new PRA CRR
+rules.
+The following regulatory updates formed part of CRR as amended by CRR II prior to 31 December 2020 and subsequently form part of UK law as
+defined above.
+On 22 April 2020, the regulatory technical standards on prudent valuation were amended to include an increase to diversification factors applied to
+certain additional valuation adjustments. The amendments temporarily reduced the additional value adjustment deduction (PVA) and were applied
+until 31 December 2020 inclusive.
+On 27 June 2020, CRR as amended by CRR II was further amended to accelerate specific CRR II measures and implement a new IFRS 9 transitional
+relief calculation. Previously due to be implemented in June 2021, the accelerated measures primarily relate to non-deduction of prudently valued
+software assets from CET1 capital, the CRR leverage calculation to include additional settlement netting and limited changes to the calculation of
+RWAs. For UK leverage calculations, the PRA early adopted the CRR II settlement netting measure in April 2020.
+The IFRS 9 transitional arrangements have been extended by two years and a new modified calculation has been introduced. 100% relief will be
+applied to increases in Stage 1 and Stage 2 provisions from 1 January 2020 throughout 2020 and 2021; 75% in 2022; 50% in 2023; 25% in 2024
+with no relief applied from 2025. The phasing out of transitional relief on the “day 1” impact of IFRS 9 as well as increases in Stage 1 and Stage 2
+provisions between 1 January 2018 and 31 December 2019 under the modified calculation remain unchanged and continue to be subject to 70%
+transitional relief throughout 2020; 50% for 2021; 25% for 2022 and with no relief applied from 2023.
+As at 31 December As at 31 December
+Capital ratiosa,b 2020 2019
+CET1 15.6% 13.5%
+Tier 1 (T1) 19.2% 16.9%
+Total regulatory capital 23.9% 21.3%
+Capital resources (audited) £m £m
+CET1 capital 11,247 10,128
+T1 capital 13,807 12,688
+Total regulatory capital 17,178 16,012
+Total risk weighted assets (RWAs) (unaudited) 72,025 75,010
+Notes
+a Capital and RWAs are calculated applying the IFRS 9 transitional arrangements of the CRR as amended by CRR II.
+b The fully loaded CET1 ratio was 14.6%, with £10,517m of CET1 capital and £72,039m of RWAs, calculated without applying the transitional arrangements of the CRR
+as amended by CRR II.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 100
+Risk review
+Risk performance
+Model risk, Conduct risk, Reputation risk, Legal risk
+All disclosures in this section are unaudited unless otherwise stated.
+Model risk
+Since the inception of model risk as a principal risk, key achievements to date include creating a firm wide model inventory, design and roll out of a
+robust Model Risk Management (MRM) framework and the validation of high materiality models. In 2020 the framework and governance of model
+risk was further improved by:
+ strengthening the model inventory management infrastructure by moving onto a new strategic technology platform, which will enable
+future enhancements and automation of controls;
+ progressing the validation of low materiality models to achieve 95% target for models under governance;
+ enhancing model risk management oversight with the establishment of dedicated MRM forums which bring together model developers,
+model owners and model validators.
+In 2021 MRM will continue to focus on the validation of low materiality models, further embedding of validation and governance activities and on
+expanding the coverage of the MRM framework to new model types.
+Conduct risk
+The Barclays Bank UK Group is committed to continuing to drive the right culture throughout all levels of the organisation. The Barclays Bank UK Group
+will continue to enhance effective management of Conduct Risk and appropriately consider the relevant tools, governance and management
+information in decision-making processes. Focus on the management of conduct risk is ongoing and, alongside other relevant business and control
+management information, the Barclays Bank UK Group Conduct Risk Dashboards are a key component of this.
+The Barclays Bank UK Group continues to review the role and impact of conduct risk events and issues in the remuneration process at both the
+individual and business level.
+During 2020, the coronavirus pandemic created new risks and heightened existing ones. To date, the Barclays Bank UK Group has focused on
+managing the heightened inherent conduct risks and continues to monitor these as the pandemic continues.
+Businesses have continued to assess the potential customer, client and market impacts of strategic change. As part of the 2020 Medium-Term Planning
+Process and associated Strategic Risk Assessment, material conduct risks associated with strategic and financial plans were assessed.
+Throughout 2020, conduct risks were raised by each business area for consideration by the Barclays Bank UK PLC Board Risk Committee. The
+Committee reviewed the risks raised and whether management’s proposed actions were appropriate to mitigate the risks effectively.
+The Barclays Bank UK Group continued to incur costs in relation to litigation and conduct matters, please refer to Note 24 Legal, competition and
+regulatory matters and Note 22 Provisions, for further details. Costs include customer redress and remediation, as well as fines and settlements.
+Resolution of these matters remains a necessary and important part of delivering the Barclays Bank UK Group’s strategy and an ongoing commitment
+to improve oversight of culture and conduct.
+The Barclays Bank UK PLC Board Risk Committee and senior management received Conduct Dashboards setting out key indicators in relation to
+Conduct, Financial Crime, Culture and Complaints. These continue to be evolved and enhanced to allow effective oversight and decision-making.
+The Barclays Bank UK Group has operated at the overall set tolerance for Conduct Risk throughout 2020. The tolerance adherence is assessed by the
+business through key indicators which are aggregated to provide an overall risk profile rating and reported to the Barclays Bank UK PLC Board Risk
+Committee as part of the Conduct Risk Dashboard.
+The Barclays Bank UK Group remains focused on the continuous improvements being made to manage risk effectively with an emphasis on
+enhancing governance and management information to identify risk at earlier stages.
+For further details on the non-financial performance measures, please refer to section 8 of the Strategic Report.
+Reputation risk
+The Barclays Bank UK Group is committed to continuing to drive the right culture throughout all levels of the organisation. The Barclays Bank UK Group
+continues to enhance effective management of reputation risk and appropriately consider the relevant tools, governance and management information
+in decision-making processes.
+The Barclays Bank UK PLC Board considers reputation risks raised by businesses. The Board has also considered whether management’s proposed
+actions have been appropriate to mitigate the risks effectively.
+The Barclays Bank UK Group continued to incur costs in relation to litigation and conduct matters, please refer to Note 24 Legal, competition and
+regulatory matters and Note 22 Provisions, for further details. Costs include customer redress and remediation, as well as fines and settlements.
+Resolution of these matters is an ongoing commitment to improve oversight of culture and conduct and management of reputation risks arising.
+The Barclays Bank UK Group remains focused on the continuous improvements being made to manage risk effectively, with an emphasis on enhancing
+governance and management information to help identify risks at earlier stages.
+For further details on the non-financial performance measures, please refer to the Strategic Report.
+Legal risk
+Summary of performance in the period
+The Barclays Bank UK Group remains committed to continuous improvements to manage legal risk effectively. A number of enhancements have
+been implemented during 2020, including a refresh of the Barclays Group-wide legal risk management framework and a review and update of the
+supporting legal risk policies, legal risk tolerances and risk appetite. Legal risk reporting has been enhanced both in terms of format and content.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 107
+Risk review
+Supervision and regulation
+Supervision of the Barclays Bank UK Group
+The Barclays Bank UK Group’s operations are subject to a large number of rules and regulations that are a condition for authorisation to conduct
+banking and financial services business. These apply to business operations, impact financial returns and include capital, leverage and liquidity
+requirements, authorisation, registration and reporting requirements, restrictions on certain activities, conduct of business regulations and many
+others.
+The day-to-day regulation and supervision of the Barclays Bank UK Group is divided between the Prudential Regulation Authority (PRA) (a division
+of the Bank of England (BoE)) and the Financial Conduct Authority (FCA). In addition, the Financial Policy Committee (FPC) of the BoE has influence
+on the prudential requirements that may be imposed on the banking system through its powers of direction and recommendation.
+Barclays Bank UK PLC is an authorised credit institution and subject to solo prudential regulation and supervision by the PRA and subject to
+conduct regulation and supervision by the FCA. The Barclays Group is subject to prudential supervision by the PRA on a group consolidated basis.
+The Barclays Bank UK Group is also subject to regulatory initiatives undertaken by the UK Payment Systems Regulator (PSR), as a participant in
+payment systems regulated by the PSR.
+The PRA’s supervision of the Barclays Bank UK Group is conducted through a variety of regulatory tools, including the collection of information by
+way of prudential returns or cross-firm reviews, reports obtained from skilled persons, regular supervisory visits to firms and regular meetings with
+management and directors to discuss issues such as strategy, governance, financial resilience, operational resilience, risk management, and
+recovery and resolution.
+Both the PRA and the FCA apply standards that either anticipate or go beyond requirements established by global or EU standards, whether in
+relation to capital, leverage and liquidity, resolvability and resolution or matters of conduct.
+The FCA’s supervision of the Barclays Bank UK Group is carried out through a combination of proactive engagement, regular thematic work and
+project work based on the FCA’s sector assessments, which analyse the different areas of the market and the risks that may lie ahead.
+The FCA and the PRA also apply the Senior Managers and Certification Regime (the SMCR) which imposes a regulatory approval, individual
+accountability and fitness and propriety framework in respect of senior or key individuals within relevant firms.
+FCA supervision has focused on conduct risk and customer/client outcomes, including product design, customer behaviour, market operations,
+LIBOR transition, fair pricing, affordability, access to cash, and fair treatment of vulnerable customers.
+PRA supervision has focused on capital management, credit risk management, Board effectiveness, operational resilience and resolvability.
+Both the PRA and the FCA have assessed the impact of Covid-19 and Brexit on UK financial markets and customers.
+Brexit
+The EU-UK Trade and Cooperation Agreement (TCA), which provides a new economic and social partnership between the EU and UK, came into
+force provisionally on 1 January 2021. The TCA does not cover the provision of financial services into the EU and there is no agreement on
+passporting, equivalence or regulatory cooperation. Therefore, Barclays Bank UK PLC is no longer able to rely on the EU passporting framework for
+the provision of financial services to EU customers.
+The EU and the UK have agreed to establish structured regulatory cooperation on financial services, with the aim of establishing a durable and
+stable relationship, based on a shared commitment to preserve financial stability, market integrity, and the protection of investors and consumers.
+The EU and the UK have committed to agreeing a Memorandum of Understanding setting out a “framework” for regulatory cooperation in financial
+services by March 2021. We anticipate that consideration will be given to equivalence determinations as part of the discussions. However,
+equivalence decisions to date have not extended to the provision of services to retail customers and therefore Barclays Bank UK Group has not
+placed any reliance on equivalence decisions when determining its strategy for EEA customers. Only any equivalence determinations relating to
+prudential requirements are likely to impact Barclays Bank UK Group.
+As a ring-fenced bank, Barclays Bank UK Group products are designed for customers within the UK. In light of the UK leaving the EU, Barclays Bank
+UK Group has continued to review the services offered to customers in the EEA, taking into account a number of factors, including the regulatory
+landscape across the EEA and, where relevant, feedback from EEA regulators. As a result, it has made the decision to exit certain products and
+services offered to EEA customers and closure processes are ongoing. Barclays Bank UK Group continues to keep its strategy under review for its
+remaining EEA customers.
+‘Onshoring’ was the process of amending EU legislation and regulatory requirements in the UK so that they work in a UK-only context, including
+directly applicable EU legislation such as EU regulations and decisions that form part of UK law by virtue of the European Union (Withdrawal) Act
+2018, now that the Brexit transition period has ended.
+The onshoring process means that there are some areas where the requirements on UK firms and other regulated persons have changed. To help
+UK firms adapt to their new requirements, HM Treasury gave UK financial regulators the power to make transitional provisions to financial services
+legislation for a temporary period. This is known as the Temporary Transitional Power (TTP).
+The FCA has applied the TTP on a broad basis from the end of the transition period until 31 March 2022. This means UK firms and other regulated
+persons do not generally need to adjust to the changes to their UK regulatory obligations brought about by onshoring straight away, although there
+are some exceptions to this and obligations which have changed and which took effect from 1 January 2021 include reporting obligations under
+various EU financial services directives and regulations, certain requirements under the Market Abuse Regulation, issuer rules, contractual
+recognition of bail-in, securitisation, use of credit ratings, mortgage lending after the transition period against land in the EEA, payments services
+and certain other matters.
+On 28 December 2020, the PRA published a policy statement (PS30/20) on changes to its rules, as well as the use of temporary transitional
+directions. The PRA’s transitional direction and the majority of the provisions in the rulebook instrument came into force at the end of the transition
+period on 31 December 2020. The transitional direction delays onshoring changes that fall within the PRA's remit. The PRA TTP will apply until 31
+March 2022, unless otherwise stated in the direction or it is varied or revoked before then.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 109
+Independent Auditor’s report
+Independent Auditor’s report to the members of Barclays Bank UK PLC
+Credit risk management
+Assessing transparency: We assessed the adequacy
+of the Group’s and Parent company’s financial
+statements disclosures in the context of the relevant
+accounting standards.
+Our results: The results of our testing were
+satisfactory and we considered the fair value of Level
+3 financial assets recognised to be acceptable (2019
+result: acceptable).
+User access management Control performance Our procedures to address the risk included:
+Risk vs 2019: ◄► Control testing: We tested the design and operating
+effectiveness of the relevant controls over user
+Our assessment of the risk is similar to FY19.
+access management including:
+The Group’s and Parent company’s accounting and
+ Authorising access rights for new joiners;
+reporting processes are dependent on automated
+controls enabled by IT systems. User access  Timely removal of user access rights;
+management controls are an important component
+ Logging and monitoring of user activities;
+of the General IT Control environment assuring that
+unauthorised access to systems does not impact the  Privileged user and developer access to
+effective operation of the automated controls in the production systems, the procedures to
+financial reporting processes. assess granting, potential use, and the
+removal of these access rights;
+Some user access management controls continue to
+be reported as not consistently implemented and  Segregation of duties including access to
+effectively operated across the Group and Parent multiple systems that could circumvent
+company. Ineffective controls included privileged segregation controls;
+access management and monitoring of privileged
+database activities on certain technology types.  Re-certification of user access rights.
+A series of remediation programmes were in place We tested the implementation and operating
+during the year to address previously identified effectiveness of management’s remediated access
+control deficiencies. The Group and Parent company management controls and found them to be
+effective in 2020.
+have also enhanced compensating controls to
+address the issues raised, most of them relating to
+Control re-performance: To assess whether
+user access management.
+additional detective compensating controls
+If the above controls for user access management are adequately address the risk of unauthorised access,
+deficient and not remediated or adequately we re-performed on a sample basis management’s
+mitigated, the pervasive nature of these controls may assessment of potential unauthorised access by
+undermine our ability to place reliance on automated privileged accounts and users that were not
+and IT dependent controls in our audit.
+managed by the strategic access management tools,
+or whose database level activities were not logged
+and monitored.
+Our results: Our testing did not identify unauthorised
+user activities in the systems relevant to financial
+reporting which would have required us to expand
+the extent of our planned detailed testing.
+3 Our application of materiality and an overview of the scope of our audit
+Materiality for the Group financial statements as a whole was set at £75 million (2019: £100 million), determined with reference to a benchmark of
+Group profit before tax from continuing operations (of which it represents 4.9%, 2019: 4.8%), normalised for 2020 to exclude the incremental charge
+related to post model adjustments made to the ECL allowance to reflect COVID-19 related economic uncertainty of £0.6 billion and by averaging over
+the last three years. In the prior year materiality was determined with reference to a benchmark of Group profit before tax, normalised to exclude the
+charge related to PPI of £1.4 billion.
+Materiality for the Parent company financial statements as a whole was set at £70 million (2019: £97 million), determined with reference to a
+benchmark of profit before tax from continuing operations (of which it represents 4.6%, 2019: 4.8%), normalised for 2020 to exclude the incremental
+charge related to post model adjustments made to the ECL allowance to reflect COVID-19 related economic uncertainty of £0.6 billion and by
+averaging over the last three years. In the prior year materiality was determined with reference to a benchmark of profit before tax, normalised to
+exclude the charge related to PPI of £1.4 billion.
+In line with our audit methodology, our procedures on individual account balances and disclosures were performed to a lower threshold, performance
+materiality, so as to reduce to an acceptable level the risk that individually immaterial misstatements in individual account balances add up to a
+material amount across the financial statements as a whole.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 119
+Independent Auditor’s report
+Independent Auditor’s report to the members of Barclays Bank UK PLC
+Credit risk management
+Performance materiality for the group and parent company was set at 75% (2019: 75%) of materiality for the financial statements as a whole, which
+equates to £56 million (2019: £75 million) for the group and £52.5 million (2019: £73 million) for the parent company. We applied this percentage
+in our determination of performance materiality because we did not identify any factors indicating an elevated level of risk.
+We agreed to report to the Audit Committee any corrected or uncorrected identified misstatements exceeding £3.5 million (2019: £4.8m), in addition
+to other identified misstatements that warranted reporting on qualitative grounds.
+Group materiality
+Normalised profit before tax from
+continuing operations
+£1,521m* (2019: £2,069m**)
+£75m
+Whole financial
+statements materiality
+(2019: £100m)
+£56m
+Whole financial
+statements performance
+materiality (2019: £75m)
+£3.5m
+Misstatements reported to the
+Audit Committee (2019:
+£4.8m)
+Normalised profit before tax
+from continuing operations
+Group materiality
+*normalised to exclude the incremental charge related to post model adjustments made to the ECL allowance to
+reflect COVID-19 related economic uncertainty and by averaging over the last three years
+**normalised to exclude charges related to PPI
+Scope – general
+The Group engagement team performed the audit of the Group as it if was a single aggregated set of financial information, using the materiality
+levels set out above.
+The Group has certain centralised processes in India, the outputs of which are also included in the aggregated set of financial information. These
+services are subject to specified audit procedures, predominantly the testing of transaction processing and controls. We evaluated the work which
+the participating audit team performed in these areas. We communicated with the participating audit team throughout the audit by holding regular
+telephone conference meetings.
+4 Going concern
+The Directors have prepared the financial statements on the going concern basis as they do not intend to liquidate the Parent company or the Group
+or to cease their operations, and as they have concluded that the Parent company’s and the Group’s financial position means that this is realistic.
+They have also concluded that there are no material uncertainties that could have cast significant doubt over their ability to continue as a going
+concern for at least a year from the date of approval of the financial statements (“the going concern period”).
+We used our knowledge of the Group and Parent company, the financial services industry, and the general economic environment to identify the
+inherent risks to its business model and analysed how those risks might affect the Group’s and Company’s financial resources or ability to continue
+operations over the going concern period. The risks that management considered most likely to adversely affect the Group’s and Parent company’s
+available financial resources, and we challenged on, over this period were:
+ the availability of funding and liquidity in the event of a market wide stress scenario including the impact in which the global COVID-19
+pandemic continues to unfold and the impact of the UK withdrawal from the European Union; and
+ the impact on regulatory capital requirements in the event of an economic slowdown or recession.
+We considered whether these risks could plausibly affect the availability of financial resources in the going concern period by assessing and comparing
+severe, but plausible downside scenarios prepared by the Group, that could arise from these risks individually and collectively against the level of
+available financial resources indicated by the Group’s and Parent company’s financial forecasts.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 120
+Notes to the financial statements
+Other disclosure matters
+How the Group is managing the transition to alternative benchmark rates
+The Barclays Group has established a Group-wide LIBOR Transition Programme, with oversight from the Barclays Group Finance Director. The
+Programme spans all business lines and has cross-functional governance which includes Legal, Conduct Risk, Client Engagement and
+Communications, Risk, and Finance. The Transition Programme aims to drive strategic execution, and identify, manage and resolve key risks and
+issues as they arise. Accountable Executives are in place within key working groups across businesses and workstreams. Barclays’ transition plans
+primarily focus on G5 currencies while providing quarterly updates on progress and exposures to the PRA/FCA and other regulators as required.
+The Transition Programme follows a risk based approach, using recognised ‘change delivery’ control standards, to drive strategic execution, and
+identify, manage and resolve key risks and issues as they arise. Accountable Executives are in place within key working groups, with overall Board
+oversight delegated to the Board Risk Committee. Barclays performs a prominent stewardship role to drive orderly transition via our representation
+on official sector and industry working groups across all major jurisdictions and product classes. Additionally, the Barclays Group Finance Director is
+Chair of the UK’s ‘Working Group on Sterling Risk-Free Reference Rates’, whose mandate is to catalyse a broad-based transition to using SONIA
+(‘Sterling Overnight Index Average’) as the primary sterling interest rate benchmark in bond, loan and derivatives markets.
+Approaches to transition exposure expiring post the expected end dates for LIBOR vary by product and nature of counterparty. The Barclays Bank UK
+Group is actively engaging with the counterparties to transition or include appropriate fallback provisions and transition mechanisms in its floating
+rate assets and liabilities with maturities after 2021, when most IBORs are expected to cease to be published. For the derivative population, adherence
+to the ISDA IBOR Fallbacks Protocol now provides the Group with an efficient mechanism to amend outstanding trades to incorporate fallbacks.
+Beyond the ISDA IBOR Fallbacks Protocol, there will be options to terminate or bilaterally agree new terms with counterparties. The Barclays Bank UK
+Group expects derivative contracts facing central clearing counterparties to follow a market-wide, standardised approach to reform.
+Market participants are currently awaiting publication of the results of ICE Benchmark Administration’s consultation on plans to cease publication of
+most LIBORs at end 2021, with certain, actively used USD LIBOR tenors continuing to be provided until end June 2023. The FCA expects to enable
+publication of a synthetic LIBOR rate for at least certain actively used GBP LIBOR tenors to facilitate roll-off of relevant contracts that cannot be
+actively transitioned by end 2021.
+Progress made during 2020
+During 2020, the Barclays Bank UK Group has successfully delivered Alternative RFR product capabilities and alternatives to LIBOR across loans,
+bonds and derivatives. Good progress has been made in relation to client outreach and we have been actively engaging with customers and
+counterparties to transition or include the appropriate fallback provisions. The Barclays Bank UK Group has in place detailed plans, processes and
+procedures to support the transition of the remainder during 2021. Barclays Bank UK Group has adhered to the ISDA IBOR Fallbacks Protocol for its
+major derivative entity, Barclays Bank UK PLC and we continue to track progress and engage with clients on their own adherence. Following the
+progress made during 2020, the Barclays Bank UK Group continues to deliver technology and business process changes to ensure operational
+readiness in preparation for LIBOR cessation and transitions to RFRs that will be necessary during 2021 in line with official sector expectations and
+milestones.
+Risks to which the Barclays Bank UK Group is exposed as a result of the transition
+IBOR reform exposes the Group to various risks, which are being managed through the LIBOR Transition Programme. The material risks identified
+include those set out below:
+• Conduct and Litigation Risk: This is the risk that poor customer outcomes are brought about as a direct result of inappropriate or negligent
+conduct on the part of Barclays, in connection with IBOR transition.
+• Operational Risk: The LIBOR Transition Programme cuts across all businesses and functions. There are a number of implementation
+challenges arising from transition, including technology, operations, client communication and the measurement of valuation, giving rise
+to additional operational risks.
+• Market Risk: Changes to Barclays Bank UK Group Market Risk profile are expected due to IBOR transition. These changes are expected to
+be managed within risk appetite. IBOR transition will also impact the basis risk profile both at the cessation event (when broadly all LIBOR
+contracts fall back to alternatives) as well as in the interim period when alternative rates are referenced in contracts.
+• Counterparty Credit Risk: LIBOR replacement presents an increased risk of clients wishing to renegotiate the terms of existing transactions.
+This is dependent on client behaviour and the outcome of resulting negotiations and could change the credit risk profile of client exposure.
+• Financial Risk: There is a risk to the Barclays Bank UK Group and its clients that markets are disrupted due to IBOR reform. This could give
+rise to financial losses should Barclays Bank UK Group be unable to operate effectively in financial markets.
+• Accounting Risk: This would occur if the hedged items and hedging instruments of the Barclays Bank UK Group hedging relationships
+were to transition away from IBORs: at different times; to different benchmarks; or using divergent methodologies resulting in significant
+volatility to the income statement either through hedge accounting ineffectiveness or failure of the hedge accounting relationships.
+A disorderly cessation of LIBOR would carry substantial economic, legal, regulatory, reputational and operational risks for Barclays Bank UK Group
+and the industry in general. The Barclays Bank UK Group’s expectation is that the transition away from LIBOR will be carefully managed and that
+measures including the broad adoption of ISDA IBOR Fallbacks Protocol, the approach the Central Clearing Counterparties are expected to follow,
+proactive client engagement, regulatory action and/or terminating or bilaterally amending contracts where clients do not wish to adopt new
+conventions (e.g. ISDA IBOR Fallbacks Protocol), can mitigate the risks associated with a disorderly cessation.
+The Barclays Bank UK Group does not expect material changes to its risk management approach and strategy as a result of interest rate benchmark
+reform.
+home.barclays/annualreport Barclays Bank UK PLC Annual Report 180

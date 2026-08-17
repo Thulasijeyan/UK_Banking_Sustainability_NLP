@@ -1,0 +1,1626 @@
+Environmental, Social
+and Governance (ESG)
+Report 2021
+Contents
+Introduction 02
+Our 2021 ESG highlights 03
+Our approach to ESG reporting
+Global Reporting Initiative alignment index 04
+We adopt an integrated approach to corporate reporting, embedding
+2: General Disclosures 04 non-financial information throughout our 2021 Annual Report.
+We also produce a standalone Task Force on Climate-related Financial
+3: Material Topics 10
+Disclosures (TCFD) Report, and a Modern Slavery Statement. As such,
+further information on our approach and progress towards our most
+201: Economic Performance 10
+material sustainable and responsible business topics can be found
+throughout our core reporting suite, accessed via the links below.
+203: Indirect Economic Impacts 11
+This ESG report is intended to provide supplementary ESG-related
+204: Procurement Practices 11 information to stakeholders and investors by setting out alignment
+index tables for the Global Reporting Initiative (GRI), Sustainability
+205: Anti-corruption 12
+Accounting Standards Board (SASB) and World Economic Forum
+Stakeholder Capitalism Metrics, as well as our self-assessment template
+207: Tax 13
+for the United Nations Principles for Responsible Banking (UN PRB).
+302: Energy 14 We are committed to providing our stakeholders with useful,
+relevant and meaningful sustainability information and in future
+305: Emissions 15 years will endeavour to enhance our disclosures on these topics.
+404: Training and Education 17 See sc.com/annualreport
+405: Diversity and Equal Opportunity 18 See sc.com/tcfd
+409: Forced or Compulsory Labour 18 See sc.com/modernslavery
+414: Supplier Social Assessment 19
+Sustainability Accounting Standards Board alignment index 20
+World Economic Forum Stakeholder Capitalism Metrics alignment index 25
+UN Principles for Responsible Banking self-assessment 36
+Important notices 49
+02 Standard Chartered — ESG Report 2021
+2021 highlights
+Our vision
+Pillar 1:
+$9.6 1.4 $2.96
+bn bn* bn
+Business
+Project financing facilitated Tonnes of CO emissions avoided Financing to small
+2
+for infrastructure projects from operational Sustainable business clients
+Our vision Finance assets
+is to be the
+world’s most 70 $617.5 1,333
+%* m
+sustainable and
+responsible
+bank Sustainable Finance assets located in Provided to microfinance institutions Clients and transactions reviewed
+n s emerging and developing economies for environmental and social risks
+o
+Operati
+Pillar 2:
+30.7 99.6 27
+% % %
+Operations
+Women holding senior Staff recommitted to Code Reduction in carbon footprint
+82.9
+leadership roles of Conduct year-on-year
+%
+80.65 15 99.6
+% % %
+Sustainability Aspirations
+achieved or on track.
+Culture of inclusion score Energy sourced from renewables Staff completing e-learnings
+on financial crime risk
+Pillar 3:
+$48.7 $14 >89,000
+m m
+Communities
+Invested in our communities For Futuremakers by Standard Girls participated in our Goal
+Chartered through fundraising and programme
+Group donations
+>31,600 >66,500 >46,800
+Employee volunteering days Young people reached through Young people reached through
+employability projects entrepreneurship activities
+* Figures accurate from July 2020 to June 2021,
+as per Sustainable Finance Impact Report
+03 Standard Chartered — ESG Report 2021
+GRI alignment index
+Standard Chartered has reported in accordance with the GRI Standards for the period 1 January 2021 to 31 December 2021. GRI 1: Foundation 2021 was used as the basis of preparation.
+No GRI Sector Standards applied. The table below highlights sections of our 2021 public disclosures that include information related to the GRI Standards.
+GRI standard Disclosure Code Location/response
+GRI 2: General disclosures
+1. The organisation Organisational details 2-1 Standard Chartered PLC is incorporated in England and Wales with limited liability, and is headquartered
+at 1 Basinghall Avenue, London, UK. We are present in 59 markets and serve clients in a further 83.
+and its reporting See inside front cover and pages 4–5 of our 2021 Annual Report.
+practices Entities included in the organisation’s sustainability 2-2 All entities included in the financial reporting are also included in our sustainability reporting. Note 32 on
+reporting pages 407–411 of our 2021 Annual Report sets out Standard Chartered’s investments in subsidiary undertakings,
+joint ventures and associates.
+Reporting period, frequency and contact point 2-3 Our 2021 Annual Report covers the period 1 January 2021 to 31 December 2021.
+The reporting period for sustainability data is consistent with this, with the exception of our environment data which
+relates to a reporting period of 1 October 2020 to 30 September 2021 to allow sufficient time for independent
+assurance to be gained prior to the publication of results. See sc.com/environmentreporting.
+In addition, our Sustainable Finance Impact Report (sc.com/SFimpactreport) published in 2021 and quoted within the
+Annual Report, covers the period 1 July 2020 to 30 June 2021, in line with the timing of our Sustainable Bond issuances.
+Restatements of information 2-4 In our 2021 Annual Report, we restated our 2020 flight emissions, along with associated totals and intensity metrics.
+There was an immaterial change of less than one per cent, taking the scaled up flight emissions from 33,811 tonnes of
+CO equivalent (COeq) per year as reported in 2020 to 33,930 COeq/year. See pages 451–452 of our 2021 Annual
+2 2 2
+Report. For any questions related to our Annual Report, please contact investor.relations@sc.com, and for questions
+related to this ESG Report please contact sustainability.feedback@sc.com.
+External assurance 2-5 To ensure stakeholder confidence in our approach, we have conducted a limited-scope assurance exercise of
+performance data related to selected Sustainability Aspirations. The findings of this exercise will contribute towards
+our continued work to strengthen how we track and report progress on our Aspirations, including as part of our
+commitment to the UN PRB. This can be accessed at sc.com/aspirationsassurance.
+Our UN PRB self-assessment has been independently assured and can be accessed at sc.com/UNPRBassurance.
+We use an independent third-party assurance provider to verify our measured Scope 1 and Scope 2 emissions, as well
+as waste and water consumption. See sc.com/environmentalassurance.
+04 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+GRI 2: General disclosures continued
+2. Activities and Activities, value chain and other business 2-6 Our client segments are Corporate, Commercial and Institutional Banking (CCIB) and Consumer, Private and Business
+relationships Banking (CPBB):
+workers • CCIB supports clients with their transaction banking, financial markets, corporate finance and borrowing needs
+across 49 markets, providing solutions to more than 22,000 clients in some of the world’s fastest-growing
+economies and most active trade corridors.
+• CPBB serves more than 9 million individuals and small businesses, with a focus on the affluent and emerging
+affluent in many of the world’s fastest-growing cities.
+Further information on our business model, activities, services and markets served can be found in our 2021 Annual
+Report on pages 2–3, 21 and 26–30.
+We have approximately 12,100 suppliers across 55 markets.
+Further information on our supply chain can be found in our 2021 Annual Report on pages 51–59 and 187.
+Employees 2-7 We have more than 81,000 employees across our footprint. Further detail about the composition of our global
+workforce can be found in our supplementary people information data tables on pages 446–449 of our 2021 Annual
+Report.
+Workers who are not employees 2-8 Non-outsourced non-employed workers (NEWs) are engaged on a time and materials basis where task selection
+and supervision are the responsibility of the Group, such as agency workers. In our reporting, references to total
+number of colleagues include employees plus non-outsourced NEWs.
+Outsourced NEWs are arrangements with a third-party vendor where the delivery is based on a specific service or
+outcome at an agreed price, irrespective of the number of resources required to perform the service. These resources
+are not considered as part of the Group’s headcount.
+Details of our outsourced and non-outsourced NEWs can be found in our supplementary people information data
+tables on pages 446–449.
+3. Governance Governance structure and composition 2-9 Our Board is led by our Group Chairman, José Viñals. Profiles of all Board members can be found on pages 91–94 of
+our 2021 Annual Report. Our Board is supported in its work by several committees, including the Audit Committee
+(see pages 116-122), Board Risk Committee (see pages 123-129), Culture and Sustainability Committee (CSC)
+(see pages 130-132), Governance and Nomination Committee (see pages 133-137), Board Financial Crime Risk
+Committee (see pages 138-140).
+Nomination and selection of the highest governance 2-10 The Board’s Governance and Nomination Committee has responsibility for keeping the size, structure and
+composition of the Board and its committees under review. As part of the Committee’s succession planning for the
+Board, it takes into account the Group’s strategy and challenges, and makes recommendations to the Board in
+respect of any adjustments to the Board’s composition. Further information on the nomination and selection process
+for the Board and its committees can be found on pages 133–137 of the 2021 Annual Report.
+Chair of the highest governance body 2-11 The roles of the Group Chairman and Group Chief Executive are distinct from one another and are clearly defined in
+detailed role descriptions which can be viewed at sc.com/roledescriptions.
+05 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+GRI 2: General disclosures continued
+3. Governance Role of the highest governance body in overseeing 2-12 Our Board is collectively responsible for our long-term success, and for ensuring that the Group is led within a
+management of impacts framework of effective controls. The Board sets our strategic direction, approves our strategy and takes appropriate
+continued action to ensure that we have the resources we need to achieve our strategic aspirations.
+The Board considers the impact of the decisions it makes, and its responsibilities to all our stakeholders, including
+colleagues, shareholders, regulators, clients and suppliers, as well as to the environment and the communities where
+we operate.
+Our six Board committees play an important role in supporting the Board. Stakeholder consideration and
+engagement form a crucial aspect of Board decision-making and discussions. The Board also recognises this as
+significant in its continued review of the Group’s purpose, values and strategy. Specifically, the Culture and
+Sustainability Committee provides oversight of our sustainability priorities (see response to GRI 2-13).
+Further detail regarding the Board’s engagement with our stakeholders can be found on pages 110–115 of the 2021
+Annual Report, with detail regarding how each Committee and its members engaged with stakeholders found in the
+Committee report sections on pages 116–140.
+Delegation of responsibility for managing impacts 2-13 At Board level, the Culture and Sustainability Committee (CSC) provides oversight for our sustainability strategy while
+the Board Risk Committee oversees Reputational and Sustainability Risk as part of the Enterprise Risk Management
+Framework. The Group Risk Committee provides executive-level committee oversight and delegates the authority to
+ensure effective management of Reputational and Sustainability Risk to the Group Responsibility and Reputational
+Risk Committee (GRRRC).
+Specifically for climate change, the Group Chief Risk Officer has Senior Management Responsibility for Climate Risk
+and is supported by the Global Head, Enterprise Risk Management who has day-to-day oversight, and has
+appointed the Climate Risk Management Forum that oversees the delivery of the Group’s commitment to manage
+climate-related financial and non-financial risks. In 2021, we established a robust governance structure to support our
+net zero approach through the Net Zero Steering Group chaired by the Group Head, Conduct, Financial Crime &
+Compliance.
+The Sustainable Finance Governance Committee, appointed by the GRRRC, provides leadership, governance and
+oversight for delivering the Group’s sustainable finance offering. A cross-business Sustainability Forum is responsible
+for developing and delivering the Group’s broader sustainability strategy.
+For more information on Board engagement with stakeholders, including on sustainability topics, see pages 110–115 of
+the 2021 Annual Report, and for the CSC see pages 130–132. Additional information on sustainability governance
+oversight can be found on pages 276–277.
+Further information on the Group’s governance for climate change specifically can be found in the governance
+chapter of our TCFD Report at sc.com/tcfd.
+Role of the highest governance body in 2-14 During 2021, the Board discussed, reviewed and approved the Group’s net zero pathway in advance of the publication
+sustainability reporting of our Net Zero Whitepaper. See sc.com/netzero.
+The sustainability information integrated into the 2021 Annual Report was approved by both the Management
+Team (MT) and the Board. Our TCFD report was approved by the MT, and the Modern Slavery Statement was also
+approved by the Board and MT.
+06 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+GRI 2: General disclosures continued
+3. Governance Conflicts of interest 2-15 The Governance and Nomination Committee considers any potential situational conflicts of interest declared by
+Board members. External appointments held by Board members are set out on pages 91–94 of the 2021 Annual
+continued Report.
+Communication of critical concerns 2-16 During 2021, the Board’s Audit Committee reviewed and discussed an annual report on the operation and
+effectiveness of the Speaking Up Programme which was subsequently tabled to the Board. The report provided the
+Committee with assurance of the Group’s ongoing compliance with the Whistleblowing Rules. The Committee
+discussed the linkages between Speaking Up and data within the Group’s My Voice (employee engagement survey)
+results and the focus areas for 2022. In 2021, the Committee Chair received updates on Speak Up issues and incidents
+as necessary. See page 122 of the 2021 Annual Report.
+Total numbers of Speak Up cases raised and closed throughout the year can be found on page 72 of the 2021 Annual
+Report.
+Collective knowledge of the highest governance 2-17 In 2021, we conducted training for the Board and Management Team on our approach to net zero, and Imperial
+body College London delivered a Board-level training on climate scenarios to support the Board with their review and
+challenge of climate-related regulatory stress testing. See pages 67–69 of the 2021 Annual Report and our TCFD
+report at sc.com/tcfd.
+Evaluation of the performance of the highest 2-18 The Group Chairman is committed to ensuring optimal Board effectiveness and the Governance and Nomination
+governance body Committee of the Board has oversight of overall Board effectiveness. See page 133 of the 2021 Annual Report.
+The 2021 Board and committees’ effectiveness review was conducted internally, facilitated by the Group Company
+Secretary, and in accordance with the UK Corporate Governance Code. See pages 108–109 of the 2021 Annual Report.
+Remuneration policies 2-19 Our Directors’ remuneration report on pages 141–180 of the 2021 Annual Report provides an overview of the
+remuneration policies for the executive directors and the wider workforce. Page 19 of our 2021 TCFD report also sets
+out the incentives structure with regards to our climate-related activities.
+Process to determine remuneration 2-20 Our Remuneration Committee is responsible for setting the governance framework for remuneration for all
+employees, ensuring alignment with our culture, the requirements of the UK Corporate Governance Code and any
+other relevant regulations. Our Director’s remuneration report on pages 141–180 of the 2021 Annual Report provides an
+overview of the remuneration policies for the executive directors and the wider workforce.
+Annual total compensation ratio 2-21 In line with UK regulations, we annually report pay ratios comparing CEO remuneration with that of all UK employees.
+We review year-on-year changes to understand the reasons and appropriateness for such movements. In addition,
+we review the median ratio against UK FTSE and industry peer averages. Our 2021 pay ratios are covered in our
+Directors’ remuneration report, on page 171 of the 2021 Annual Report.
+07 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+GRI 2: General disclosures continued
+4. Strategy, policies Statement on sustainable development strategy 2-22 Sustainability is a pillar of our strategy. In their statements in our 2021 Annual Report (see pages 6–12), our Group
+Chairman and CEO both discuss the importance of sustainability to our strategy, how we are taking a Stand on
+and practices critical societal issues, and our pathway to net zero. Furthermore, the Board’s coverage of sustainability matters can
+be reviewed in our Directors’ report, on pages 88–140 of our 2021 Annual Report.
+Policy commitments 2-23 We have set ourselves the vision to become the world’s most sustainable and responsible bank, committed to
+sustainable social and economic development through our business, operations and communities. We have a range
+of standards and policies that guide our approach to doing business in a sustainable way, which can be accessed at
+sc.com/standardsandpolicies.
+In addition, our 2021 Annual Report sets out our approach to engaging key stakeholder groups, and our approach
+and progress towards our most material sustainable and responsible business topics, including: sustainable finance,
+environmental and social risk management, climate change, conduct and ethics, fighting financial crime, human
+rights, managing our environmental footprint, and community engagement. See pages 51–77 of our 2021 Annual
+Report.
+Further information on our approach to climate change can also be read in our TCFD report at sc.com/tcfd, and our
+Modern Slavery Statement at sc.com/modernslavery.
+Embedding policy commitments 2-24 At Board level, the Culture and Sustainability Committee (CSC) provides oversight for our sustainability strategy while
+the Board Risk Committee oversees Reputational and Sustainability Risk as part of the Enterprise Risk Management
+Framework. The Group Risk Committee provides executive-level committee oversight and delegates the authority to
+ensure effective management of Reputational and Sustainability Risk to the Group Responsibility and Reputational
+Risk Committee (GRRRC). The Sustainable Finance Governance Committee, appointed by the GRRRC provides
+leadership, governance and oversight for delivering the Group’s sustainable finance offering. The Sustainability
+Forum reports into the Group MT and oversees the development and implementation of the Group’s vision to be the
+world’s most sustainable and responsible bank, and guides a co-ordinated Group-wide approach to key
+sustainability themes, including climate change.
+Further detail on the governance and management of sustainable and responsible business activities can be found
+in the following locations:
+• for governance of Sustainability Risk, see pages 276–277 of the 2021 Annual Report
+• for the activities of the CSC of the Board, see pages 130–132 of the 2021 Annual Report
+• for the governance of climate change specifically, see pages 11–19 of our TCFD Report at sc.com/tcfd.
+The sustainable and responsible business chapter from pages 61–77 of the 2021 Annual Report provides further
+information on the integration of sustainable and responsible policies and commitments into organisational
+strategies, operational policies and procedures.
+08 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+GRI 2: General disclosures continued
+4. Strategy, policies Processes to remediate negative impacts 2-25 Our Group Grievance Standard provides a formal framework to deal with concerns that employees have in relation
+to their employment or another colleague, which affects them directly, and cannot be resolved through informal
+and practices mechanisms, such as counselling, coaching or mediation. See page 186 of our 2021 Annual Report.
+continued Mechanisms for seeking advice and raising concerns 2-26 The ability to raise concerns is essential to upholding the Group’s here for good brand and valued behaviours. Early
+disclosure of concerns reduces the risk of financial and reputational loss caused by misconduct. We encourage
+colleagues, contractors, suppliers and members of the public to raise concerns to our Speaking Up whistleblowing
+programme which offers secure, independent and confidential channels to report known or suspected misconduct
+without fear of retaliation. Further detail on our Speaking Up Programme can be found on pages 71–72 and 186 of our
+2021 Annual Report.
+Compliance with laws and regulations 2-27 The Group receives legal claims against it in a number of jurisdictions and is subject to regulatory and enforcement
+investigations and proceedings from time to time. Note 26 to our financial statements sets out further information on
+our legal and regulatory matters. See page 390 of our 2021 Annual Report.
+Membership associations 2-28 We are members of a wide range of financial services and other relevant professional and trade associations, some
+of which may engage with political stakeholders on topics that are of relevance to our business. We are members of
+an estimated 200 associations globally. As a matter of procedure, trade associations memberships are reviewed
+annually. As with any expenditure related to public policy engagement, changes to those memberships are subject to
+the Group’s general expenditure policies and procedures and approved in line with the delegated authority structures
+in place at market, regional and Group levels.
+View our key memberships at Group level and in a range of our larger markets at sc.com/politicalengagement and
+sc.com/en/sustainability/how-we-work/.
+5. Stakeholder Approach to stakeholder engagement 2-29 Listening and responding to stakeholder priorities and concerns are critical to achieving our Purpose and delivering
+on our brand promise, here for good. We strive to maintain open and constructive relationships with a wide range of
+engagement stakeholders including regulators, lawmakers, clients, investors, civil society and community groups.
+See pages 51–59 of our 2021 Annual Report to learn more about how we engage with our key stakeholders.
+Collective bargaining agreements 2-30 We seek to build productive and enduring partnerships with various employee representative bodies (including
+unions and work councils). In our recognition and interactions, we are heavily influenced by the 1948 United Nations
+Universal Declaration of Human Rights (UDHR), and several International Labour Organization (ILO) conventions,
+including the Right to Organise and Collective Bargaining Convention, 1949 (No. 98) and the Freedom of Association
+and Protection of the Right to Organise Convention, 1948 (No. 87).
+For further detail on the percentage of employees covered by collective bargaining agreements, and our approach
+for those not covered, see page 186 of our 2021 Annual Report.
+09 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+Material topics
+3: Material topics Process to determine material topics 3-1 Listening and responding to stakeholder priorities and concerns is critical to achieving our Purpose and delivering on
+our brand promise, here for good. We strive to maintain open and constructive relationships with a wide range of
+stakeholders including regulators, lawmakers, clients, investors, civil society and community groups. In 2021, our
+engagement took many forms, including one-to-one sessions using online channels and calls, virtual roundtables,
+written responses and targeted surveys. These conversations, and the issues that underpin them, help inform our
+business strategy and enable us to operate as a responsible and sustainable business.
+More detailed information on how we engage stakeholders and assess their interests is on pages 51–59 of our 2021
+Annual Report.
+We have set ourselves the vision to become the world’s most sustainable and responsible bank, committed to
+sustainable social and economic development through our business, operations and communities. In pursuit of this,
+and in alignment with stakeholder priorities, in 2021 we formally elevated sustainability to be a pillar of our strategy.
+We have set long-term ambitions for our role in tackling the severe impacts of climate change, stark inequality and
+unfair aspects of globalisation that impact everyone and the planet.
+In addition, we review and refresh our Sustainability Aspirations annually to ensure they reflect our stakeholders’
+priorities and evolving strategy. For example, in 2021, we committed to consult with shareholders, investors, clients
+and civil society to develop a definition, methodology, targets and timeline to develop our approach to measuring,
+managing and reducing emissions associated with our financing of clients to support our objective to achieve net
+zero by 2050.
+See pages 24-25 of our 2021 Annual Report for more detail on how we are taking a stand, and our sustainable
+and responsible business section on pages 61–77 for further information on our core material sustainability
+topics and Sustainability Aspirations. Our suite of Sustainability Aspirations for 2022 can be found at
+sc.com/sustainabilityaspirations.
+201: Economic Management approach 201 Our Group Chief Financial Officer’s review on pages 32–40 of our 2021 Annual Report provides information on our
+economic performance. The financial statements can be found on pages 294–459.
+Performance
+Direct economic value generated and distributed 201-1 See our consolidated income statement on page 308 of our 2021 Annual Report. Further information can be found in
+the notes to the financial statements, as referenced. Pages 318–323 set out our results by operating and geographic
+segment.
+Financial implications and other risks and 201-2 See pages 67–69 of our 2021 Annual Report for a summary of our TCFD response which sets out further information on
+opportunities due to climate change the risks and opportunities posed by climate change. Our full stand-alone TCFD Report can be accessed at
+sc.com/tcfd.
+Defined benefit plan obligations and other 201-3 Information on our retirement benefit obligations can be found on pages 398–402, in Note 30 of our financial
+retirement plans statements in our 2021 Annual Report.
+Financial assistance received from government 201-4 To the best of our knowledge, no material assistance was received by any government during 2021.
+10 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+203: Indirect Management approach 203 We are committed to promoting economic and social development in the markets we operate, doing so sustainably
+and equitably in line with our Purpose and three valued behaviours: ‘Never settle’, ‘Better together’ and ‘Do the right
+Economic Impacts thing’. This Sustainability Philosophy sets out how we integrate sustainability into our organisational decision-making.
+Growth in our markets is leading to rapid urbanisation and creating increased need for infrastructure and
+technology. We believe finance plays a key role in meeting these needs. It enables individuals to build a positive
+future for themselves and their families, businesses to thrive and grow, and governments to deliver economic
+prosperity for the wider community. Supporting sustainable and responsible growth, including delivering the UN
+SDGs, represents a significant opportunity for us. In pursuing this opportunity, we are guided by our brand promise,
+here for good. See sc.com/sustainabilityphilosophy.
+Achieving a just transition – where climate objectives are met without depriving emerging markets of their
+opportunity to grow and prosper – will require directing capital and specialised support to the regions that need it the
+most to drive sustainable economic growth. As part of our Sustainability Aspirations, we have set ourselves the target
+to mobilise project financing services for $40 billion of infrastructure projects that promote sustainable development
+that align to our verified Green and Sustainable Product Framework. See page 62 of our 2021 Annual Report.
+Infrastructure investments and services supported 203-1 Our Sustainable Finance Impact Report sets out further detail on our investment in healthcare and transport
+infrastructure, and the impact that is having. See sc.com/SFimpactreport. Page 62 of our 2021 Annual Report also
+details progress against our infrastructure Sustainability Aspiration.
+Significant indirect economic impacts 203-2
+204: Procurement Management approach 204 We engage diverse suppliers, both locally and globally, to provide efficient and sustainable goods and services for
+our business. The majority of our expenditure is on services and is managed through a third-party governance
+Practices framework which ensures that we follow the highest standards in terms of sourcing,awarding and on-boarding
+suppliers.
+See page 187 of our 2021 Annual Report and sc.com/suppliercharter.
+Proportion of spending on local suppliers 204-1 In 2021, $4.1 billion was spent with approximately 12,100 first-tier suppliers. Of this, 73 per cent of the total spend was
+spent in the Asia region, with 19 per cent in Europe and the Americas, and eight per cent in Africa and the Middle East.
+See page 187 of the 2021 Annual Report, and Appendix 1 on page 48 of in this report, for more detail on our
+procurement spend for 2021.
+11 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+207: Tax Management approach 207 Further information on our accounting policies related to taxation, significant accounting estimates and judgements,
+and taxation disclosures for the Group are provided in Note 10: Taxation on pages 333–336 of our 2021 Annual Report.
+The Audit Committee of the Board has oversight of taxation which is considered an area of focus. Further information
+is described on pages 116–122 of our 2021 Annual Report.
+In addition, in accordance with the Capital Requirements (Country-by-Country Reporting) Regulations 2013, we set
+out the country-by-country information in respect of the year ended 31 December 2020. Also included are further
+disclosures setting out our approach to tax and additional taxes paid in the year. The disclosures in respect of the
+year ended 31 December 2021 will be published on the website on or before 31 December 2022.
+Approach to tax 207-1 The Group’s approach to tax is governed by our tax strategy approved by the Board. Under our tax strategy, we
+manage our tax affairs in alignment with our commercial strategy, having regard to building long term shareholder
+value and to maintaining our reputation as a responsible taxpayer with tax authorities and regulators.
+For further information see pages 333–336 of our 2021 Annual Report, and our Country-by-Country schedule at
+sc.com/cbcr. This schedule is subject to independent audit by Ernst & Young LLP where indicated.
+Tax governance, control, and risk management 207-2 The Group aims to control tax risks to ensure that losses (financial or reputational), including any related to conduct
+of business matters, do not cause material damage to the Group’s franchise. Risks relating to the tax aspects of
+financial crime compliance are governed by the Group Financial Crime Risk Committee. Management of all other tax
+risks is overseen by the Group Non-Financial Risk Committee. Both directly report to Group Risk Committee.
+For further information see sc.com/cbcr. This schedule is subject to independent audit by Ernst & Young LLP where
+indicated.
+Stakeholder engagement and management of 207-3 We manage our relationships with tax authorities and regulators in a transparent, professional and constructive
+concerns related to tax manner. We routinely seek feedback from Her Majesty’s Revenue and Customs (HMRC) on our relationship with them
+and we seek to resolve issues with HMRC before returns are filed where practicable.
+Standard Chartered contributes to the development of sustainable tax policy and legislation, typically through direct
+engagement with tax authorities, public consultation processes or in our role as a member of an industry group.
+For further information see sc.com/cbcr.
+Country-by-country reporting 207-4 Across our markets, we operate as one bank. We are a global business and have substantial commercial operations
+in both high and low tax jurisdictions. All business entities included in our tax disclosures can be found on pages 9–12
+of the Country-by-Country Disclosure at sc.com/cbcr.
+13 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+302: Energy Management approach 302 We aim to minimise the environmental impact of our operations as part of our commitment to be a responsible
+company. We report on energy, water and non-hazardous waste data which become the basis of our GHG emissions
+management, as well as the targets we have set to reduce energy, water and waste consumption. Our approach to
+managing energy is set out on pages 74–75 and 188–189 of the 2021 Annual Report. Greater detail on our energy use
+can be found in our supplementary sustainability information tables on page 451 and 452.
+Energy consumption within the organization 302-1 See pages 451-452 of our 2021 Annual Report for our full supplementary environment data.
+Energy consumption outside of the organization 302-2 This is not applicable to our business.
+Energy intensity 302-3 See pages 451-452 of our 2021 Annual Report for our full supplementary environment data.
+Reduction of energy consumption 302-4 In 2021, energy and emissions reductions initiatives included clean power purchase agreements, water recycling,
+solar rooftops and on-site waste composting. Together with a five per cent reduction in our real estate portfolio,
+these direct initiatives reduced our CO emissions by 27 per cent, and our energy consumption by 15 per cent
+2
+year-on-year to 183 GWh. Specifically, investment in energy-efficient products accounted for 11 GWh of this reduction,
+resulting in a lower-carbon and more efficient portfolio. See page 75 of our 2021 Annual Report for more information,
+and pages 451-452 for our full supplementary environment data.
+Reductions in energy requirements of products and 302-5 This is not applicable to our business.
+services
+14 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+305: Emissions Management approach 305 We aim to minimise the environmental impact of our operations as part of our commitment to be a responsible
+company. We report on energy, water and non-hazardous waste data which becomes the basis of our GHG
+emissions management, as well as the targets we have set to reduce energy, water and waste consumption.
+We have measured and reduced our GHG emissions since 2008. Our Scope 1 and 2 emission reduction target has
+been validated by the Science Based Targets initiative (SBTi) as being in line with a well-below two degrees Celsius
+scenario. Through our Sustainability Aspirations, we have set more ambitious targets to achieve net zero emissions
+and ensure we only consume renewable energy across our portfolio by 2025.
+Our approach to managing our environmental footprint is set out on pages 74–75 and 188–189 of the 2021 Annual
+Report. Greater detail on our GHG emissions can be found in our supplementary sustainability information tables on
+pages 451–452.
+Our reporting methodology is based on the World Resources Institute/ World Business Council for Sustainable
+Development Greenhouse Gas Protocol Corporate Accounting and Reporting Standard (Revised Edition). We report
+on all emission sources required under the Companies Act 2006 (Strategic Report and Directors’ Reports) Regulations.
+Using conversion factors from the International Energy Agency 2021 Emissions Factors and the UK Government’s
+Department for Business, Energy & Industrial Strategy, emissions are reported in metric tonnes of carbon dioxide
+equivalent (COeq), encompassing the six Kyoto gases.
+2
+The reporting period of our environmental data is from 1 October 2020 to 30 September 2021. This allows sufficient
+time for independent assurance to be gained prior to the publication of results. Accordingly, the operating income
+used in this inventory corresponds to the same time period rather than the calendar year used in financial reporting.
+Our environment reporting criteria document sets out the principles and methodology used to report all carbon
+emissions data by Standard Chartered PLC and its subsidiaries (the Group) through its Annual Report and ESG
+disclosures. This can be accessed at sc.com/environmentcriteria.
+Direct (Scope 1) GHG emissions 305-1 Scope 1 emissions are defined as arising from the consumption of energy from direct sources, during the use of
+property occupied by the Group. On-site combustion of fuels, including diesel, liquefied petroleum gas (LPG) and
+natural gas, is recorded using meters, or where metering is not available, collated from fuel vendors’ invoices.
+Emissions from the combustion of fuel in Group-operated transportation devices, as well as fugitive emissions, are
+excluded as being immaterial.
+See pages 451 and 452 of the 2021 Annual Report.
+Further detail on the principles and methodology used to report all carbon emissions data can be accessed at
+sc.com/environmentcriteria.
+15 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+305: Emissions Energy indirect (Scope 2) GHG emissions 305-2 Scope 2 emissions are defined as arising from the consumption of indirect sources of energy, during the use of
+property occupied by the Group. Energy generated off-site in the form of purchased electricity, heat, steam or
+continued cooling, is collected as kilowatt hours consumed using meters, where metering is not available, collated from
+vendors’ invoices.
+Applicable to both Scope 1 and 2 emissions, we include all indirect and direct sources of energy consumed by building
+services (among other activities) within the space occupied by the Group, leased or owned. This can include base
+building services under landlord control, but over which we typically hold a reasonable degree of influence.
+All data centre facilities with conditioning systems and hardware remaining under the operational control of the
+Group are included in the reporting. This does not include energy used at outsourced data centre facilities which are
+captured under Scope 3.
+See pages 451 and 452 of the 2021 Annual Report.
+Further detail on the principles and methodology used to report all carbon emissions data can be accessed at
+sc.com/environmentcriteria.
+Other indirect (Scope 3) GHG emissions 305-3 Scope 3 emissions occur as a consequence of the Group’s activities but arising from sources not controlled by us.
+Business air travel data is collected as person kilometres travelled by seating class, by employees of the Group. Data
+is drawn from market operations that have processes in place to gather accurate employee air travel data from
+travel management companies. Flights are categorised between short, medium and long-haul trips.
+Emissions from other potential Scope 3 sources, such as electricity transmission and distribution line losses, are not
+currently accounted for on the basis that they cannot be calculated with an acceptable level of reliability or
+consistency. We do, however, capture Scope 3 emissions from outsourced data centres and business air travel
+exclusively in terms of carbon emissions, both managed by third parties.
+See pages 451–452 of the 2021 Annual Report.
+Further detail on the principles and methodology used to report all carbon emissions data can be accessed at
+sc.com/environmentcriteria.
+GHG emissions intensity 305-4 We calculate intensity ratios using headcount and operating income as denominators. See pages 451–452 of the
+2021 Annual Report.
+Reduction of GHG emissions 305-5 In 2021, energy and emissions reductions initiatives included clean power purchase agreements, water recycling, solar
+rooftops and on-site waste composting. Together with a five per cent reduction in our real estate portfolio, these
+direct initiatives reduced our CO emissions by 27 per cent.
+2
+See pages 74–75 of our 2021 Annual Report, with detail on the Scopes in which reduction took place available in our
+supplementary sustainability information tables on pages 451–452.
+Emissions of ozone-depleting substances (ODS) 305-6 This is not applicable to our business.
+Nitrogen oxides (NOx), sulfur oxides (SOx), and 305-7 This is not applicable to our business.
+other significant air emissions
+16 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+404: Training and Management approach 404 The world of work continues to change rapidly. Our employees need a combination of human and technical skills to
+succeed both today and in the future. We are building a culture of continuous learning, empowering employees to
+education grow, follow their aspirations and embrace the skills needed for the future. Since 2020, the average hours invested by
+employees in personal development have increased by 20 per cent to 27.7 hours in 2021. More than 74,000 colleagues
+actively used our online learning platform diSCover, which we launched in 2020, and which is now accessible via a
+mobile app. Almost 30,000 colleagues used one or more of our Future Skills Academies, which include the Data &
+Analytics, Digital, Cyber, Client Advisory, Sustainable Finance and Leadership Academy.
+Further information on our approach to training and education can be found on pages 55–59 of our 2021 Annual
+Report.
+Average hours of training per year per employee 404-1 Average hours of training by gender and employee category are presented on page 449 of our 2021 Annual Report.
+Programs for upgrading employee skills and 404-2 During 2021, we have focused on designing and deploying targeted upskilling and re-skilling pilot programmes
+transition assistance programs directed towards critical ‘future’ roles where our strategic workforce planning analysis has predicted the increasing
+need for talent, including universal banker, data translator, cloud security engineer and cyber security analyst. This
+approach has united our recruitment, talent management and learning efforts to target, upskill and deploy
+employees into new roles.
+See pages 55–59 of our 2021 Annual Report for more information.
+Percentage of employees receiving regular 404-3 99.9 per cent of employees completed a performance appraisal in 2021. See page 228 of our 2021 Annual Report.
+performance and career development reviews
+17 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+405: Diversity and Management approach 405 We believe that inclusion is how we will enable our diverse talent to truly deliver impact. As the pandemic extended
+into 2021, the need to lead inclusively in a hybrid working set-up continued to be a key expectation of our people
+equal opportunity leaders. With the focus on building a culture of inclusion, 21,000 colleagues had undertaken the ‘When we’re all
+included’ learning programme by the end of 2021, centred on increasing awareness around diversity and inclusion
+(D&I) principles, tackling issues such as unconscious bias and micro behaviours as well as emphasising the
+importance of creating an inclusive environment. As we listened to employee feedback and responded to the need
+to better develop psychological safety, we also released an inclusive language guide and continue to review business
+terms to be more inclusive moving forward. In our annual My Voice survey, 80.65 per cent of employees reported
+positive sentiments around our culture of inclusion.
+Our commitment to D&I is now supported by more than 60 employee resource groups (ERGs) across our markets
+which help to provide learning, development and networking opportunities. The ERGs align to our focus areas of
+gender, ethnicity and nationality, generations, sexual orientation, disability and wellbeing.
+See page 58 of our 2021 Annual Report and sc.com/diversity-and-inclusion.
+Diversity of governance bodies and employees 405-1 Key diversity categories for our workforce are set out in our supplementary people information tables on
+pages 446–449 of the 2021 Annual Report. Biographies of our Board and Group Management Team are set out on
+pages 92–97.
+Ratio of basic salary and remuneration of women to 405-2 We continue to analyse our gender pay gap for the UK, Hong Kong, Singapore, UAE and US. The gender pay gap
+men compares the average pay of men and women without accounting for some of the key factors which influence pay,
+including different roles, skills, seniority and market pay rates.
+See page 59 of our 2021 Annual Report, and our Gender Pay Gap Report at sc.com/genderpaygap.
+409: Forced or Management approach 409 We are committed to respecting human rights and use process, governance and due diligence to avoid
+infringements and complicity in the infringements of others, whether in our role as an employer, as a procurer of
+Compulsory goods and services, or as a provider of financial services.
+We recognise that our footprint and supply chain give us the opportunity to raise awareness of human rights and
+Labour
+modern slavery in a wide range of markets and industries.
+Our Position Statement on Human Rights outlines our approach, reflecting frameworks including the International Bill
+of Human Rights, the UN Guiding Principles and the UK Modern Slavery Act. This is embedded across a range of
+internal policies and risk management frameworks, including our Group Code of Conduct and Supplier Charter.
+Our Modern Slavery Statement, approved by the Board, details the actions we are taking to tackle modern slavery
+and human trafficking in our business and operations. This statement, issued in accordance with the UK’s Modern
+Slavery Act 2015, sets out the steps we have taken during the financial year ending 31 December 2021 to seek to
+ensure that modern slavery, whether of an adult or child , is not taking place in our own operations or in our supply
+chains.
+See pages 73–74 of our 2021 Annual Report, our Human Rights Position Statement at sc.com/positionstatements, and
+our stand-alone Modern Slavery Statement at sc.com/modernslavery.
+Operations and suppliers at significant risk for 409-1 Our Modern Slavery Statement sets out our approach to tackling modern slavery within our operations and value
+incidents of forced or compulsory labour chain. See sc.com/modernslavery.
+18 Standard Chartered — ESG Report 2021
+GRI alignment index continued
+GRI standard Disclosure Code Location/response
+414: Supplier Social Management approach 414 We do not knowingly participate in relationships with suppliers involved in modern slavery and human trafficking.
+We follow a comprehensive and transparent vendor selection process, guided by our Supplier Charter, which sets out
+Assessment our expectations in relation to ethics, human rights, diversity and inclusion (D&I), and environmental performance. In
+2021, our Supplier Charter was revised to include a principle encouraging our suppliers to promote fair pay practices
+within their workforce, including the development of their own understanding of living wages.
+All suppliers are required to comply with our Supplier Charter as part of registration, and to apply its principles within
+their sphere of influence, such as approved subcontractors. Suppliers must also recommit to the charter annually, and
+performance monitoring is built into our contracts, procurement practices and standards.
+See sc.com/suppliercharter and page 8 of our Modern Slavery Statement at sc.com/modernslavery.
+In addition, our Stands have served to further embed our supplier D&I approach. 70 per cent of our markets now have
+supplier D&I objectives to take action, and accelerate progress and impact, and supplier diversity targets have been
+defined in key global procurement categories. More than 1,500 employees have been trained internally to build
+capability to deliver our supplier D&I aims. In addition, we established partnerships with multiple local and global
+non-governmental organisations (NGOs) to identify and onboard more sustainable and diverse-owned vendors
+across all our markets. Our efforts were rewarded with internal and external recognition, including the Supplier
+Diversity Programme of the Year in the European Diversity Awards. See page 54 of our 2021 Annual Report.
+New suppliers that were screened 414-1 Before adding new vendors into our procurement system, we screen them against potential modern slavery risks.
+using social criteria Suppliers with heightened modern slavery risks are also assessed to ensure they have approaches in place to address
+modern slavery. See sc.com/modernslavery.
+Negative social impacts in the supply chain and 414-2 Supplier categories with heightened modern slavery risks include office services and supplies, property, human
+actions taken resources, banking operations services, marketing and advertising services, technology hardware, telecoms and
+networks in specific identified markets. A supplier’s response forms part of our overall evaluation criteria, informing
+our decision on whether to do business with them.
+See sc.com/suppliercharter.
+19 Standard Chartered — ESG Report 2021
+SASB alignment index continued
+Topic Accounting metric SASB Code Response
+Financial (1) Number and (2) amount of loans outstanding FN-CB-240a.1 Small business and community development is incorporated within our Consumer, Private and Business
+qualified to programs designed to promote small Banking (CPBB) segment through our small and medium enterprise (SME) lending. Our lending to
+inclusion & business and community development microfinance institutions is incorporated within our Corporate, Commercial and Institutional Banking (CCIB)
+segment. See pages 27 and 320 of our 2021 Annual Report, and page 68 of our TCFD report.
+capacity
+(1) Number and (2) amount of past due and FN-CB-240a.2 Details of our credit quality by client segment, and loans and advances by client segment can be found on
+building nonaccrual loans qualified to programs designed pages 205–209 of our 2021 Annual Report.
+to promote small business and community
+development
+Number of no-cost retail checking accounts FN-CB-240a.3 We do not specifically measure the number of no-cost retail checking accounts provided to previously
+provided to previously unbanked or underbanked unbanked or underbanked customers.
+customers However, we do offer basic bank accounts and services with no minimum balance or fees charged for basic
+services, such as ATM cards, cash transactions, and day-to-day digital banking, as required by local
+regulations. These services enable previously underbanked or unbanked customers to avail banking services
+in many of our markets.
+In January 2020, we also set ourselves the Aspiration that everyone should have access to digital banking
+products enabling safe, efficient and inclusive banking. This included rolling out digital-only banks in a total
+of 12 markets by December 2021, and doubling the number of clients we bank in Africa and the Middle East
+(AME) to 3.2 million. By the end of 2021 we had launched digital-only banks in 10 markets. Further launches in
+Bahrain and the United Arab Emirates are expected to take place in 2022. These digital banks offer clients
+accessible and convenient financial services, driving financial inclusion. In addition, we had a total of
+2,366,000 digital clients in the AME region. COVID-19 has impacted our ability to onboard new clients during
+periods of lockdown but we will continue to enhance our capabilities through 2022. See page 63 of our 2021
+Annual Report.
+Number of participants in financial literacy FN-CB-240a.4 In 2021, financial education reached 122,760 young people. 1
+initiatives for unbanked, underbanked, or We provide financial education through our community initiative Futuremakers by Standard Chartered. We
+underserved customers do not provide financial education training to our clients. Futuremakers provides financial education training
+to disadvantaged young people and micro and small businesses across our markets.
+Footnotes
+1 The financial education number reported includes:
+• Participants of Goal – where the Be Money Savvy module was delivered (gathered from our non-governmental organisation (NGO) partner, Women Win)
+• Participants of financial education for youth delivered by NGO partners in China as a stand-alone programme
+• Participants of financial education sessions delivered as part of Futuremakers by Standard Chartered
+21 Standard Chartered — ESG Report 2021
+SASB alignment index continued
+Topic Accounting metric SASB Code Response
+Incorporation of Commercial and industrial credit exposure, by FN-CB-410a.1 See pages 227–232 of our 2021 Annual Report for our credit quality by industry.
+industry
+Environmental,
+Description of approach to incorporation of FN-CB-410a.2 and Our Environmental & Social Risk Management (ESRM) Framework applies to all debt, equity and advisory
+Social, and environmental, social, and governance (ESG) FN-IB-410a.3 products and services provided to corporate clients globally.
+factors in: In 2021, over 16,000 environmental and social (E&S) risk assessments were carried out at a client level.
+Governance a) credit analysis (FN-CB-410a.1) Enhanced E&S due diligence was carried out by our ESRM team on 786 clients, and 547 transactions.
+b) investment banking and brokerage activities See pages 64–65 of our 2021 Annual Report and sc.com/positionstatements.
+Factors in
+(FN-IB-410a.3)
+a) Credit Analysis Revenue from (1) underwriting, (2) advisory, and FN-IB-410a.1 Not disclosed. We continue to refine our definition and approach to revenue which is generated through the
+b) I nvestment Banking and (3) securitization transactions incorporating tagging of ESG assets and activities.
+Brokerage Activities integration of environmental, social, and
+governance (ESG) factors, by industry
+(1) Number and (2) total value of investments and FN-IB-410a.2 See pages 68–69 of our TCFD Report at sc.com/tcfd.
+loans incorporating integration of environmental,
+social, and governance (ESG) factors, by industry
+Business Ethics Total amount of monetary losses as a result of FN-CB-510a.1 and Information on our provisions for liabilities and charges, and legal and regulatory matters is set out on
+legal proceedings associated with fraud, insider FN-IB-510a.1 pages 388–390 of our 2021 Annual Report.
+trading, anti-trust, anti-competitive behavior,
+market manipulation, malpractice, or other
+related financial industry laws or regulations
+Description of whistleblower policies and FN-CB-510a.2 and Speaking Up is the Group’s confidential and anonymous whistleblowing programme. It has been designed to
+procedures FN-IB-510a.2 comply with the Group’s UK lead regulators, the Prudential Regulatory Authority (PRA) and the Financial
+Conduct Authority (FCA) Whistleblowing Rules. Our whistleblowing channels are available to anyone –
+colleagues, contractors, suppliers and members of the public – to raise concerns confidentially and
+anonymously.
+See 2020 Annual Report: pages 71–72, and sc.com/speakingup.
+Systemic Risk Global Systemically Important Bank (G-SIB) score, FN-CB-550a.1 and In the EU, the G-SIB framework is implemented via Capital Requirements Directive and G-SIBs are referred to
+by category FN-IB-550a.1 as Globally Systemically Important Institutions (G-SIIs).
+Management The Group is a G-SII, with a 1.0 per cent G-SII CET1 capital buffer. See page 288 of our 2021 Annual Report.
+The Standard Chartered PLC G-SII disclosure is published at: sc.com/en/investors/financial-results.
+Description of approach to incorporation of results FN-CB-550a.2 and The Group performs enterprise-wide stress tests using a range of bespoke hypothetical scenarios that
+of mandatory and voluntary stress tests into FN-IB-550a.2 explore the resilience of the Group to shocks to its balance sheet and business model. Pages 126–127 and
+capital adequacy planning, long-term corporate 260-261 of our 2021 Annual Report provide further detail on our approach to stress tests and scenario analysis.
+strategy, and other business activities For Climate Risk specifically, our scenario analysis is based on those from the Network of Central Banks and
+Supervisors for Greening the Financial System (NGFS) and includes orderly, disorderly and hot-house world
+scenarios. See page 68 of our 2021 Annual Report, and pages 29–34 of our 2021 TCFD Report for more
+information on our approach to climate-related scenario analysis.
+22 Standard Chartered — ESG Report 2021
+SASB alignment index continued
+Topic Accounting metric SASB Code Response
+Activity metrics (1) Number and (2) value of checking and savings FN-CB-000.A See pages 206–209, and 320 of our 2021 Annual Report for information on our loan portfolios by segment and
+accounts by segment: (a) personal and (b) small credit quality on a total basis for both corporates (incorporated into CCIB) and personal and small business
+business (incorporated into CPBB). See also page 68 of our TCFD Report which provides details of our microfinance
+and SME lending.
+(1) Number and (2) value of loans by segment: (a) FN-CB-000.B
+personal, (b) small business, and (c) corporate
+Employee Percentage of gender and racial/ethnic group FN-IB-330a.1 See pages 446–449 of the 2021 Annual Report for this data by gender, and page 134 for Board Diversity
+representation for: (1) executive management, (2) including ethnicity.
+Diversity & non-executive management, (3) professionals, Read more about our ethnicity targets at sc.com/ethnicity.
+and (4) all other employees
+Inclusion
+Professional (1) Number and (2) percentage of covered FN-IB-510b.1 Not disclosed. We will continue to review our approach to disclosing this metric.
+employees with a record of investment-related
+Integrity investigations, consumer-initiated complaints,
+private civil litigations, or other regulatory
+proceedings
+Number of mediation and arbitration cases FN-IB-510b.2 Not disclosed. We maintain a robust Code of Conduct and compliance framework. We will continue to review
+associated with professional integrity, including our approach to disclosing this metric.
+duty of care, by party
+Total amount of monetary losses as a result of FN-IB-510b.3 See pages 388–390 of our 2021 Annual Report for more information on our provisions for liabilities and
+legal proceedings associated with professional charges, and legal and regulatory matters.
+integrity, including duty of care
+Description of approach to ensuring professional FN-IB-510b.4 Good conduct is critical to delivering positive outcomes for our clients, markets and stakeholders. Our Group
+integrity, including duty of care Code of Conduct (the Code) remains the primary tool through which we set our conduct expectations. The
+Code supports all our policies, setting out minimum standards and reinforcing our valued and expected
+behaviours. It also outlines a decision-making framework to help colleagues make good decisions.
+See pages 71-72 and 188 of our 2021 Annual Report for information regarding the Code and its
+implementation. The Code itself can be accessed at sc.com/codeofconduct.
+We also aim to design and offer products based on client needs to ensure fair treatment and outcomes for
+clients. Our approach to product responsibility can be found on pages 51–52 and 187 of our 2021 Annual
+Report.
+Other useful information:
+• Our Conflict of Interests Disclosure Statement: https://av.sc.com/corp-en/content/docs/mifid-coi-
+disclosure-statement.pdf
+• Information related to investment recommendations as defined in the EK/UK Market Abuse Direction can
+be found at: https://www.sc.com/en/regulatory-disclosures/market-abuse-regulation/
+• The Group has policies, systems and processes in place to effectively manage the receipt of inside
+information and other forms of confidential information, including the strict application of Information
+Walls. This includes frameworks to manage conflicts of interest resulting from transactions undertaken by
+the Group and its clients, as well as Outside Business Interests and Personal Account Dealing activities of
+employees. The Group has escalation protocols in place to consider risks arising from these policies,
+systems and processes. At present, these frameworks and standards are not public.
+23 Standard Chartered — ESG Report 2021
+World Economic Forum (WEF) Measuring Stakeholder Capitalism metrics alignment index
+Pillar Theme Disclosure level Requirements Our response
+1. Governance Governing Core metrics Setting Purpose Our Purpose is to drive commerce and prosperity through our unique diversity – this is
+and disclosures The company’s stated purpose, as the expression of the underpinned by our brand promise, here for good.
+Purpose
+means by which a business proposes solutions to economic, We have set ourselves the vision to become the world’s most sustainable and
+environmental and social issues. Corporate purpose should responsible bank, committed to sustainable social and economic development
+create value for all stakeholders, including shareholders. through our business, operations and communities.
+In pursuit of this, and in alignment with stakeholder priorities, in 2021 we formally
+Expanded Purpose-led management
+elevated sustainability to be a pillar of our strategy. We have also set long-term
+metrics and How the company’s stated purpose is embedded in
+ambitions for our role in tackling the severe impacts of climate change, stark
+disclosures company strategies, policies and goals.
+inequality and unfair aspects of globalisation that impact everyone and the planet.
+These ambitions are known as our ‘Stands’. See pages 19–25 of our 2021 Annual
+Report.
+This enhanced focus ensures sustainability is embedded across our business and
+integrated into the Group’s decision-making, with robust governance provided by
+the Board, Management Team and multiple supporting sub-committees.
+We achieve this Purpose and ambition through tools including our Sustainability
+Philosophy that informs our decision-making, Position Statements that set out our
+environmental and social client standards, a Supplier Charter that shares the
+principles of the behaviours we expect from our suppliers, and a list of Prohibited
+Activities that sets out the activities that the Group will not finance.
+Our approach is underpinned by our Sustainability Aspirations, which provide
+tangible targets for sustainable business outcomes aligned to the United Nations
+Sustainable Development Goals (SDGs). Included within the Aspirations is our
+ongoing work to achieve net zero emissions from our operations and our financing.
+See sc.com/en/sustainability/philosophy, sc.com/positionstatements, and
+sc.com/sustainabilityaspirations.
+25 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+1. Governance Quality of Core metrics Governance body composition Profiles of all of our Group Board members, including details on age, tenure,
+and disclosures Composition of the highest governance body and its experience, external appointments and committee membership, can be found on
+governing
+continued committees by: competencies relating to economic, pages 91–94 of our 2021 Annual Report.
+body
+environmental and social topics; executive or non-executive;
+independence; tenure on the governance body; number of
+each individual’s other significant positions and
+commitments, and the nature of the commitments; gender;
+membership of under-represented social groups;
+stakeholder representation.
+Expanded Remuneration Select Sustainability Aspirations are incorporated into the Group’s Scorecard and
+metrics and How performance criteria in the remuneration policies relate Long-Term Incentive Plan (LTIP). Our Directors’ remuneration report provides an
+disclosures to the highest governance body’s and senior executives’ overview of the remuneration for the executive directors and the wider workforce in
+objectives for economic, environmental and social topics, as 2021, including the weighting given to sustainability topics. See pages 141–180 of our
+connected to the company’s stated purpose, strategy and 2021 Annual Report.
+long-term value. Assessment of the 2021 Group scorecard can be found on page 153 of the 2021
+Annual Report. Performance measures for the 2022-2024 LTIP are set out on page 158.
+Expanded Remuneration Our Directors’ remuneration report provides an overview of the remuneration for the
+metrics and Remuneration policies for the highest governance body and executive directors and the wider workforce in 2021. See pages 141–180 of our 2021
+disclosures senior executives for the following types of remuneration: Annual Report.
+• Fixed pay and variable pay, including performance-based
+pay, equity-based pay, bonuses and deferred or vested
+shares
+• Sign-on bonuses or recruitment incentive payments
+• Termination payments
+• Clawbacks
+• Retirement benefits, including the difference between
+benefit schemes and contribution rates for the highest
+governance body, senior executives and all other
+employees
+26 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+1. Governance Stakeholders Core metrics Material issues impacting stakeholders Listening and responding to stakeholder priorities and concerns is critical to
+and disclosures Material issues impacting stakeholders. A list of the topics achieving our Purpose and delivering on our brand promise, here for good. We strive
+continued that are material to key stakeholders and the company, how to maintain open and constructive relationships with a wide range of stakeholders
+the topics were identified and how the stakeholders were including regulators, lawmakers, clients, investors, civil society and community
+engaged. groups.
+In 2021, our engagement took many forms, including one-to-one sessions using
+online channels and calls, virtual roundtables, written responses and targeted
+surveys. These conversations, and the issues that underpin them, help inform our
+business strategy and enable us to operate as a responsible and sustainable
+business. See pages 51–59 of our 2021 Annual Report.
+Our 2021 Annual Report details our approach and progress towards our most
+material sustainable and responsible business topics, including: sustainable finance,
+environmental and social risk management, climate change, conduct and ethics,
+fighting financial crime, human rights, managing our environmental footprint, and
+community engagement. In addition, we review and refresh our Sustainability
+Aspirations annually to ensure they reflect our stakeholders’ priorities and evolving
+strategy. See pages 61–77 of our 2021 Annual Report.
+27 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+1. Governance Ethical Core metrics Anti-corruption We have invested significantly to ensure our employees are properly equipped to
+and disclosures 1. Total percentage of governance body members, combat financial crime. In 2021, 99.6 per cent of colleagues completed financial crime
+Behaviour
+continued employees and business partners who have received e-learnings which cover anti-bribery and corruption (ABC), anti-money laundering,
+training on the organization’s anti-corruption policies and sanctions and fraud topics and this was supported by a Group-wide communication
+procedures, broken down by region. campaign, ‘The whole story’, which extended our awareness-raising activities.
+We also shared our Supplier Charter, which sets out our expectations and minimum
+standards related to ABC, with all of our suppliers, representing more than 12,100
+suppliers and third parties across 55 markets.
+Page 453 of our 2021 Annual Report sets out the completion rates of these trainings
+by region and employee category for 2021.
+Core metrics Anti-corruption We will continue to review our approach to disclosure.
+and disclosures 1a) Total number and nature of incidents of corruption
+confirmed during the current year, but related to previous
+years; and
+Core metrics Anti-corruption
+and disclosures 1b) Total number and nature of incidents of corruption
+confirmed during the current year, related to this year.
+Core metrics Anti-corruption Our ambition is to tackle some of today’s most damaging crimes by making the
+and disclosures 2. Discussion of initiatives and stakeholder engagement to financial system a hostile environment for criminals and terrorists.
+improve the broader operating environment and culture, in Further information on our approach to fighting financial crime can be found on
+order to combat corruption. pages 72–73 of our 2021 Annual Report, and at sc.com/fightingfinancialcrime.
+Core metrics Protected ethics advice and reporting mechanisms The ability to raise concerns is essential to upholding the Group’s here for good brand
+and disclosures A description of internal and external mechanisms for: and valued behaviours. Early disclosure of concerns reduces the risk of financial and
+1. Seeking advice about ethical and lawful behaviour and reputational loss caused by misconduct. We encourage colleagues, contractors,
+organizational integrity suppliers and members of the public to raise concerns to our Speaking Up
+whistleblowing programme which offers secure, independent and confidential
+Core metrics Protected ethics advice and reporting mechanisms channels to report known or suspected misconduct without fear of retaliation.
+and disclosures A description of internal and external mechanisms for: Further detail on our Speaking Up Programme can be found on pages 71–72, and 186
+2. Reporting concerns about unethical or unlawful behaviour of our 2021 Annual Report.
+and lack of organizational integrity.
+Expanded Alignment of strategy and policies to lobbying We have a Group Public and Regulatory Affairs team responsible for engagement as
+metrics and The significant issues that are the focus of the company’s well as identifying and analysing relevant policies, legislation and regulation. This
+disclosures participation in public policy development and lobbying; the work is overseen by several governance forums within the Group, including the
+company’s strategy relevant to these areas of focus; and Regulatory Developments Assessments Forum and the Sustainable Finance
+any differences between its lobbying positions and its Regulatory Policy Forum, which comprise senior executives representing business and
+purpose, stated policies, goals or other public positions. control functions to ensure alignment between advocacy and business strategies.
+See page 52 of our 2021 Annual Report.
+28 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+1. Governance Risk and Core metrics Integrating risk and opportunity into business process The Group has built a strong foundation with solid risk fundamentals, and we are
+and disclosures Company risk factor and opportunity disclosures that clearly focused on emerging strongly from the pandemic. We continue to scan the horizon
+opportunity
+continued identify the principal material risks and opportunities facing for emerging risks and collaborate with internal and external partners to proactively
+oversight
+the company specifically (as opposed to generic sector mitigate risks as they are identified. All risk types, both financial and non-financial,
+risks), the company appetite in respect of these risks, how are managed and reported in accordance with the Group’s Enterprise Risk
+these risks and opportunities have moved over time and the Management Framework.
+response to those changes. These opportunities and risks Our Group Chief Risk Officer’s review can be found on pages 41–48, with further detail
+should integrate material economic, environmental and on our Principal Risk Types given on pages 264–279, and pages 280–287 explore our
+social issues, including climate change and data emerging risks. Our TCFD Report provides further detail on our approach to the risks
+stewardship. and opportunities presented by climate change. See sc.com/tcfd.
+29 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+2. Planet Climate Core metrics Greenhouse gas (GHG) emissions We aim to minimise the environmental impact of our operations as part of our
+and disclosures For all relevant greenhouse gases (e.g. carbon dioxide, commitment to be a responsible company. We report on energy, water and
+change
+methane, nitrous oxide, F-gases etc.), report in metric tonnes non-hazardous waste data which become the basis of our Greenhouse Gas (GHG)
+of carbon dioxide equivalent (tCOe) GHG Protocol Scope 1 emissions management, as well as the targets we have set to reduce energy, water
+2
+and Scope 2 emissions. and waste consumption.
+Estimate and report material upstream and downstream We have measured and reduced our GHG emissions since 2008. Our Scope 1 and 2
+(GHG Protocol Scope 3) emissions where appropriate.” emission reduction target has been validated by the Science Based Targets initiative
+(SBTi) as being in line with a well-below two degrees Celsius scenario. Through our
+Sustainability Aspirations, we have set more ambitious targets to achieve net zero
+emissions and ensure we only consume renewable energy across our portfolio by
+2025.
+Our approach to managing our environmental footprint is set out on pages 74–75
+and 188-189 of the 2021 Annual Report. Greater detail on our GHG emissions can be
+found in our supplementary sustainability information tables on page 451–452.
+Our environment reporting criteria document sets out the principles and
+methodology used to report all carbon emissions data. This can be accessed at
+sc.com/environmentcriteria.
+Expanded Paris-aligned GHG emissions targets We are helping emerging markets in our footprint reduce carbon emissions as fast as
+metrics and Define and report progress against time-bound possible, without slowing development, putting the world on a sustainable path to
+disclosures science-based GHG emissions targets that are in line with net zero by 2050. We stand for a rapid, just transition to net zero where it matters
+the goals of the Paris Agreement – to limit global warming most.
+to well below 2°C above pre-industrial levels and pursue Since 2018, we have been working on aligning the emissions from both our own
+efforts to limit warming to 1.5°C. This should include defining operations and our financing activities to the Paris Agreement goal of below two
+a date before 2050 by which you will achieve net-zero degrees of global warming. During 2021, we announced our aim to reduce the
+greenhouse gas emissions, and interim reduction targets emissions associated with our financing activities to net zero by 2050, with 2030
+based on the methodologies provided by the Science Based interim targets in our most carbon-intensive sectors. We aim to reduce absolute
+Targets initiative, if applicable. financed thermal coal mining emissions by 85 per cent by 2030, in addition to a
+If an alternative approach is taken, disclose the prohibition on financing new or expanding coal-fired power plants, and revenue-
+methodology used to calculate the targets and the basis on based carbon intensity of 63 per cent for power, 33 per cent respectively for steel and
+which they deliver on the goals of the Paris Agreement. mining (excluding thermal coal mining) and 30 per cent for oil and gas. See pages 24,
+65–66, and 74–75 of our 2021 Annual Report, and read more about our approach to
+net zero at sc.com/netzero.
+Core metrics TCFD implementation Standard Chartered publicly committed to the recommendations of the TCFD in
+and disclosures Fully implement the recommendations of the Task Force on 2017, and has subsequently released annual TCFD reports since 2018. Our
+Climate-related Financial Disclosures (TCFD). If necessary, comprehensive TCFD disclosure is published in a stand-alone report which provides
+disclose a timeline of at most three years for full information in a readily identifiable and accessible format for all interested
+implementation. Disclose whether you have set, or have stakeholders. This can be accessed at sc.com/tcfd. A summary of the progress we
+committed to set, GHG emissions targets that are in line have made in 2021 against the recommendations of the TCFD can also be found on
+with the goals of the Paris Agreement – to limit global pages 67–69 of the 2021 Annual Report.
+warming to well below 2°C above pre-industrial levels and
+pursue efforts to limit warming to 1.5°C – and to achieve
+net-zero emissions before 2050.”
+30 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+2. Planet Nature loss Core metrics Nature loss Not disclosed due to incomplete data in this area. We recognise the importance of
+and disclosures Report the number and area (in hectares) of sites owned, biodiversity loss and are proactively participating in industry initiatives and
+continued leased or managed in or adjacent to protected areas and/ framework development on biodiversity to help inform our internal efforts and
+or key biodiversity areas (KBA). capabilities.
+Freshwater Core metrics Freshwater availability Water availability remains a growing challenge in many of our markets. Although we
+and disclosures Report for operations where material: megalitres of water did not face any issues sourcing potable water in 2021, we continue to take a
+availability
+withdrawn, megalitres of water consumed and the sustainable and responsible approach to managing water across the Group and
+percentage of each in regions with high or extremely high have improved measurement of the portfolio by 10 per cent. Page 451 of the 2021
+baseline water stress, according to WRI Aqueduct water risk Annual Report sets out our total water use, alongside the percentage of this
+atlas tool. consumed in areas with high or extremely high baseline water stress.
+Estimate and report the same information for the full value Our reporting criteria set out the principles and methodology for measuring our
+chain (upstream and downstream) where appropriate. emissions; and our Scope 1 and 2 emissions, as well as water and waste data, are
+independently assured.
+See sc.com/environmentalassurance.
+3. People Dignity and Core metrics Diversity and inclusion (%) Key diversity categories for our workforce are set out in our supplementary people
+and disclosures Percentage of employees per employee category, by age information tables on pages 446–449 of the 2021 Annual Report. Pages 92–97
+equality
+group, gender and other indicators of diversity (e.g. provide the biographies of our Board and Group Management Team.
+ethnicity).
+Core metrics Pay equality (%) We continue to analyse our gender pay gap for the UK, Hong Kong, Singapore, UAE
+and disclosures Ratio of the basic salary and remuneration for each and US. The gender pay gap compares the average pay of men and women without
+employee category by significant locations of operation for accounting for some of the key factors which influence pay, including different roles,
+priority areas of equality: women to men, minor to major skills, seniority and market pay rates. See page 59 of our 2021 Annual Report, and our
+ethnic groups, and other relevant equality areas. Gender Pay Gap Report at sc.com/genderpaygap.
+Core metrics Wage level (%) We do not have a standard entry-level role in order to do this level of analysis;
+and disclosures Ratios of standard entry level wage by gender compared to however, we ensure all of our employees receive a living wage as set out in our Fair
+local minimum wage. Pay Charter. See sc.com/fairpaycharter.
+Core metrics Wage level (%) In line with UK regulations, we annually report pay ratios comparing CEO
+and disclosures Ratio of the annual total compensation of the CEO to the remuneration with that of all UK employees. We review year-on-year changes to
+median of the annual total compensation of all its understand the reasons and appropriateness for such movements. In addition, we
+employees, except the CEO. review the median ratio against UK FTSE and industry peer averages. Our 2021 pay
+ratios are covered in our Directors’ remuneration report, on page 171 of the 2021
+Annual Report.
+Expanded Living wage (%) We ensure all of our employees receive a living wage as set out in our Fair Pay
+metrics and Current wages against the living wage for employees and Charter. See sc.com/fairpaycharter.
+disclosures contractors in states and localities where the company is
+operating.
+31 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+3. People Dignity and Core metrics Risk for incidents of child, forced or compulsory labour We maintain and assure policies and standards which set out how we engage with
+and disclosures An explanation of the operations and suppliers considered colleagues through hiring, throughout their career and upon leaving Standard
+equality
+continued to have significant risk for incidents of child labour, forced or Chartered, which include measures that seek to ensure no employee of Standard
+continued
+compulsory labour. Such risks could emerge in relation to: Chartered is a victim of modern slavery and human trafficking (MSHT) practices
+a) type of operation (such as manufacturing plant) and type through their employment.
+of supplier; and b) countries or geographic areas with Standard Chartered does not knowingly participate in relationships with suppliers
+operations and suppliers considered at risk. involved in MSHT. We follow a comprehensive and transparent vendor selection
+process, guided by our Supplier Charter, which sets out our expectations in relation to
+ethics, human rights, diversity and inclusion (D&I), and environmental performance.
+In 2021, our Supplier Charter was revised to include a principle encouraging our
+suppliers to promote fair pay practices within their workforce, including the
+development of their own understanding of living wages.
+Before adding new vendors into our procurement system, we screen them against
+potential modern slavery risks. Suppliers with heightened risks are also assessed to
+ensure they have approaches in place to address modern slavery. Supplier categories
+with heightened modern slavery risks include office services and supplies, property,
+human resources, banking operations services, marketing and advertising services,
+technology hardware, telecoms and networks in specific identified countries. A
+supplier’s response forms part of our overall evaluation criteria, informing our decision
+on whether to do business with them.
+See pages 73–74 of our 2021 Annual Report, and our Modern Slavery Statement at
+sc.com/modern slavery.
+Health and Core metrics Health and safety (%) Page 449 of our 2021 Annual Report sets out our work-related health and safety data,
+and disclosures The number and rate of fatalities as a result of work-related including the fatalities and injuries.
+well-being
+injury; high-consequence work-related injuries (excluding
+fatalities); recordable work-related injuries; main types of
+work-related injury; and the number of hours worked.
+Core metrics Health and safety (%) Pages 186–187 of our 2021 Annual Report set out our approach to health, safety and
+and disclosures An explanation of how the organization facilitates workers’ wellbeing.
+access to non-occupational medical and healthcare
+services, and the scope of access provided for employees
+and workers.
+Expanded Employee well-being (#, %) Page 449 of our 2021 Annual Report sets out our work-related health and safety data,
+metrics and 1. The number of fatalities as a result of work-related including the fatalities and injuries.
+disclosures ill-health, recordable work-related ill-health injuries, and the
+main types of work-related ill-health for all employees and
+workers.
+32 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+4. Prosperity Employment Core metrics Absolute number and rate of employment Page 448 of our 2021 Annual Report presents data related to our talent
+and disclosures Total number and rate of new employee hires during the management, broken down by indicators of diversity and region.
+and wealth
+reporting period, by age group, gender, other indicators of
+generation
+diversity and region.
+Core metrics Economic contribution See our consolidated income statement on page 308 of our 2021 Annual Report.
+and disclosures Direct economic value generated and distributed (EVG&D), Further information can be found in the notes to the financial statements, as
+on an accruals basis, covering the basic components for the referenced.
+organization’s global operations, ideally split out by:
+• Revenues
+• Operating costs
+• Employee wages and benefits
+• Payments to providers of capital
+• Payments to government
+• Community investment
+Core metrics Economic contribution To the best of our knowledge, no material assistance was received by any
+and disclosures Financial assistance received from the government: total government during 2021.
+monetary value of financial assistance received by the
+organization from any government during the reporting
+period.
+Core metrics Financial investment contribution Note 17, on pages 378-379 of our 2021 Annual Report, sets out our goodwill and
+and disclosures Total capital expenditures (CapEx) minus depreciation, intangible assets, and specifically additions to computer software. Note 18 on page
+supported by narrative to describe the company’s 382 provides information on our property, plant and equipment, including additions.
+investment strategy.
+Expanded Infrastructure investments and services supported Our Sustainable Finance Impact Report sets out further detail on our investment
+metrics and Qualitative disclosure to describe the below components: in healthcare and transport infrastructure, and the impact that it is having.
+disclosures 1. Extent of development of significant infrastructure See sc.com/SFimpactreport. See also page 62 of our 2021 Annual Report which
+investments and services supported. details progress against our infrastructure Sustainability Aspiration.
+2. Current or expected impacts on communities and local
+economies, including positive and negative impacts where
+relevant.
+3. Whether these investments and services are commercial,
+in-kind or pro bono engagements.
+34 Standard Chartered — ESG Report 2021
+WEF Stakeholder Capitalism metrics alignment index continued
+Pillar Theme Disclosure level Requirements Our response
+4. Prosperity Innovation of Core metrics Financial investment contribution Note 11, on page 337 of our 2021 Annual Report, presents our dividends declared and
+and disclosures Share buybacks plus dividend payments, supported by paid during 2021. In addition, Note 28, on page 393 sets out our share capital, other
+better
+continued narrative to describe the company’s strategy for returns of equity instruments and reserves, and details share buy-backs completed in the year.
+products and
+capital to shareholders. Note 37 on page 416 details our post balance sheet events, including dividend and
+services share buy-back declared after 31 December 2021.
+Core metrics Total R&D expenses ($) During the year, the Group invested $1.89 billion in research and development, of
+and disclosures Total costs related to research and development. which $0.94 billion was recognised as an expense. See page 181 of our 2021 Annual
+Report.
+Community Core metrics Total tax paid The Group’s approach to tax is governed by our tax strategy which has been
+and disclosures The total global tax borne by the company, including approved by the Board. Under our tax strategy, we manage our tax affairs in
+and social
+corporate income taxes, property taxes, non-creditable VAT alignment with our commercial strategy, having regard to building long term
+vitality
+and other sales taxes, employer-paid payroll taxes, and shareholder value and to maintaining our reputation as a responsible taxpayer with
+other taxes that constitute costs to the company, by tax authorities and regulators.
+category of taxes. Note 10: Taxation on pages 333–336 of our 2021 Annual Report provides further
+information on our accounting policies related to taxation, significant accounting
+Expanded Additional tax remitted
+estimates and judgements, and taxation disclosures for the Group. See also our
+metrics and The total additional global tax collected by the company on
+Country-by-Country schedule at sc.com/cbcr.
+disclosures behalf of other taxpayers, including VAT and
+employee-related taxes that are remitted by the company
+on behalf of customers or employees, by category of taxes.
+Expanded Total tax paid by country for significant locations In accordance with the Capital Requirements (Country-by-Country Reporting)
+metrics and Total tax paid and, if reported, additional tax remitted, by Regulations 2013, we set out the country-by-country information in respect of the
+disclosures country for significant locations. year ended 31 December 2020. Also included are further disclosures setting out our
+approach to tax and additional taxes paid in the year. The disclosures in respect
+of the year ended 31 December 2021 will be published on the website on or before
+31 December 2022. For further information see our Country-by-Country schedule at
+sc.com/cbcr.
+35 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment
+The following table sets out the reporting and self-assessment requirements for signatories of the UN Principles for Responsible Banking.
+Principle 1: We will align our business strategy to be consistent with and contribute to individuals’
+needs and society’s goals, as expressed in the Sustainable Development Goals, the
+Alignment
+Paris Climate Agreement and relevant national and regional frameworks.
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+1.1 Describe (high-level) your bank’s business model, We help international companies connect across our global network and help individuals • Further information on our business model,
+including the main customer segments served, types and local businesses grow their wealth. We are present in 59 markets and serve clients in activities, services and markets served can be
+of products and services provided, the main sectors a further 83. found in our 2021 Annual Report on pages 18,
+and types of activities, and where relevant the Our Corporate, Commercial and Institutional Banking (CCIB) segment supports 21 and 26–30.
+technologies financed across the main geographies companies across the world, from small and medium-sized enterprises to large
+in which your bank has operations or provides corporates and institutions, both digitally and in person.
+products and services. Our Consumer, Private and Business Banking (CPBB) supports small businesses and
+individuals, from mass retail clients to affluent and high-net-worth individuals, both
+digitally and in person.
+1.2 Describe how your bank has aligned and/or is Our Purpose is to drive commerce and prosperity through our unique diversity, and our The following pages of our 2021 Annual Report
+planning to align its strategy to be consistent with heritage and values are expressed in our brand promise, here for good. provide further relevant detail:
+and contribute to society’s goals, as expressed in the We have set ourselves the vision to become the world’s most sustainable and responsible • Pages 24–25 present our three Stands, with
+Sustainable Development Goals (SDGs), the Paris bank, committed to sustainable social and economic development through our business, further information found at https://www.
+Climate Agreement, and relevant national and operations and communities. sc.com/en/about/our-long-term-ambition/.
+regional frameworks. In pursuit of this, and in alignment with stakeholder priorities, in 2021 we formally elevated • Pages 61–77 set out our approach to
+sustainability to be a pillar of our strategy. We have also set long-term ambitions for our sustainable and responsible business, as well
+role in tackling the severe impacts of climate change, stark inequality and unfair aspects as providing assessments of our progress
+of globalisation that impact everyone and the planet. These ambitions are known as our against our 2021 Sustainability Aspirations.
+‘Stands’. • Pages 455–456 set out our current Sustainability
+This enhanced focus ensures sustainability is embedded across our business and Aspirations, which are also available at
+integrated into the Group’s decision-making, with robust governance provided by the sc.com/sustainabilityaspirations.
+Board, Management Team and multiple supporting sub-committees. • Pages 132–134 detail the role of our Board-level
+We achieve this purpose and ambition through tools including our Sustainability Culture and Sustainability Committee, page
+Philosophy that informs our decision-making, Position Statements that set out our 262 provides an overall schematic of our
+environmental and social client standards, a Supplier Charter that shares the principles of committee governance, and pages 11–14 of our
+the behaviours we expect from our suppliers and a list of Prohibited Activities that sets 2021 TCFD report detail our governance of
+out the activities that the Group will not finance. climate matters.
+Our approach is underpinned by our suite of Sustainability Aspirations that set out how We also provide additional information on our
+we aim to promote social and economic development, and deliver sustainable outcomes website:
+in the areas in which we can make the most material contribution to the delivery of the • Our Sustainability Philosophy is at
+United Nations Sustainable Development Goals (SDGs). Included within the Aspirations is https://www.sc.com/en/sustainability/
+our ongoing work to achieve net zero emissions from our operations and our financing. philosophy.
+• Our Position Statements are at
+sc.com/positionstatements.
+• Our Supplier Charter is at
+sc.com/suppliercharter.
+• Our Prohibited Activities list is at
+sc.com/prohibitedactivities.
+36 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle We will continuously increase our positive impacts while reducing the negative impacts on,
+and managing the risks to, people and environment resulting from our activities, products and
+2: Impact
+services. To this end, we will set and publish targets where we can have the most significant impacts.
+and Target
+Setting
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+2.1 Show that your bank has identified the areas in which it During 2021, we invested significant resources in developing a systematic analysis of our climate The following pages of our 2021 Annual
+has its most significant (potential) positive and impact, and utilised this to set relevant targets aligned to the Paris Agreement and net zero. Report provide further relevant detail:
+Impact negative impact through an impact analysis that However, we acknowledge that our wider impact assessment capabilities require further • More detailed information on how we
+fulfills the following elements: development, and aspire to develop a comprehensive Group-wide impact assessment process. engage stakeholders and assess their
+Analysis In 2022, we intend to progress towards this goal by using the UN PRB impact tool to understand interests are on pages 51–59.
+our impacts across key CPBB markets with an ambition to cover approximately 89 percent of • Pages 61–77 provide an assessment of
+the volume of business in this segment. Upon completion of the CPBB assessment, we will take our progress against our 2021
+forward the CCIB assessment. Sustainability Aspirations.
+The following response is prepared in relation to our 2021 climate impact assessment. • Pages 455–456 set out our current
+a) Scope: The bank’s core business areas, products/ a) We baselined our climate impact as at 2020 year-end, and focused principally on lending Sustainability Aspirations,
+services across the main geographies that the bank activities in our corporate lending within our Corporate, Commercial & Institutional Banking which are also available at
+operates in have been as described under 1.1. have (TChCeIBs)e se sgemcetontr so nre thper ebsaesins to fa bpopthr oaxvaimilaabtlee mlye 6th2o.5d oploegri es, and thme minaitnegria, wlitye o hf aemveis soiopntse d for resvc.econmue/s-ubstaasineadb ilityaspirations.
+been considered in the scope of the analysis. fcroemnt s uocfh o aucrt ivoitvieesr awlhl iachb rseosulultteed fiinn aa fonccuesd o ne omuri slesniodninsg to the Powcear,r Sbtoeenl, iMntineinngs iatnyd r eOdil uctionW tae raglseot psr, oinvisdtee aaddd itional information
+abnads Gealisn see.c Ftoigrsu. re 1 provides an overview of of absolute emissions. We o h n a o v u e r w c e h b o s s it e e n :
+We also conducted an initial assessment of emissions from lending to the Consumer, Private • Opportunity 2030 is available at
+a fi n n d a B n u c si e n d es e s B m a i n s k s i i n o g n ( s C P a B n B d ) s a ec s t s o e r t w s h in ic h s c w o e p re e s i b gn y i ficantly lower an t d h t e hu s s e w t i a ll r b g e e s t u s b j t e o c t b to e tter reflecstc .tchome /eocpopnorotumniitcy 2030.
+fsuellcert obar.s Telhinein dg aatnad tcaorgveetr-asegttein ign a tth ae lsaete sr edcatteo.rs is profile of our footprint, wh•i chZ ecroonvoemrsic ms isa anvya ilable at
+higher than the average across the portfolio. low-income emerging markescts.c othma/etn r/einqsuigihrets /zeronomics.
+b) S cale of Exposure: In identifying its areas of most b) These methodologies and materiality assessments provided a baseline of $97.3billion of
+significant impact the bank has considered where its in-scope assets, of which we were able to obtain sufficient data to est s im ig a n t i e fi fi c n a a n n t c e c d a e p m it is a s l i o fl n o s ws to• suCparpboornt D tahteeidr is available at
+sc.com/carbon-dated.
+core business/its major activities lie in terms of aFsigsoucriaet e1 d– wTiotht a$7l 4fi.8n bailnliocne dof einm-scisospioe nasss betys (s7e7c pteorr cent), with 45.2eMctoCnOoem ofic fi ngarnocwedth and development. As the
+2 • Our Net Zero roadmap can be
+industries, technologies and geographies. emissions (see pag Fi e n a 4 n o ce f d o e u m r i N ssi e o t n s Zero White C p ov a e p ra e g r e , i o n f c in lu -s d c i o n p g e Figure 1, NrepZlEic astceedn baerloiow )m. Oaf kes clear, thaicsc wesislle idn a pt sacr.cto bme/ netzero and
+these, the most significant sectoral contributions were from the Oil & Gas, Power, and Metals
+and Mining sectors. (MtCO 2 e) assets (%) based on an increased sharea sosfo cgialotebda Wl ohiilt epaper https://av.
+sc.com/corp-en/content/docs/
+and gas production. Further to which, there
+Total 45.2 77% SC-net-zerowhitepaper.pdf.
+is the requirement to finance the improved
+technologies in these industries, as well as
+Oil and Gas 1.9 11.7 13.7 84% the sustainable solutions that will allow these
+markets to transition away from fossil fuels.
+Power 7.7 84% Both continued economic growth and a shift
+towards renewables are key components of
+Metals and
+3.6 6.8 80% the just transition.
+Mining
+Legend
+3.2
+Remaining Scope 1 and 2 • For the coal-mining sector, we have adopted
+17.0 76%
+portfolio Scope 3 absolute financed emissions reduction
+targets, recognising the need for a phase out
+For each of the sectors, we have established
+of all thermal-coal-related activities and the
+37 Standard Chartered — ESG Report 2021 the following:
+growing availability of alternatives to coal
+e.g. renewables. However, the same cannot
+• Baseline: From an absolute financed
+be said for oil and gas, where renewable
+emissions perspective, our 2020 year-end
+solutions are far less advanced.
+total baseline was 45.2MtCOe, associated
+2
+with USD74.8 billion in-scope assets. • Achieving these targets assumes a
+This is our best estimate based on our combination of levers, including supporting
+interpretation of standards and available clients with transition and green financing,
+data and methodologies. We state assessing exposure to emission-intensive
+assumptions and limitations associated with clients or assets that are not on a path
+our approach in this paper. As standards to align with our goals, and adding new
+and methodologies evolve, and data quality sustainable clients to our portfolio, especially
+and availability improves, we will continue to those clients in emerging markets that are
+refine our emissions calculations further. adopting low-carbon business models.
+• Projections: We have projected the evolution • Our commitment to support growth in our
+of financed emissions up to 2050 using markets, and to provide our clients with
+two different global scenarios, to capture transition finance, means that, while our
+the different outcomes between a net zero emissions intensity reduction targets are
+and 3.5°C world. The gap between these aligned to a net zero pathway, our absolute
+scenarios then provides an initial measure financed emissions may increase over the
+of the decarbonisation challenge, which is next few years before reducing in line with
+further refined at a client level by assessing our net zero targets.
+individual decarbonisation commitments
+• Enhancement: Baseline, projections and net
+and transition risk mitigation plans.
+zero targets may be refined, adjusted and
+• Target setting: For each of the three sectors restated over time as data coverage and
+we have defined emissions reduction targets granularity improve, emissions scenarios
+that are aligned with our ambition to realise evolve, external policy and regulatory
+net zero financed emissions by 2050 (see environments expand, industry standards
+Figure 2). In line with the baseline, we have develop and industry circumstances unfold
+drawn upon two main target metrics for beyond our control.
+our commitment. For all sectors except coal
+Standard Chartered Net zero approach 4
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle We will continuously increase our positive impacts while reducing the negative impacts on,
+and managing the risks to, people and environment resulting from our activities, products and
+2: Impact
+services. To this end, we will set and publish targets where we can have the most significant impacts.
+and Target
+Setting
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+2.1 c) C ontext & Relevance: Your bank has taken into c) We strive to maintain open and constructive relationships with a wide range of stakeholders See above.
+account the most relevant challenges and priorities including regulators, lawmakers, clients, investors, civil society and community groups.
+Impact related to sustainable development in the countries/ In 2021, our engagement took many forms, including one-to-one sessions using online channels
+regions in which it operates. and calls, virtual roundtables, written responses and targeted surveys.
+Analysis
+These conversations, and the issues that underpin them, help inform our business strategy and
+continued enable us to operate as a responsible and sustainable business. In 2021, climate and net zero
+were demonstrated as a key priority for many stakeholder groups. See pages 51–59 of our 2021
+Annual Report.
+During the process of developing our net zero pathway, including financed emissions and
+mobilisation targets, we engaged with a range of stakeholders including investors and civil
+society. Through this we also built our understanding of the need for a `just’ transition which
+supports sustainable economic growth, and we intend to continue to build our understanding
+of the potential negative social aspects of a net zero transition through 2022 including via
+research and our participation in collaborative initiatives.
+Our Opportunity 2030 research, released in 2020, focused on selected Sustainable
+Development Goals (SDGs 6, 7 and 9) in 15 of our fastest-growing markets and assessed capital
+needs and thus related investment opportunities.
+We extended this through our subsequent research, including `Zeronomics’ in 2021, which
+looked at the approach taken by large companies towards net zero; and `Carbon Dated’ which
+looked at the impact of this on small and medium-sized enterprises in global supply chains.
+Collectively, these helped support our assessment that climate change represents the Group’s
+most significant area of impact, and our ability to make a positive contribution.
+38 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle We will continuously increase our positive impacts while reducing the negative impacts on,
+and managing the risks to, people and environment resulting from our activities, products and
+2: Impact
+services. To this end, we will set and publish targets where we can have the most significant impacts.
+and Target
+Setting
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+2.1 d) S cale and intensity/salience of impact: In d) Within each of the sectors we support, the most material impacts of their operations may See above.
+identifying its areas of most significant impact, the arise from different scopes of GHG emissions. As set out in the diagram above and in our Net
+Impact bank has considered the scale and intensity/ Zero Whitepaper, we took account of those differences when setting our baselines and targets.
+salience of the (potential) social, economic and During 2021, we also updated our Position Statements covering all sensitive sectors. We
+Analysis environmental impacts resulting from the bank’s introduced enhanced requirements which will become effective from 2022, with the exception
+activities and provision of products and services. of additional restrictions placed on thermal coal-dependent clients, which were effective
+continued
+immediately.
+Show that building on this analysis, the bank has:
+Page 13 of our Net Zero Whitepaper sets out the specific levers we have in place to help achieve
+• Identified and disclosed its areas of most significant
+our net zero targets, including the importance of a delivering a just transition.
+(potential) positive and negative impact
+In order to give investors a holistic picture of the impact of Sustainable Finance at Standard
+• Identified strategic business opportunities in relation
+Chartered, in July 2021 we published our second annual Sustainable Finance Impact Report, to
+to the increase of positive impacts / reduction of
+present our impact on a portfolio basis, covering our $9.2 billion of Sustainable Finance assets.
+negative impacts
+The report found that our green lending avoided 1.4 million tonnes of CO emissions from July
+2
+2020 to June 2021, a 264 per cent increase in CO avoided year-on-year, and equivalent to more
+2
+than 3 million economy class aeroplane seats from London to Singapore.
+Please provide your bank’s conclusion/statement During 2021 we invested significant resources in developing a systematic analysis of our
+if it has fulfilled the requirements regarding climate impact, and utilised this to set relevant targets aligned to the Paris Agreement and
+Impact Analysis. net zero. However, we acknowledge that our wider impact assessment capabilities require
+further development, and aspire to develop a comprehensive Group-wide impact assessment
+process. In 2022, we intend to progress towards this goal by using the UN PRB impact tool to
+understand our impacts across key CPBB markets with an ambition to cover approximately
+89 percent of the volume of business in this segment. Upon completion of the CPBB
+assessment, we will take forward the CCIB assessment.
+39 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 2: Impact and Target Setting continued
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+2.2 Show that the bank has set and published We are committed to promoting economic and social development in the markets we serve, doing so sustainably and The following pages of our
+a minimum of two Specific, Measurable equitably in line with our Purpose and valued behaviours. This sustainability philosophy sets out how we integrate 2021 Annual Report provide
+Target (can be qualitative or quantitative), sustainability into our organisational decision-making and is underpinned by our Sustainability Aspirations and our Position further relevant detail:
+Achievable, Relevant and Time-bound Statements. • Pages 61–77 provide an
+Setting (SMART) targets, which address at least Developed initially in 2016 and published in 2017, our Sustainability Aspirations are a suite of tangible, ‘SMART’ targets for assessment of our progress
+two of the identified “areas of most sustainable outcomes aligned to the UN SDGs in the areas where we consider we can have the most material positive against our 2021
+significant impact”, resulting from the impact, such as climate change and net zero. We review and refresh our Aspirations annually to ensure they reflect Sustainability Aspirations.
+bank’s activities and provision of products stakeholder priorities and our evolving strategy. • Pages 455–456 set out our
+and services. Particular highlights from 2021 included, in support of our Accelerating Zero Stand and SDGs 7 and 13: Sustainability Aspirations
+Show that these targets are linked to and • We pursued and delivered our Sustainability Aspiration to ‘develop and consult with shareholders, investors, clients and for 2022, which are also
+drive alignment with and greater civil society on a definition, methodology, targets and timeline’ to achieve net zero financed emissions by 2050, via our net available at sc.com/
+contribution to appropriate Sustainable zero pathway released in October 2021. (Target date: Jan 2021 to Dec 2021). Delivering this Aspiration acted as an enabler sustainabilityaspirations.
+Development Goals, the goals of the Paris to support ongoing assessment of our climate impact, as it allowed us to validate our financed emissions baseline of We also provide additional
+Agreement, and other relevant 45.2MtCO 2 e of financed emissions as of 2020. Our subsequent targets for financed emissions, included in our 2022 information on our website:
+international, national or regional Sustainability Aspirations, were developed using this baseline. • Further detail on the basis
+frameworks. The bank should have • We facilitated $22 billion towards our Aspiration to ‘facilitate $35 billion worth of project financing services, M&A advisory, of our Aspirations reporting
+identified a baseline (assessed against a debt structuring, transaction banking and lending services for renewable energy that align to our verified Green and can be accessed at
+particular year) and have set targets Sustainable Product Framework’, bringing the total facilitated since January 2020 to $40.4 billion. We therefore achieved sc.com/
+against this baseline. this Aspiration ahead of target (target date: Jan 2020-Dec 2023) and with an average facilitated amount of $20.2 billion aspirationsreportingbasis.
+per year. Per our 2019 Sustainability Summary report our baseline was $24.9 billion facilitated under our prior target • Deloitte’s limited assurance
+Show that the bank has analysed and between 2016-2019 or $6.2 billion per year and therefore performance during the target period showed a significant of our Aspirations is at
+acknowledged significant (potential) increase against the baseline. sc.com/
+negative impacts of the set targets on
+Our full suite of Sustainability Aspirations for 2021, published at https://av.sc.com/corp-en/content/docs/2021-sustainability- aspirationsassurance.
+other dimensions of the SDG/climate
+aspirations.pdf, sets out how each of our Aspirations links to the SDGs with clearly defined targets and dates. • Our Position Statements
+change/society’s goals and that it has set
+Furthermore, details on the governance, internal reporting and scope that apply to the reporting of progress on are at
+out relevant actions to mitigate those as
+Sustainability Aspirations can be found in our 2021 Aspirations Basis of Reporting Document at sc.com/ sc.com/positionstatements.
+far as feasible to maximize the net positive
+aspirationsreportingbasis. with our Prohibited
+impact of the set targets.
+We measure progress against the targets set out in our Sustainability Aspirations, and report this in our Group Annual Report Activities set out at
+(see pages 55–77). At the end of 2021, 82.9 per cent of our Aspirations were on track or achieved. sc.com/prohibitedactivities.
+As explained above, our Sustainability Philosophy acknowledges that there can be challenges in balancing environmental, • Our 2019 Sustainability
+social and economic needs. One means through which we address this in decision making, and thus seek to minimise Summary is available at
+adverse impact, is via our Position Statements which apply to the financial services we provide in pursuing our targets above. https://av.sc.com/corp-en/
+We work closely with NGOs, investors and technical specialists to ensure our Position Statement framework remains fit for content/docs/2019-
+purpose, and we review it every two years to ensure that it reflects current industry best practice. sustainability-summary.pdf.
+In developing our Position Statements, we follow the Precautionary Principle, which underpins many international agreements,
+and expect our clients to do the same: “Where there are threats of serious or irreversible damage, lack of full scientific certainty
+shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation.” For further detail see
+our Position Statements and Policy Framework at sc.com/position-statements and
+https://www.sc.com/en/sustainability/position-statements/our-framework.
+Please provide your bank’s conclusion/ We believe we have fulfilled these requirements.
+statement if it has fulfilled the
+requirements regarding Target Setting.
+40 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 2: Impact and Target Setting continued
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+2.3 Show that your bank has defined actions and Each Aspiration has its own defined methodology, action and milestones. Where The following pages of our 2021 Annual
+milestones to meet the set targets. these change during the lifetime of an Aspiration we use our external reporting to Report provide further relevant detail:
+Plans for Target clearly signpost this change. • Pages 61–77 provide an assessment of
+Show that your bank has put in place the means to Policy measures such as our thermal coal revenue thresholds are embedded via our our progress against our 2021
+Implementation
+measure and monitor progress against the set targets. Position Statement framework, which is overseen by our Group Responsibility and Sustainability Aspirations. The
+Definitions of key performance indicators, any changes Reputational Risk Committee. methodologies and basis of
+and Monitoring
+in these definitions, and any rebasing of baselines Our Aspirations are overseen by our Sustainability Forum (see 5.1 for more reporting for each of these
+should be transparent. information), and progress is periodically reported to the Group Management Team Aspirations can be accessed at
+and the Board’s Culture and Sustainability Committee. Select Aspirations are also sc.com/aspirationsreportingbasis.
+incorporated into the Group’s Scorecard and Long-Term Incentive Plan (LTIP). • Pages 455–456 set out our 2022
+We have formed, and are continuing to enhance, specific governance bodies for our Sustainability Aspirations,
+net zero approach. The primary body is our Net Zero Steering Group. which are also available at
+sc.com/sustainabilityaspirations.
+Please provide your bank’s conclusion/statement if it We believe we have fulfilled these requirements. • Page 153 sets out an assessment of
+has fulfilled the requirements regarding Plans for the 2021 Group Scorecard.
+Target Implementation and Monitoring.
+• Page 158 sets out performance
+measures for the 2022-2024 LTIP.
+More on the role and responsibilities of
+our Net Zero Steering Group, and other
+governance bodies, is set out on page 14
+of our 2021 TCFD report at sc.com/TCFD.
+2.4 For each target separately: At the end of 2021, 82.9 per cent of our Aspirations were on track or achieved. • Pages 61–77 of our 2021 Annual Report
+This is an increase from 78.4 per cent in 2020; however, COVID-19 continued to impact provide an assessment of our progress
+Progress on Show that your bank has implemented the actions it the delivery of several Aspirations. We remain focused on scaling-up delivery in against our 2021 Sustainability
+had previously defined to meet the set target. Or subsequent years to achieve our targets. We facilitated $22 billion towards our Aspirations.
+Implementing
+explain why actions could not be implemented / Aspiration to ‘facilitate $35 billion worth of project financing services, M&A advisory,
+Targets needed to be changed and how your bank is adapting debt structuring, transaction banking and lending services for renewable energy
+its plan to meet its set target. that align to our verified Green and Sustainable Product Framework’, bringing the
+total facilitated since January 2020 to $40.4 billion. We therefore achieved this
+Report on your bank’s progress over the last 12 months Aspiration ahead of target.
+(up to 18 months in your first reporting after becoming Our Annual Report provides an assessment of progress against our individual 2021
+a signatory) towards achieving each of the set targets Aspirations, including quantitative performance reporting where an Aspiration is
+and the impact your progress resulted in. (Where quantitative in nature.
+feasible and appropriate, banks should include
+Specifically against those 2021 Aspirations pertaining to climate in our business, we
+quantitative disclosures)
+exceeded our target set in 2020 to mobilise $35 billion toward clean technology
+between 2020-23, continued to achieve our thermal coal revenue thresholds, and
+delivered our net zero pathway.
+Please provide your bank’s conclusion/statement if it We believe we have fulfilled these requirements.
+has fulfilled the requirements regarding Progress on
+Implementing Targets
+41 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 3: We will work responsibly with our clients and our customers to encourage sustainable practices
+and enable economic activities that create shared prosperity for current and future generations.
+Clients and
+Customers
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+3.1 Provide an overview of the policies and practices your We utilise our longstanding Position Statement framework to manage adverse • Read our Position Statements at
+bank has in place and/or is planning to put in place to impacts from our financing. sc.com/position-statements.
+promote responsible relationships with its customers. We work with clients, regulators and peers across the financial sector to continuously • Read more about our approach to
+This should include high-level information on any improve environmental and social standards. During 2021, we updated our Position engaging clients on pages 51-52 of our
+programmes and actions implemented (and/or Statements via a review process which included peer analysis and stakeholder 2021 Annual Report.
+planned), their scale and, where possible, the results engagement with investors and non-governmental organisations (NGOs).
+thereof. An example of a change made as a result of this process was to change our
+thresholds for ‘coal dependent’ clients from an Earnings before Interest, Tax,
+Depreciation and Amortisation (EBITDA) basis, to Revenue, based on feedback from
+NGOs. Our updated Position Statement criteria became effective from March 2022,
+with the exception of additional restrictions placed on thermal coal-dependent
+clients, which were effective immediately.
+42 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 3: Clients and Customers continued
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+3.2 Describe how your bank has worked with and/or is Our footprint in Asia, Africa and the Middle East includes some of the markets at most • Read more about how we engage our
+planning to work with its clients and customers to risk from climate and broader environmental, social and governance challenges. We clients and build a responsible product
+encourage sustainable practices and enable want to make the world a better, cleaner and safer place and minimise the negative offering on pages 51-52, and 64-65 of
+sustainable economic activities. This should include impact of our financing, balanced by our mission of enabling a just transition. In other our 2021 Annual Report.
+information on actions planned/implemented, words, do more good and less harm. • Our 2021 Sustainable Finance Impact
+products and services developed, and, where possible, We provide financial products and services to people and businesses to help drive Report articulates how we have
+the impacts achieved. sustainable development, economic growth and job creation. Our Sustainability worked with clients to enhance
+Aspirations set out how we aim to promote social and economic development through positive impacts. See sc.com/
+our core business of banking. SFimpactreport.
+Over the past year we developed innovative sustainable financing solutions, took bold • Read more about our Position
+steps to address major challenges such as inequality and climate change, and set Statements at
+ambitious new targets through refreshed Sustainability Aspirations. Over 70 per cent of sc.com/position-statements.
+the $9.2 billion sustainable assets within our Sustainable Finance portfolio are located in
+emerging and developing economies.
+In 2021 we trained 1,280 colleagues in environmental and social risk management and
+reviewed 786 clients and 547 transactions that presented potential specific risks against
+our Position Statements.
+In order to act in the best interests of our clients, we use our client insights, alongside our
+robust policies, procedures and the Group’s Risk Appetite, to design and offer products
+and services which meet client needs, regulatory requirements and Group performance
+targets while contributing to a sustainable and resilient environment.
+For example, through understanding the challenges some of our clients face in
+balancing their financial management needs with their growing commitments to
+sustainability, in 2021 we launched a market-first sustainable trade finance proposition to
+support sustainable supply chains for our clients. We also launched our Sustainable
+Account in the UK and UAE, a new solution that enables corporate clients to contribute
+to sustainable development, while maintaining daily access to their cash.
+During 2021, we also partnered with several suppliers to provide additional benefits to
+our organisation and clients. For example, we partnered with Doconomy, an innovative
+fintech supplier, to pilot a facility in Pakistan which helps individual clients track, measure
+and manage their impact on both carbon emissions and freshwater consumption. The
+tool provides enriched customer data and automatically calculates the CO footprint
+2
+based on the purchases they have made, as identified through their credit transactions.
+With further global release planned for 2022, the Standard Chartered–Doconomy
+collaboration has the potential to allow millions of consumers over time to learn how
+their consumption behaviours impact the climate.
+43 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 4: We will proactively and responsibly consult, engage and partner with relevant stakeholders
+to achieve society’s goals.
+Stakeholders
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+4.1 Describe which stakeholders (or groups/types of Listening and responding to stakeholder priorities and concerns is critical to • Read more about our approach to
+stakeholders) your bank has consulted, engaged, achieving our Purpose and delivering on our brand promise, here for good. Through engaging stakeholders on pages
+collaborated or partnered with for the purpose of our Annual Report, we set out how we strive to maintain open and constructive 51–59 of our 2021 Annual Report.
+implementing these Principles and improving your relationships with a wide range of stakeholders including regulators, lawmakers, • Detailed information about how
+bank’s impacts. This should include a high-level clients, investors, civil society and community groups. the Board engages directly with
+overview of how your bank has identified relevant Specifically on our net zero pathway, we engaged in multiple rounds of stakeholder stakeholders and shareholders can
+stakeholders and what issues were addressed/results engagement during 2021 with stakeholder groups including civil society and be found in the Directors’ Report on
+achieved. non-governmental organisations, and with our investors, to help gather perspectives pages 110–115.
+on our plans. • Our general approach to stakeholder
+engagement, including further details
+on platforms and initiatives is set out
+at https://www.sc.com/en/
+sustainability/how-we-work/.
+44 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 5: We will implement our commitment to these Principles through effective governance
+and a culture of responsible banking.
+Governance
+& Culture
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+5.1 Describe the relevant governance structures, policies The Board is responsible for ensuring that high standards of responsible business are • The Terms of Reference of the CSC can
+and procedures your bank has in place/is planning to maintained and receives information to identify and assess significant risks and be accessed at https://av.sc.com/
+put in place to manage significant positive and opportunities related to environmental and social matters, including climate change. corp-en/content/docs/CSC-Terms-of-
+negative (potential) impacts and support effective The Culture and Sustainability Committee (CSC) of the Board has responsibility for Reference-May-2021.pdf.
+implementation of the Principles. reviewing the Group’s sustainability priorities. • Our 2021 Annual Report provides more
+We have established a cross-Group Sustainability Forum, led by a member of the Group detail on our governance of
+Management Team (in 2021 this was the Group Head, Conduct, Financial Crime and Reputational and Sustainability Risk
+Compliance) to develop and monitor delivery of the Group’s broader sustainability on pages 276–277, and pages 11–19 of
+strategy and to champion sustainability across the Group. our 2021 TCFD Report (sc.com/tcfd).
+The Board Risk Committee holds Board-level oversight responsibility for Reputational provide more detail on governance
+Risk. Oversight from an operational perspective falls under the remit of the Group Risk with a specific focus on Climate Risk.
+Committee (GRC). The Group Responsibility and Reputational Risk Committee (GRRRC), • Our Sustainable Finance
+appointed by the GRC, ensures the effective management of Reputational and Frameworks can be accessed at
+Sustainability Risk across the Group. In 2020, the GRRRC’s remit was extended to include sc.com/sustainablefinanceframework.
+sustainability-related risks.
+The Sustainable Finance Governance Committee, appointed by the GRRRC, provides
+leadership, governance and oversight for delivering the Group’s sustainable finance
+offering including our Sustainability Bond Framework. During 2021, we refreshed the
+framework with independent review from Sustainalytics, as well as releasing a new
+Transition Finance Framework developed in conjunction with global consulting firm,
+Boston Consulting Group.
+5.2 Describe the initiatives and measures your bank has We incentivise and reward colleagues for sustainability achievements through the The following pages of our 2021 Annual
+implemented or is planning to implement to foster a inclusion of sustainability metrics in our annual and Long-Term Incentive Plans (LTIP). Report provide further relevant detail:
+culture of responsible banking among its employees. Selected Sustainability Aspirations, including those with a climate change dimension, • Page 153 sets out an assessment of the
+This should include a high-level overview of capacity are incorporated into our annual Group Scorecard which informs variable 2021 Group Scorecard.
+building, inclusion in remuneration structures and remuneration for all colleagues under our Target Total Variable Compensation plan, • Page 158 sets out performance
+performance management and leadership including the executive directors and Group Management Team (MT). measures for the 2022-2024 LTIP.
+communication, amongst others. Sustainability measures formed 15 per cent of our Group Scorecard in 2021 and The following pages of our 2021 TCFD
+included our commitment to develop a net zero roadmap. Report provide further relevant detail:
+Sustainability measures are also incorporated into our LTIP, which forms part of • Page 19 discusses functional
+variable pay for the MT and executive directors. As well as the Group Scorecard, performance objectives specific to
+dedicated climate and sustainability, related objectives apply across functional and climate.
+regional scorecards, including the Risk function, and individual objectives add a
+• Page 18 sets out information on
+further link between sustainability and reward.
+training.
+Additionally, we provide our colleagues with training to support capacity building.
+45 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+Principle 5: Governance & Culture continued
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+5.3 Show that your bank has a governance structure in We have a comprehensive governance structure at a variety of levels, focussed • Pages 276–277 of our 2021 Annual
+place for the implementation of the PRB, including: around our Sustainability Forum which approves and oversees delivery of our Report set out our governance
+Governance Sustainability Aspirations target-setting framework. structures for sustainability matters.
+Structure for a) target-setting and actions to achieve targets set At the operational level the Sustainability Forum receives quarterly updates on • Page 11 of our 2021 TCFD Report also
+performance against the Aspirations; as part of this, the Sustainability Forum sets out our climate governance
+discusses any Aspirations which are not on track to achieve their stated goals. The structure, with detailed information
+Implementation
+Culture and Sustainability Committee of the Board receives periodic updates on on the role of each governance body
+of the Principles b) remedial action in the event of targets or milestones behalf of the Board. provided on pages 12–14.
+not being achieved or unexpected negative impacts
+The Group Responsibility and Reputational Risk Committee discusses negative
+being detected.
+impacts in context of specific clients or transactions, and in context of the
+implementation of our overall Position Statement requirements.
+Please provide your bank’s conclusion/ statement if it We believe we have fulfilled these requirements.
+has fulfilled the requirements regarding Governance
+Structure for Implementation of the Principles.
+46 Standard Chartered — ESG Report 2021
+UN Principles for Responsible Banking
+Reporting and Self-Assessment continued
+The following table sets out the reporting and self-assessment requirements for Signatories of the UN Principles for Responsible Banking.
+Principle 6: We will periodically review our individual and collective implementation of these Principles
+and be transparent about and accountable for our positive and negative impacts and
+Transparency &
+our contribution to society’s goals.
+Accountability
+Reporting and Self-Assessment Requirements High-level summary of bank’s response Reference(s)
+6.1 Show that your bank has progressed on In 2021, we elevated sustainability to be one of the four pillars of our strategy. We also defined three • Read more about our Stands on pages
+implementing the six Principles over the ‘Stands’, which are long-term ambitions for our role in tackling the severe impacts of climate 24–25 of the 2021 Annual Report.
+Progress on last 12 months (up to 18 months in your first change, stark inequality and unfair aspects of globalisation that impact everyone. • Our Group Chief Risk Officer’s review
+reporting after becoming a signatory) in These Stands are integral to delivering and accelerating our strategy and will use our unique ability on pages 41–48 sets out our approach
+Implementing addition to the setting and to work across boundaries and connect capital, people, ideas and best practices to help address to managing the associated risks.
+implementation of targets in minimum some key socioeconomic challenges of our time.
+the Principles
+two areas (see 2.1-2.4). Each of these Stands impacts how we engage with our clients and define the future of our societies.
+for Responsible Show that your bank has considered Through our ‘Accelerating Zero’ Stand, we’re helping emerging markets in our footprint reduce
+existing and emerging international/ carbon emissions as fast as possible, without slowing development, putting the world on a
+Banking
+regional good practices relevant for the sustainable path to net zero by 2050. We stand for a rapid, just transition to net zero where it
+implementation of the six Principles for matters most.
+Responsible Banking. Based on this, it has Through ‘Lifting Participation’, we’re determined to improve the lives of 1 billion people and their
+defined priorities and ambitions to align communities by unleashing the financial potential of women and small businesses in our core
+with good practice. markets.
+We are helping our clients by building partnerships to expand their access to financial services. For
+Show that your bank has implemented/is
+these new business initiatives, we have developed new risk management and risk assessment
+working on implementing changes in
+approaches across our Principal Risk Types to address these unique risks. We further support our
+existing practices to reflect and be in line
+clients by promoting financial wellbeing through financial education and personalised services,
+with existing and emerging international/
+including digitised solutions for lending and wealth management. We are also focused on driving
+regional good practices and has made
+customer awareness of environmental sustainability concerns through green products.
+progress on its implementation of these
+Through our ‘Resetting Globalisation’ Stand, it’s our goal to support 500,000 companies to improve
+Principles.
+working and environmental standards and give everyone the chance to participate in the world
+economy, so growth becomes fairer and more balanced. We welcome digital-asset-related
+opportunities and have enhanced our Digital Asset Risk Management Approach and Policy to
+ensure that digital asset activities across the Group are appropriately managed, and within our Risk
+Appetite.
+Please provide your bank’s conclusion/ We believe we have fulfilled these requirements.
+statement if it has fulfilled the
+requirements regarding Progress on
+Implementing the Principles for
+Responsible Banking
+Annex: Definitions
+a. I mpact: An impact is commonly understood as being a change in outcome for a stakeholder. In the context of these Principles this means (aligned with GRI definition) the effect a bank has on people/the society, the economy and the environment and with
+that on sustainable development. Impacts may be positive or negative, direct or indirect, actual or potential, intended or unintended, short-term or long-term.
+b. S ignificant Impact: Impact that in terms of scale and/or intensity/salience results in a particularly strong/relevant change in outcome for a stakeholder. In the context of these Principles, the concept of significant impact is used to ensure banks focus where
+their actions/business (can) matter most for people, economy and environment and to provide a reasonable and practical threshold for what issues need to be considered/included, similar to the concept of “materiality”.
+47 Standard Chartered — ESG Report 2021
+Important notices
+Forward-looking statements v. s ome of the models, external data and methodologies used in this document are subject to adjustment which is beyond
+This document may contain ‘forward-looking statements’ that are based on current expectations or beliefs, as well as our control;
+assumptions about future events. These forward-looking statements can be identified by the fact that they do not relate only vi. a ny opinions and estimates should be regarded as indicative, preliminary and for illustrative purposes only. Expected and
+to historical or current facts. Forward-looking statements often use words such as ‘may’, ‘could’, ‘will’, ‘expect’, ‘intend’, actual outcomes may differ from those set out in the document (as explained in the “Forward-looking statements”
+‘estimate’, ‘anticipate’, ‘believe’, ‘plan’, ‘seek’, ‘continue’ or other words of similar meaning. section);
+By their very nature, forward-looking statements are subject to known and unknown risks and uncertainties and can be vii. some of the information appearing in this document may have been obtained from public and other sources and, while
+affected by other factors that could cause actual results, and the Group’s plans and objectives, to differ materially from those the Group believes such information to be reliable, it has not been independently verified by the Group and no
+expressed or implied in the forward-looking statements. Recipients should not place reliance on, and are cautioned about representation or warranty is made by the Group as to its quality, completeness, accuracy, fitness for a particular purpose
+relying on, any forward-looking statements. There are several factors which could cause actual results to differ materially from or non-infringement of such information;
+those expressed or implied in forward-looking statements. The factors that could cause actual results to differ materially from viii. f or the purposes of this document, a number of key judgements and assumptions have been made. It is possible that the
+those described in the forward-looking statements include (but are not limited to): changes in global, political, economic, assumptions drawn, and the judgement exercised may subsequently turn out to be inaccurate. The judgements and data
+business, competitive and market forces or conditions; future exchange and interest rates; changes in environmental, social or presented in this document are not a substitute for judgements and analysis made independently by the reader;
+physical risks; legislative, regulatory and policy developments, including regulatory measures addressing climate change; the
+development of standards and interpretations, including evolving practices in Environmental, Social and Governance ix. a ny opinions or views of third parties expressed in this document are those of the third parties identified, and not of the
+reporting; the ability of the Group to mitigate the impacts of climate change effectively; risks arising out of health crises and Group, its affiliates, directors, officers, employees or agents. By incorporating or referring to opinions and views of third
+pandemics; changes in tax rates, future business combinations or dispositions; and other factors specific to the Group. Any parties, the Group is not, in any way, endorsing or supporting such opinions or views;
+forward-looking statement contained in this document is based on past or current trends and/or activities of the Group and x. the data contained in this document reflects best estimates at the relevant time;
+should not be taken as a representation that such trends or activities will continue in the future.
+xi. w here the Group has used the methodology and tools developed by a third party, the application of the methodology (or
+No statement in this document is intended to be a profit forecast or to imply that the earnings of the Group for the current year consequences of its application) shall not be interpreted as conflicting with any legal or contractual obligations and such
+or future years will necessarily match or exceed the historical or published earnings of the Group. Each forward-looking legal or contractual obligations shall take precedence over the application of the methodology;
+statement speaks only as of the date of the particular statement. Except as required by any applicable laws or regulations, the
+xii. w here the Group has used underlying data provided or sourced by a third party, the use of the data shall not be
+Group expressly disclaims any obligation to revise or update any forward-looking statement contained within this document,
+interpreted as conflicting with any legal or contractual obligations and such legal or contractual obligations shall take
+regardless of whether those statements are affected as a result of new information, future events or otherwise.
+precedence over the use of the data;
+Please refer to the Group’s latest Annual Report for a discussion of certain of the risks and factors that could cause actual
+xiii. t his Important Notice is not limited in applicability to those sections of the document where limitations to data, metrics
+results, and the Group’s plans and objectives, to differ materially from those expressed or implied in the forward-looking
+and methodologies are identified and where this Important Notice is referenced. This Important Notice applies to the
+statements.
+whole document;
+Important Notice – Basis of Preparation and Caution Regarding Data Limitations
+xiv. f urther development of reporting or other standards could impact the metrics, data and targets contained in this
+Standard Chartered PLC is incorporated in England and Wales with limited liability, and is headquartered in London. The document (it being noted that Environmental, Social and Governance reporting and standards are subject to rapid
+Group’s head office provides guidance on governance and regulatory standards. Standard Chartered PLC. Stock codes are: change and development); and
+LSE STAN.LN and HKSE 02888.
+xv. w hile all reasonable care has been taken in preparing this document, neither the Group nor any of its affiliates, directors,
+The reader should be aware that this document and the information contained within it, has been prepared on the following officers, employees or agents make any representation or warranty as to its quality, accuracy or completeness, and they
+basis: accept no responsibility or liability for the contents of this material, including any errors of fact, omission or opinion
+i. this document and its contents are unaudited; expressed.
+ii. all material contained in this document is subject to change without notice; You are advised to exercise your own independent judgement (with the advice of your professional advisers as necessary) with
+respect to the risks and consequences of any matter contained in this document. The Group, its affiliates, directors, officers,
+iii. the material in this document does not constitute any investment, accounting, legal, regulatory or tax advice or an employees or agents expressly disclaim any liability and responsibility for any decisions or actions which you may take and for
+invitation or recommendation to enter into any transaction; any damage or losses you may suffer from your use of or reliance on this material. Copyright in all materials, text, articles and
+iv. t his document has been prepared using models, methodologies and data which are subject to certain limitations. These information contained herein (other than third-party materials, text, articles and information) is the property of, and may only
+limitations include: a lack of reliable data (due, amongst other things, to developing measurement technologies and be reproduced with permission of an authorised signatory of, the Group.
+analytical methodologies); a lack of standardisation of data (given, amongst other things, the lack of international Copyright in materials, text, articles and information created by third parties and the rights under copyright of such parties are
+coordination on data and methodology standards); and future uncertainty (due, amongst other things, to changing hereby acknowledged. Copyright in all other materials not belonging to third parties and copyright in these materials as a
+projections relating to technological development and global and regional laws, regulations and policies, and the inability compilation vests and shall remain at all times copyright of the Group and should not be reproduced or used except for
+to make use of strong historical data); business purposes on behalf of the Group or save with the express prior written consent of an authorised signatory of the
+Group. All rights reserved.
+49 Standard Chartered — ESG Report 2021

@@ -1,0 +1,1480 @@
+Board of directors and secretary
+Chairman Auditors
+Howard Davies Ernst & Young LLP
+Nominations (Chairman) Chartered Accountants and Statutory Auditor
+25 Churchill Place
+Executive directors London E14 5EY
+Ross McEwan
+Executive (Executive Committee Chairman) Registered office
+36 St Andrew Square
+Ewen Stevenson Edinburgh EH2 2YB
+Executive Telephone: +44 (0)131 556 8555
+Independent non-executive directors Head office
+PO Box 1000
+Frank Dangeard Gogarburn
+Risk, Technology Edinburgh EH12 1HQ
+Telephone +44 (0)131 626 0000
+Alison Davis
+Technology (Chairman), Remuneration, Sustainability The Royal Bank of Scotland plc
+Registered in Scotland No. SC90312
+Morten Friis
+Audit, Risk
+Robert Gillespie
+Remuneration (Chairman), Nominations, Sustainability
+Penny Hughes
+Sustainability (Chairman) Nominations, Risk
+Yasmin Jetha
+Sustainability, Technology
+Brendan Nelson
+Audit (Chairman), Nominations, Risk
+Baroness Noakes
+Risk (Chairman), Audit, Nominations
+Mike Rogers
+Remuneration, Sustainability
+Mark Seligman
+Senior Independent Director
+Nominations, Remuneration
+Dr Lena Wilson
+Sustainability
+Chief Governance & Regulatory Officer and Board Counsel
+Aileen Taylor (Company Secretary)
+Audit member of the Group Audit Committee
+Executive member of the Executive Committee
+Nominations member of the Group Nominations and Governance Committee
+Remuneration member of the Group Performance and Remuneration Committee
+Risk member of the Board Risk Committee
+Sustainability member of the Sustainable Banking Committee
+Technology member of the Technology and Innovation Committee
+3
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Risk management framework (unaudited)
+Introduction
+The RBS Group operates an integrated risk management It is a key element of the RBS Group’s risk management
+framework, centred around the embedding of a strong risk framework and culture, providing a structured approach to risk-
+culture, which is designed to achieve the correct balance taking within agreed boundaries.
+between prudential and conduct obligations. Each element of the
+risk management framework functions both individually and as Effective governance underpinned by our three lines of defence
+part of a larger continuum. The framework ensures the tools and model, is essential to ensure the right decisions are being made
+capability are in place to facilitate risk management and decision- by the right people at the right time. Governance includes regular
+making across the organisation. and transparent risk reporting as well as discussion and decision-
+making at senior management committees, which informs
+The RBS Group’s strategy is informed and shaped by an management strategies across the organisation.
+understanding of the risk landscape, including a range of
+significant risks and uncertainties in the external economic, The RBS Group aims to have the right tools in place to support
+political and regulatory environment. Identifying these risks and effective risk management. Having the appropriate capability,
+understanding how they affect the RBS Group, informs risk people and infrastructure is central. This is supported by a strong
+appetite and risk management practice. emphasis on systems, training and development to ensure
+threats are anticipated and managed appropriately within the
+Risk appetite, which is supported by a robust set of principles, boundaries determined by the agreed risk appetite.
+policies and practices, defines our levels of tolerance for a variety
+of risks.
+RBS Group is able to RBS Group’s strategy is
+absorb shocks and is informed and shaped by
+prepared to manage new, an understanding
+emerging and unforeseen of the risksit faces
+risks
+RBS Group
+RBS Group Stress & identifies the
+continually improves scenario Business risks that arise as
+how risk is managed, analysis strategy a result of running
+by taking action its business
+where necessary and delivering
+Response Risk its strategy
+identification
+Risk
+RBS Group has Control culture
+the appropriate definition & Risk
+policies and controls effectiveness appetite Defining the level
+embedded in the of risk which RBS
+business to Group is willing to
+manage the accept
+risks it takes
+Measurement,
+evaluation & Governance
+transparency
+Capability,
+u R n B d S er G st r a o n u d p s Inf p ra e s o t p ru le c t & u re Grou E p ns is u r c i o n n g f i R de B n S t the
+and communicates right decisions are
+the financial and being taken, by the
+non-financial risks right people, at
+it is taking RBS Group has the tools the right time
+and capability to support
+risk management and
+decision-making across the
+organisation
+Measurement, evaluation and transparency are also fundamental The RBS Group has a strong focus on defining the control
+elements of the framework, providing robust analysis of the environment to ensure the effective operation of policies and
+materiality and likelihood of specific threats as well as supporting processes embedded in the customer-facing businesses, thus
+understanding and communication of the financial and non- facilitating the management of the risks they take in the course of
+financial risks the RBS Group is exposed to. their day-to-day activities.
+18
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Risk management framework (unaudited) continued
+Risk management structure
+The diagram illustrates the RBS Group’s risk management structure in 2017 and key risk management responsibilities.
+Chief Credit Officer Credit risk and control framework (including Personal and Wholesale)
+Enterprise-wide risk and control framework (including stress testing and risk
+Director of Enterprise-Wide Risk capital, risk appetite and framework, strategic and earnings risk, non-traded
+market risk and risk model build)
+Chief Risk Officer
+Independent challenge on the adequacy and effectiveness of risk and conduct
+Head of Risk & Conduct Assurance management practices and behaviour, model risk management and governance
+Franchise Directors of Risk & Oversight and challenge to the business in their management of risk and conduct
+Conduct/Chief Risk Officers
+Director of Financial Crime Financial crime framework and standards, and oversight of implementation
+Manages legal risk and provides legal advice on customer transactions and
+Chief Executive RBS Group General Counsel products, acquisitions, disposals, joint ventures and intellectual property as well
+as managing major litigation
+Regulatory advisory support across all customer businesses and management of
+relationships with core regulators
+Capital, liquidity and funding risk as well as recovery and resolution planning.
+Chie O f f F fi i c n e a r ncial Treasurer Treasury also participates in the Capital Management & Stress Testing
+Committee
+Notes:
+(1) RBS Group risk management framework
+In 2017, the Chief Risk Officer (CRO) led Risk, Conduct & Restructuring. The CRO reported directly to the Chief Executive and had a dotted reporting line to the Board Risk
+Committee – as well as a right of access – to the chairman of the Board Risk Committee.
+Risk, Conduct & Restructuring was a function independent of the franchises, structured by risk discipline to facilitate the effective management of risk.
+Risk, Conduct & Restructuring was organised into eight functional areas: Chief of Staff; Credit Risk; Restructuring; Enterprise-Wide Risk; Risk & Conduct Infrastructure;
+Operational Risk; Risk & Conduct Assurance; and Financial Crime. There were also Directors of Risk & Conduct/Chief Risk Officers for each of the franchises and for Services.
+Risk committees in the customer businesses and key functional risk committees oversaw risk exposures arising from management and business activities and focused on
+ensuring that they were adequately monitored and controlled.
+(2) Regulatory Affairs
+In 2017, Regulatory Affairs was responsible for providing leadership of the RBS Group’s relationships with its regulators. Regulatory Affairs is part of Corporate Governance &
+Regulatory Affairs. Remediation & Complaints reports to the Services Chief Operating Officer.
+21
+RBS plc Annual Report and Accounts 2017
+tnemeganam
+ksir
+fo
+thgisrevo
+,egnellahc
+dna
+etiteppa
+ksir
+,krowemarf
+lortnoc
+dna
+ksiR
+Chief of Staff Proactive support to the Chief Risk Officer (including Risk, Conduct &
+Restructuring strategy)
+Head of Restructuring Manages RBS’s problem and potential problem Wholesale debt exposures
+Director of Risk & Conduct Risk and conduct capabilities (including information services,
+Infrastructure transformation, control room and surveillance, and whistleblowing)
+Operational risk and control framework (including business
+Director of Operational Risk processes, technology, data and organisation)
+Chief Governance Head of Regulatory Developments and
+Officer and Board Counsel Head of Regulator & Control Function
+Liaison
+Financial review Capital and risk management
+Risk management framework (unaudited) continued
+Risk treatment and mitigation
+Risk treatment and mitigation is an important aspect of ensuring The adequacy and effectiveness of selected key controls owned
+that risk profile remains within risk appetite. Risk mitigation and operated by the Risk function are also tested (with a
+strategies are discussed and agreed with the businesses. particular focus on credit risk and market risk controls). The
+team’s remit includes selected controls within the scope of
+When evaluating possible strategies, costs and benefits, residual
+Section 404 of the US Sarbanes-Oxley Act 2002 as well as
+risks (risks that are retained) and secondary risks (those caused
+selected controls supporting risk data aggregation and reporting.
+by the risk mitigation actions) are considered. Monitoring and
+review processes are in place to track results. Assurance is carried out on Anti-Money Laundering, Sanctions,
+and Anti-Bribery & Corruption processes and controls. This helps
+Information about regulatory developments and discussions is
+inform whether or not the financial crime control environment is
+communicated to each customer-facing business and function.
+adequate and effective and whether financial crime risk is
+This helps identify and execute any required mitigating changes
+appropriately identified, managed and mitigated. Assurance of
+to strategy or to business models.
+conduct policies is predominantly focused on the Risk, Conduct &
+Early identification and effective management of changes in Restructuring-owned conduct policies. Targeted work is also
+legislation and regulation are critical to the successful mitigation carried out to assist the RBS Group in meeting its promises to
+of conduct and regulatory risk. The effects of all changes are customers as well as its regulatory requirements.
+managed to ensure timely compliance readiness. Changes
+The Risk & Conduct Assurance Committee ensures a consistent
+assessed as having a high or medium-high impact are managed
+and fair approach to all aspects of the team’s assurance review
+closely.
+activities. The committee also monitors and validates the ongoing
+Top and emerging risks that may affect future results and programme of reviews and tracks the remediation of the more
+performance are reviewed and monitored. Action is taken to material review actions.
+mitigate potential risks as and when required. In depth analysis is
+Model risk
+carried out, including the stress testing of exposures relative to
+Model risk is the risk that a model is specified incorrectly (not
+the risk.
+achieving the objective for which it is designed), implemented
+incorrectly (an error in translating the model specification into the
+The Board Risk Committee, Asset & Liability Management
+version actually used), or being used incorrectly (correctly
+Committee and Executive Risk Forum provide governance and
+specified but applied inappropriately).
+oversight.
+The RBS Group uses a variety of models as part of its risk
+Risk and conduct assurance
+management process and activities. Key examples include the
+Risk & Conduct Assurance is an independent second line of
+use of model outputs to support risk assessments in the credit
+defence function which provides assurance to both internal and
+approval process, ongoing credit risk management, monitoring
+external stakeholders including the Board, senior management,
+and reporting, as well as the calculation of risk-weighted assets.
+risk functions, franchises, Internal Audit and regulators.
+Other examples include the use of models to measure market
+The function has three main elements – assurance, model risk risk exposures and calculate associated capital requirements, as
+and risk culture. Risk & Conduct Assurance teams perform well as for the valuation of positions. The models used for stress-
+quality assurance on targeted credit, market, financial crime and testing purposes also play a key role in ensuring the RBS Group
+conduct risk activities. They also review selected key controls holds sufficient capital, even in stressed market scenarios.
+and manage model risk governance and validation activities. In
+addition, the Head of Risk & Conduct Assurance oversees the Model Risk Governance
+delivery of work to embed and strengthen the RBS Group’s Model Risk Governance is responsible for setting policy and
+desired risk culture. providing a governance framework for all of the RBS Group’s
+models and related processes. It is also responsible for defining
+The Head of Risk & Conduct Assurance also oversees the three
+and monitoring model risk appetite in conjunction with model
+lines of defence model, including relevant principles. For further
+owners and model users, monitoring the model risk profile and
+information refer to page 22.
+reporting on the model population as well as escalating issues to
+senior management, through the Model Risk Forum, and the
+Assurance
+respective franchise and function risk committees.
+Qualitative reviews are carried out to assess various risk aspects
+as appropriate, including: the quality of risk portfolios, the
+Model Risk Management
+accuracy of the Basel Model Inputs and related probability of
+Model Risk Management performs independent model validation
+default/loss given default classifications, the quality of risk
+for material models. It works with individual businesses and
+management practices, policy compliance and adherence to risk
+functions to monitor adherence to model risk standards, ensuring
+appetite. This can include testing the bank’s credit portfolios and
+that models are developed and implemented appropriately and
+market risk exposures to assist in early identification of emerging
+that their operational environment is fit for purpose.
+risks, as well as undertaking targeted reviews to examine specific
+concerns raised either by these teams or by their stakeholders.
+24
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Credit risk: management basis
+The following disclosures in this section are audited: For Wholesale the four formal frameworks used, and their basis
+•
+Forbearance. for classification, are detailed in the following table.
+•
+Impairment provisioning and write-offs.
+Framework Basis for classification
+Definition
+Credit risk is the risk of financial loss due to the failure of a Size Other
+customer or counterparty to meet its obligation to settle Single name Net exposure or
+outstanding amounts. concentration loss given default
+for a given
+Sources of credit risk (unaudited) probability of
+The principal sources of credit risk for the Group are lending, off- default
+balance sheet products, derivatives and securities financing, and Sector Exposure (1) Risk – based on
+debt securities. The Group is also exposed to settlement risk
+economic capital and
+through foreign exchange, trade finance and payments activities.
+other qualitative
+factors
+The commentary that follows relates to Wholesale only. Credit Country Exposure (1)
+risk governance for Personal is disclosed in the RBS Group
+Product and Exposure – Risk – based on
+Annual Report and Accounts 2017.
+asset class net/gross heightened risk
+Credit risk management function (unaudited) dependent on characteristics
+Risk governance type of risk and
+The credit risk management function is led by the Chief Credit limit definition.
+Officer (CCO). The function’s activities include:
+Note:
+• Approving credit limits for customers. (1) Potential exposure as defined on the following page.
+•
+Defining concentration risk and implementing the credit risk
+control framework. Risk identification and measurement (unaudited)
+• Oversight of the first line of defence to ensure that credit risk Credit stewardship
+remains within the risk appetite set by the Board. Risks are identified through relationship management and credit
+• Developing and monitoring compliance with credit risk stewardship of portfolios or customers. Credit risk stewardship
+policies. takes place throughout the customer relationship, beginning with
+• Conducting Group-wide assessments of provision the initial approval. It includes the application of credit
+adequacy. assessment standards, credit risk mitigation and collateral,
+ensuring that credit documentation is complete and appropriate,
+The CCO has overall responsibility for the credit risk function and carrying out regular portfolio or customer reviews and problem
+chairs the Wholesale Credit Risk Committee. The committee has debt identification and management.
+authority for risk appetite (within the appetite set by the Board),
+strategy, frameworks and policy as well as oversight of the Risk measurement
+Group’s credit profile. The Provisions Committee has authority The Group uses current exposure and potential exposure as its
+over provisions adequacy and approves proposals from business measures of credit risk exposure. Unless otherwise stated,
+provisions committees in accordance with approval thresholds. current exposure and potential exposure are reported:
+The Provisions Committee is chaired either by the CCO or the
+•
+Net of collateral – cash and gold collateral for all product
+Head of Provisions & Restructuring Credit. types as well as financial collateral for derivative and
+securities financing products.
+Controls • Net of provisions – credit valuation adjustments for
+Credit policy standards are in place for the Wholesale portfolio. derivative and securities financing products; individual,
+They are expressed as a set of mandatory controls. collective and latent provisions across all other product
+types.
+Risk appetite (unaudited)
+The Group’s approach to lending is governed by comprehensive Exposures backed by guarantees are allocated to the guarantor
+credit risk appetite frameworks. The frameworks are closely rather than the direct obligor. This does not affect the current or
+monitored and actions are taken to adapt lending criteria as potential exposure amount, but does affect allocations to
+appropriate. Credit risk appetite aligns to the strategic risk obligors, sectors, country and product and asset classes.
+appetite set by the Board, which includes capital adequacy,
+earnings volatility, funding and liquidity, and stakeholder
+confidence. The credit risk appetite frameworks have been
+designed to reflect factors (e.g. strategic and emerging risks) that
+influence the ability to operate within risk appetite. Tools such as
+stress testing and economic capital are used to measure credit
+risk volatility and develop links between the credit risk appetite
+frameworks and risk appetite limits. The frameworks are
+supported by a suite of policies and transaction acceptance
+standards that set out the risk parameters within which franchises
+must operate.
+36
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Traded market risk continued Model validation (unaudited)
+VaR back-testing (unaudited) The Group uses a variety of models to manage and measure
+The main approach employed to assess the ongoing market risk. These include pricing models (used for valuation
+performance of the VaR model is back-testing, which counts of positions) and risk models (for risk measurement and capital
+the number of days when a loss exceeds the corresponding calculation purposes). They are developed and signed off in
+daily VaR estimate, measured at a 99% confidence level. NatWest Markets, with material models subject to independent
+review by Model Risk Management. For general information on
+Two types of profit and loss (P&L) are used in back-testing
+the independent model validation carried out by Model Risk
+comparisons: Actual P&L and Hypothetical (Hypo) P&L.
+Management, which applies also to market risk models
+The Actual P&L for a particular business day is the firm’s
+(including VaR models), refer to page 24. Additional details
+actual P&L for that day in respect of the trading activities,
+relating to pricing and market risk models are presented below.
+including any intraday activities, adjusted by stripping out fees
+Pricing models
+and commissions, brokerage, and additions to and releases
+Pricing models are developed by a dedicated front office
+from reserves that are not directly related to market risk.
+quantitative team, in conjunction with the trading desk. They
+The Hypo P&L reflects the firm’s Actual P&L excluding any
+are used for the valuation of positions for which prices are not
+intra-day activities.
+directly observable and for the risk management of the
+A portfolio is said to produce a back-testing exception when portfolio.
+the Actual or Hypo P&L exceeds the VaR level on a given day.
+Any pricing models that are used as the basis for valuing
+Such an event may be caused by a large market movement or
+books and records are subject to approval and oversight by
+may highlight issues such as missing risk factors or
+asset-level modelled product review committees.
+inappropriate time series. Any such issues identified are
+These committees comprise representatives of the major
+analysed and addressed through taking appropriate
+stakeholders in the valuation process - trading, finance, market
+remediation or development action. Both Actual and Hypo
+risk, model development and model review functions. Model
+back-testing exceptions are monitored.
+approval by such a committee requires review and approval by
+Back-testing at the legal entity level is performed and reported
+these stakeholders, including independent model review by
+on 1-day 99% regulatory VaR. Back-testing for NatWest
+Model Risk Management.
+Markets businesses is performed on 1-day 99% internal VaR.
+The review process includes the following steps:
+Stressed VaR (SVaR) (unaudited) •
+The committees prioritise models for review by Model
+As with VaR, the SVaR methodology produces estimates of
+Risk Management, considering the materiality of the risk
+the potential change in the market value of a portfolio, over a
+booked against the model and an assessment of the
+specified time horizon, at a given confidence level. SVaR is a
+degree of model risk, that is the valuation uncertainty
+VaR-based measure using historical data from a one-year
+arising from the choice of modelling assumptions.
+p eriod of stressed market conditions. •
+Model Risk Management quantifies the model risk, which
+The risk system simulates 99% VaR on the current portfolio for may include comparing front office model outputs with
+each 250-day period from 2005 to the current VaR date, those of alternative models independently developed by
+moving forward one day at a time. The SVaR is the worst VaR Model Risk Management.
+outcome of the simulated results. • The sensitivities derived from the pricing models are
+This is in contrast with VaR, which is based on a rolling 500- validated.
+day historical data set. A time horizon of ten trading days is
+•
+The conclusions of the review are used to inform risk
+assumed with a confidence level of 99%. limits and by Finance to inform model reserves.
+The internal traded SVaR model captures all trading book Risk models
+positions. All model changes are approved through model governance
+committees at franchise level. Changes to existing models are
+Internal traded SVaR is monitored at RBS Group level.
+subject to Model Risk Management review and the Group
+Risks not in VaR (RNIVs) (unaudited) follows regulatory guidance for assessing the materiality of
+The RNIV framework is used to identify and quantify market
+extensions and changes to the internal model approach for
+risks that are inadequately captured by the internal VaR and
+market risk.
+SVaR models.
+Model Risk Management’s independent oversight provides
+RNIV calculations form an integral part of ongoing model and
+additional assurance that the Group holds appropriate capital
+data improvement efforts to capture all market risks in scope
+for the market risk to which it is exposed.
+for model approval in VaR and SVaR.
+In addition to Model Risk Management’s independent
+Stress testing (unaudited)
+oversight, the model testing team monitors the model
+For information on stress testing, refer to page 28.
+performance for market risk through back-testing, which is
+Incremental risk charge (IRC) (unaudited)
+discussed in more detail on page 46, and other processes.
+The IRC model quantifies the impact of rating migration and
+default events on the market value of instruments with
+embedded credit risk (in particular, bonds and credit default
+swaps) that are held in the trading book. It further captures
+basis risk between different instruments, maturities and
+reference entities.
+46
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Pension risk (unaudited) Pension risk management function
+Definition Risk governance
+Pension obligation risk is the risk to the RBS Group caused by its The Main scheme operates under a trust deed. The corporate
+contractual or other liabilities to, or with respect to, a pension trustee, RBS Pension Trustee Limited, is a wholly owned
+scheme (whether established for its employees or those of a subsidiary of National Westminster Bank Plc. The trustee board
+related company or otherwise). It is also the risk that the RBS comprises six directors selected by the RBS Group and four
+Group will make payments or other contributions to, or with directors representing members. The trustee is supported by
+respect to, a pension scheme because of a moral obligation or RBS Investment Executive Ltd (RIEL), which specialises in
+because the RBS Group considers that it needs to do so for pension investment strategy.
+some other reason.
+The Pension Committee, which is chaired by the RBS Group
+Sources of pension risk
+Chief Financial Officer, acts as a sub-committee of the Executive
+The Group has exposure to pension risk through its defined
+Committee and formulates the RBS Group’s view of pension risk.
+benefit schemes worldwide. The five largest schemes, which
+The Pension Committee considers mechanisms that could
+represent around 98% of the RBS Group’s pension liabilities are:
+potentially be used for managing risk within the funds as well as
+the Main Section of The Royal Bank of Scotland Group Pension
+financial strategy. The Pension Committee is a key component of
+Fund (the Main scheme), the AA Section of The Royal Bank of
+the RBS Group’s approach to managing pension risk and it
+Scotland Group Pension Fund, the Ulster Bank Pension Scheme,
+reviews and monitors risk management, asset strategy and
+the Ulster Bank Pension Scheme (Republic of Ireland), and the
+financing issues on behalf of the RBS Group. The Pension
+Royal Bank of Scotland International Pension Trust. The Main
+Committee also serves as a formal link between the RBS Group,
+scheme is the principal source of pension risk. Further detail on
+RIEL and the trustee.
+the Group’s pension obligations can be found in Note 4 on the
+consolidated accounts. For further information on Risk governance, refer to page 20.
+Pension scheme liabilities vary with changes in long-term interest
+Risk appetite
+rates and inflation as well as with pensionable salaries, the
+Investment policy for the schemes is defined by the trustee with
+longevity of scheme members and legislation. Pension scheme
+input from RIEL where appropriate and other specialist advisers
+assets vary with changes in interest rates, inflation expectations,
+employed by the trustee. While the trustee is responsible for the
+credit spreads, exchange rates, and equity and property prices.
+management of the scheme assets, it consults with the RBS
+The RBS Group is exposed to the risk that the schemes’ assets,
+Group on material changes to the Main scheme’s risk appetite
+together with future returns and additional future contributions,
+and investment policy.
+are insufficient to meet liabilities as they fall due. In such
+circumstances, the RBS Group could be obliged (or might
+The RBS Group maintains an independent view of the risk
+choose) to make additional contributions to the schemes, or be
+inherent in pension funds, with an associated risk appetite, and
+required to hold additional capital to mitigate this risk.
+has defined metrics against which risk is measured. In addition to
+the scrutiny provided by the Pension Committee, the RBS Group
+Prior to 6 April 1997, individuals who contracted out of the UK
+undertakes regular pension risk monitoring and reporting to the
+State Second Pension were entitled to a Guaranteed Minimum
+Board and the Board Risk Committee on the material pension
+Pension (GMP). Men accrued GMP at different rates to women.
+schemes that the RBS Group has an obligation to support.
+The Government intends that GMP should be equalised but until
+the mechanism is defined, pension funds are uncertain of their Risk controls
+obligations. In the meantime, no allowance is made for GMP A pension risk management framework is in place to provide
+equalisation in the IAS 19 defined benefit obligations and risk formal controls for pension risk reporting, modelling, governance
+disclosures. and stress testing. A pension risk policy, which sits within the
+RBS Group policy framework, is also in place and is subject to
+Key developments in 2017 associated framework controls.
+A memorandum of understanding between Ulster Bank Ireland
+DAC and Ulster Bank Pension Trustees Limited was agreed. A Risk identification and measurement
+contribution of €200 million was paid to the pension scheme and Pension risk reports are submitted to the Executive Risk Forum
+the investment strategy amended to include more hedging and the Board Risk Committee four times a year in the Risk &
+assets. Conduct Management Quarterly Report. This includes an
+assessment of the overall deficit or surplus position, estimated
+Throughout 2017, various pension risk stress-testing initiatives capital requirements, and an assessment of the associated
+were undertaken, focused both on internally-defined scenarios assets and liabilities.
+and on scenarios to meet integrated Bank of England stress-
+testing requirements. For more information on stress testing,
+refer to the following page.
+51
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Conduct risk (unaudited)
+Definition
+•
+Changes were implemented to support compliance with the
+Conduct risk is the risk that the behaviour of the RBS Group and second Payment Services Directive in advance of its
+its staff towards customers, or in the markets in which it operates, introduction in early 2018.
+leads to unfair or inappropriate customer outcomes resulting in
+•
+The RBS Group updated its policies to reflect changes
+reputational damage, financial loss or both. The damage or loss required in relation to the 4th Money Laundering directive,
+may be the result of a failure to comply with (or adequately plan which came into force in H1 2017 to combat terrorist and
+for changes to) relevant official sector policy, laws, regulations, or criminal financing.
+major industry standards, or of failing to meet the expectations of
+•
+The Criminal Finances Act 2017 came into force in H2 2017,
+customers or regulators. introducing a new corporate offence of failure to prevent the
+facilitation of tax evasion. Policies and procedures in place
+Sources of conduct risk
+to prevent such activity were reviewed and enhanced.
+Conduct risk exists across all stages of the RBS Group’s
+relationships with its customers – from the development of its
+Conduct risk management function
+business strategies, to post-sales processes – and arises from a
+The management of conduct risk is based on seven key
+variety of activities. These include product design, marketing and
+elements, ensuring that conduct risk exposures are understood
+sales, complaint handling, staff training, and handling of
+and managed in accordance with agreed risk appetite.
+confidential insider information. Conduct risk also arises if the
+RBS Group does not take effective action to prevent fraud, Product profitability and RBS can clearly demonstrate
+RBS can clearly demonstrate pricing structures are fair that its products and services
+bribery and money laundering. As set out in Note 29 on the that its business model is and transparent are designed to meet
+consistent with its strategy
+consolidated accounts, the RBS Group and certain members of and serves its customers well customer needs, their level
+while balancing the Product of complexity is appropriate
+staff are party to legal proceedings and are subject to commercial needs Profitability for the target market and
+& Pricing they work in the way
+investigation and other regulatory action in the UK, the US and Business Model they are expected to
+other jurisdictions. RBS’s governance, & Strategy
+policies and RBS has no appetite
+Product RBS
+so
+’s
+ld
+c u
+p
+s
+ro
+to
+d
+m
+uc
+e
+t
+r
+s
+s
+a
+a
+n
+re
+d
+Key developments in 2017 Procedures for actions that result services appropriate
+Ensure that in inappropriate
+Parts of the Conduct & Regulatory Affairs function were merged good customer outcomes for its customers for their needs. Any
+w R i e th g u th la e t o R ry is A k f f f u a n ir c s t i m on o v w e it d h t e o f C fe o c r t p f o ro ra m te 1 G J o a v n e u r a n r a y n 2 c 0 e 1 & 7. Secretariat a o a a n u c b h d t id c i e o e c v o m s e n e d b d s . y u R a c a r t B l e l S Governance or r b e r q c e e u a n i c r s e h u m l r p e e e e g n n o a t a r s l l o f t l i y e n r a a re d n g i c n u i g a la l t t o ory C L u if s e t c o y m cl e e r in p f c r o o o r v m m id a m e ti u d r o e n n i l i s e c o v a s r a t u e a n it d d t a v a b in i n c le d e a ,
+while Remediation and Complaints moved to Services’ Chief relevant laws Delivery c l o e f a a r, f t f e a r i - r s w a a le y s .
+O sy p n e e r r a g t i i e n s g a O c f r f o ic s e s . t T h h e e r i c s h k a , n c g o e n d w u a c s t a d n e d s i r g e n g e u d la t t o o t r a y k a e g a e d n v d a a n s t . a ge of a c a o n re n d f m l r i e c a t g s n u a o la g f t e i i n o d t n e s r e a s n t d Fi C n r a i n m c e ial Co & m C R u p e l e t w u te a r n e rd cy, su e p x p p o c e r u c t s t m a to t e i m o e n e ts s r
+The RBS Group continued to remediate historical conduct issues,
+while also focusing its customer-facing businesses and support RBS has robust RBS colleagues are trained, managed
+systems and controls and rewarded to serve customers well
+functions around the needs of its customers including the delivery in place to prevent and deliver good outcomes. RBS’s
+financial crime people act with integrity and understand
+of a number of regulatory change programmes. Conduct and the impact of their decisions and
+behaviors on customer outcomes
+litigation costs were £1.1 billion in 2017 compared with £5.2
+billion in 2016 in continuing and discontinued operations.
+•
+The remediation of PPI continued, with the FCA confirming
+Risk governance
+The RBS Group defines appropriate standards of conduct and
+August 2019 as the deadline for PPI mis-selling claims.
+•
+The FCA is reviewing the business models of UK retail
+drives adherence to those standards through its framework for
+managing conduct risk. The RBS Group Board and its senior
+banks, building societies and credit unions, to understand
+committees receive updates on conduct risk exposures and
+how recent changes are affecting competition and conduct
+action plans through regular reporting.
+in the sector.
+•
+Following an enforcement notice from the Central Bank of
+Key elements of the governance structure are set out below:
+Ireland in respect of tracker mortgages, a significant •
+The Risk, Conduct & Restructuring Executive Committee
+remediation programme was established.
+•
+Work progressed to meet the requirements of the revised
+considers emerging material risks and issues, and
+implements Board and Executive Committee risk
+Markets in Financial Instruments Directive and Regulation
+management policy decisions.
+(MiFID II/MiFIR) in advance of their introduction in early •
+The Financial Crime Risk Executive Committee
+2018.
+•
+Work also progressed on the conduct-related aspects of the
+(accountable to the Executive Risk Forum) ensures that the
+customer-facing businesses and the Services function fulfil
+UK’s ring-fencing requirements.
+strategic objectives by identifying and managing their
+financial crime risks effectively.
+54
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Operational risk (unaudited) continued Risk controls
+Operational risk is responsible for the design, development, The Control Environment Certification (CEC) process is a half
+delivery and continuous improvement of the operational risk yearly self-assessment by the CEOs of RBS Group’s customer-
+management framework. The Operational Risk Policy is facing franchises and business units, as well as the heads of the
+incorporated into the RBS Group Policy Framework and provides RBS Group’s support and control functions. It gives an
+direction for the consistent identification, assessment, assessment on the adequacy and effectiveness of the internal
+management, monitoring and reporting of operational risk. control environment in a consistent and comparable manner,
+Through a network of oversight teams, the function seeks to highlighting areas where targeted effort is needed to meet the
+ensure the integrity of the framework, and manages overall standards required in order to create a safer and more secure
+operational risk profile against risk appetite. bank for customers. It covers material risks and the key controls
+that underpin them, including financial, operational and
+The Operational Risk Executive Committee (OREC), which is a
+compliance controls, as well as supporting risk management
+sub-committee of the Executive Risk Forum (ERF), acts on all
+frameworks.
+operational risk matters. OREC’s duties include reviewing
+operational risk exposure against risk appetite; identifying and The CEC outcomes, including forward-looking assessments for
+assessing both current and emerging material operational risks; the next two half-yearly cycles and the progress made to improve
+reviewing and monitoring the operational risk profile; and the control environment, are reported to the RBS Group Board,
+reviewing and approving material operational risk policy the Group Audit Committee and the Board Risk Committee. They
+management framework changes. are also shared with external auditors.
+The CEC process helps to ensure compliance with the RBS
+Risk appetite
+Group Policy Framework, Sarbanes-Oxley 404 requirements
+The operational risk appetite framework supports effective
+concerning internal control over financial reporting (as referenced
+management of key operational risks. It expresses the level and
+in the RBS Group 2017 Annual Report and Accounts Compliance
+types of operational risk the RBS Group is willing to accept in
+report on page 107), and certain requirements of the UK
+order to achieve its strategic objectives and business plans.
+Corporate Governance Code.
+The RBS Group’s operational risk appetite is expressed through
+Risk identification and measurement
+a set of qualitative risk appetite statements and quantitative
+Across all business areas, risk and control assessments are used
+measures which are defined at an aggregate, RBS Group-wide
+to identify and assess material operational and conduct risks and
+and individual business level. Appetite covers the RBS Group’s
+key controls. To support identification of risk concentrations, all
+most material operational risks, defined by a materiality
+risks and controls are mapped to the risk directory. Risk
+assessment, which in turn considers past, current and future risk
+assessments are refreshed at least annually to ensure they
+exposures. Appetite exposures for all material risks are regularly
+remain relevant and capture any emerging risks.
+reported to business risk committees, the OREC, ERF and Board
+Risk Committee. The process is designed to confirm that risks are effectively
+managed and prioritised in line with the stated risk appetite.
+The aggregation of operational risk appetite allows the RBS
+Controls are tested at the appropriate frequency to verify that
+Group to monitor and report on its material risk exposures
+they remain fit-for-purpose and operate effectively.
+against predetermined limits. This drives management
+intervention and action at defined points, such as the breach of During 2017, work continued to increase the coverage of the
+an early warning trigger. enhanced end-to-end risk and control assessment methodology.
+This approach, which strengthens understanding of the risk
+Above these sit an RBS Group-level operational risk appetite
+profile of key products and services, is used to identify and
+statement which encompasses the full range of operational risks.
+quantify the most material operational risks. Subject matter
+This drives the strategic risk measurement of stakeholder
+experts and key stakeholders are engaged from across the RBS
+confidence and is reviewed annually by the ERF. The statement
+Group to underpin management action in line with RBS Group’s
+is supported by three simple measures: (i) the relationship
+financial and non-financial appetite statement. The results of the
+between operational risk losses and RBS Group’s gross income;
+risk and control assessments support the RBS Group’s on-going
+(ii) metrics covering control environment performance; and (iii)
+journey to build on, and enhance, its control environment.
+the requirement for the material RBS Group-wide operational
+risks to be managed within risk appetite. Monitoring and reporting are part of the RBS Group’s operational
+risk management processes, which aim to ensure that risks are
+identified, considered by senior executives, and managed
+effectively. The most material operational risks and their position
+relevant to risk appetite are regularly reviewed at the OREC,
+along with any emerging risks and the actions taken to mitigate
+them. These are also reported to the Board Risk Committee and
+the ERF. Exposures specific to each business are communicated
+through regular risk and control reports discussed at business
+risk committees.
+57
+RBS plc Annual Report and Accounts 2017
+Financial review Capital and risk management
+Business risk (unaudited) continued Risk appetite
+Risk identification The RBS Group manages and articulates its appetite for
+Business risk is identified and managed at the product and reputational risk through the implementation of a qualitative
+transaction level. Estimated revenue, costs and capital are key reputational risk appetite statement and a committee-based
+considerations in the design of any new product or in any new governance framework. This has improved the identification,
+investment decision. assessment and management of customers, transactions,
+products and issues that present a material reputational risk,
+Business risk is reported, assessed and challenged at every
+resulting in a greater awareness and focus on the importance of
+governance level within the organisation. Each franchise
+this risk. Moreover, the RBS Group has seen a rise in the number
+monitors its financial performance relative to plans and reports
+of cases being referred to franchise and group-wide reputational
+this on a regular basis to the finance directors of each franchise.
+risk fora as a result of increased awareness of the framework as
+Risk mitigation well as training on reputational risk.
+The RBS Group operates a monthly rolling forecasting process to
+identify projected changes in, or risks to, key financial metrics, Risk mitigation
+and ensures appropriate actions are taken. Reputational risk is mitigated through the policy and governance
+framework, with ongoing staff training to ensure early
+identification, assessment and escalation of material issues.
+Reputational risk (unaudited)
+Lessons learned from committee meetings have also improved
+Definition
+the way cases and issues are debated and decisions made.
+Reputational risk is the risk to the RBS Group’s public image from
+a failure to meet stakeholders’ expectations in relation to The most material threats to the RBS Group’s reputation
+performance, conduct or business profile. Stakeholders include continued to originate from historical and more recent conduct
+customers, investors, employees, suppliers, government, issues. As a result, the RBS Group has been the subject of
+regulators, special interest and consumer groups, media and the investigations and reviews by a number of its regulators, some of
+general public. which have resulted in fines and public censure. Refer to the
+Litigation, investigations and reviews section of Note 29 on the
+Sources of risk
+consolidated accounts on page 155.
+Reputational risk can arise from the conduct of employees;
+activities of customers and the sectors and countries in which
+they operate; provision of products and transactions; as well as
+operations and infrastructure.
+Governance
+Reputational risk has RBS Group Board-level oversight
+reinforced by a Reputational Risk Policy. The Board Risk
+Committee and Sustainable Banking Committee are responsible
+for overseeing how RBS Group manages its reputation. The RBS
+Group Board’s oversight of reputational issues is supported by
+the senior RBS Group-wide Reputational Risk Forum (RRF)
+which opines on cases and issues that represent a material
+reputational risk to the whole organisation. The RRF, which has
+delegated authority from the Executive Risk Forum (ERF), also
+acts as a central forum to review sector or theme-specific
+reputational risk acceptance positions, including environmental,
+social and ethical risk positions, for example, in the Defence and
+Gambling sectors.
+59
+RBS plc Annual Report and Accounts 2017
+Report of the directors
+Financial performance Professionalising colleagues is important to the RBS Group. We
+A review of the Group's performance during the year ended 31 continue to work closely with the Chartered Banker Institute (CBI)
+December 2017 and the Group's financial position as at that date and Chartered Banker Professional Standards Board (CB:PSB)
+is contained in the Financial review on pages 8 to 12. to offer RBS Group colleagues professional qualifications. In
+2017 over 3,000 colleagues completed their CBI qualification and
+Employees
+96% completed the training element of the CB:PSB Foundation
+Our colleagues
+Standard.
+As at 31 December 2017, the Group employed 71,200 people
+(full-time equivalent basis, including temporary workers) in The RBS Group also offer a wide range of additional learning
+continuing and discontinuing operations throughout the world. opportunities.
+Details of related costs are included in Note 3 on the Youth Employment
+consolidated accounts. The Board of Directors has considered In 2017, we welcomed 471 people across the RBS Group
+ring-fencing preparations during the year and in advance of the Graduate and Apprenticeship schemes as well as around 150
+legislation taking effect on 1 January 2019. Summer Interns.
+Health and wellbeing of our colleagues
+Engaging our colleagues is critical to delivering on our strategy
+Wellbeing is a strong foundation for making the RBS Group a
+and ambition as a bank. Further details on our approach can be
+great place to work. For the third year running the RBS Group
+found on page 33 and 34 of the RBS Group strategic report.
+participated in the Global Challenge (formerly GCC) and with
+34,000 colleagues taking part we won the Global Challenge 1st
+Building a healthy culture
+Most Active Organisation Financial Industry. Building on this
+Building a healthy culture that embodies Our Values is one of
+success, we embraced the rapid acceleration of digital wellbeing
+RBS Group’s core priorities.
+and are one of the few large organisations to pilot a digital
+Our Values guide the way the RBS Group identify the right wellbeing platform.
+people to serve our customers well, and how the RBS Group
+During 2017 the RBS Group has continued to support Time to
+manage, engage and reward colleagues. They are at the heart of
+Change (removing the stigma of mental health) and actively
+both Our Standards (the bank wide behavioural framework) and
+encouraged open dialogue across the bank to support Mental
+Our Code (the bank wide Code of Conduct).
+Health in the Workplace.
+Engaging our colleagues The RBS Group were successful in running bankwide major
+The RBS Group know that building an engaged, healthy and online campaigns to support Mental Health Awareness Week and
+inclusive workforce is crucial to achieving our ambition. Every World Mental Health Day.
+year RBS Group asks colleagues to share their thoughts on what
+As the RBS Group continue to support our colleagues through
+it’s like to work here via our annual colleague survey.
+change we have fully utilised the services of our Employee
+Assistance Programme.
+The 2017 results were the most positive we’ve seen in recent
+times. Key measures of engagement, leadership and our culture Employee consultation
+have improved significantly, and the RBS Group are now above The RBS Group recognise employee representatives such as
+the global financial services norm in the majority of our survey trade unions and work councils in a number of businesses and
+categories. countries. There has been ongoing engagement and discussion
+with those bodies given the scale of change taking place across
+Rewarding our colleagues
+the RBS Group. Management have continued to meet regularly
+Our approach to performance management provides clarity for
+with our European Employee Council to discuss developments
+colleagues about how their contribution links to our ambition. It
+and update on the progress of our strategic plans.
+recognises behaviour that supports our values and holds
+individuals to account for behaviour and performance that does Inclusion
+not. Building a more inclusive RBS Group is essential for our
+customers and colleagues. Our inclusion policy standard applies
+The RBS Group have a focus on paying the right wage to
+to all our colleagues globally.
+colleagues and the RBS Group rates of pay continue to exceed
+the Living Wage Foundation Benchmarks. During 2017, we continued to roll out unconscious bias learning
+to all RBS Group colleagues (over 70,000 trained, to date) to
+Developing our colleagues
+create a solid platform for the wider inclusion agenda.
+The RBS Group continued to deliver ‘Determined to Lead’, which
+is the core management system for the bank. It provides The RBS Group continue to work towards our goal of having at
+consistent tools to lead and engage colleagues. This programme least 30% senior women in our top three leadership layers across
+has continued in 2017 with over 3,000 leaders participating. each Franchise and Function by 2020 and to be fully gender
+balanced (50/50) by 2030. We have a positive action approach in
+In 2017 we launched the next stage in Service Excellence
+place, tailored by business, according to the specific challenges
+training, our customer service programme and had over 16,000
+they face.
+colleagues complete Level one.
+62
+RBS plc Annual Report and Accounts 2017
+Report of the directors
+The RBS Group disability plan for training, career development The RBS Group’s auditors have audited the effectiveness of the
+and promotion of disabled persons employed by the company will RBS Group’s internal control over financial reporting and have
+support us becoming a disability smart organisation, with upper given an unqualified opinion.
+quartile performance, by 2018.
+Management's report on the RBS Group’s internal control over
+We continue to focus on building an ethnically diverse RBS
+financial reporting will be filed with the Securities and Exchange
+Group. We will introduce explicit targets for BAME representation
+Commission as part of the RBS Group’s 2017 Annual Report on
+at senior levels in 2018.
+Form 20-F.
+Our LGBTQ agenda continues to deliver a better experience for
+our LGBTQ colleagues and customers. The RBS Group have Board of directors
+processes in place to support updating gender and title on The Board is the main decision-making forum for the Bank. It has
+customers’ banking records and to support colleagues overall responsibility for management of the business and affairs
+undergoing gender transition. of the Group, the establishment of Group strategy and the
+allocation and raising of capital, and is accountable to
+The RBS Group have been recognised for our work on Equality,
+shareholders for financial and operational performance. The
+Diversity and Inclusion by retaining our Platinum ranking from
+Board considers strategic issues and ensures the Group
+Opportunity Now (gender), retaining our Gold ranking for Race
+manages risk effectively through approving and monitoring the
+for Opportunity (race); retaining a position in the Times Top 50
+Group’s risk appetite, considering Group stress scenarios and
+Employers for Women; becoming a Top Ten Global Employer in
+agreed mitigants and identifying longer term strategic threats to
+Stonewall’s Global Equality Index (LGBT), Silver Status from The
+the Group’s business operations. The Board’s terms of reference
+Business Disability Forum and being rated a Top 10 Employer by
+includes key aspects of the Bank’s affairs reserved for the
+Working Families. In 2017 we were proud to be named ‘Diverse
+Board’s decision and are reviewed at least annually.
+Company of the Year’ at the National Diversity Awards and
+winning Workplace Adjustments Innovation of the Year at the There are a number of areas where the Board has delegated
+Disability Smart Awards. specific responsibility to management, including the Chief
+Executive and the Chief Financial Officer. These include
+The RBS Group continue to support our c.20,000 strong
+responsibility for the operational management of the Group’s
+employee-led networks.
+businesses as well as reviewing high level strategic issues and
+Going concern considering risk appetite, risk policies and risk management
+The Group’s business activities and financial position, the factors strategies in advance of these being considered by the Board
+likely to affect its future development and performance and its and/or its Committees.
+objectives and policies in managing the financial risks to which it
+Specific delegated authorities are also in place in relation to
+is exposed and its capital are discussed in the Financial review.
+business commitments across the Group.
+The risk factors which could materially affect the Group’s future
+results are set out on pages 189 to 222. The Group’s regulatory The roles of Chairman and Chief Executive are distinct and
+capital resources and significant developments in 2017 and separate, with a clear division of responsibilities. The Chairman
+anticipated future developments are detailed on pages 30 to 32. leads the Board and ensures the effective engagement and
+The liquidity and funding section on pages 33 to 34 describes the contribution of all executive and non-executive directors.
+Group’s funding and liquidity profile, including changes in key The Chief Executive has responsibility for all Group businesses
+metrics and the build up of liquidity reserves. and acts in accordance with authority delegated by the Board.
+Having reviewed the Group’s forecasts, projections and other The non-executive directors combine broad business and
+relevant evidence, the directors have a reasonable expectation commercial experience with independent and objective
+that the Group and the company will continue in operational judgement and they provide independent challenge to the
+existence for the foreseeable future. Accordingly, the financial executive directors and the leadership team.
+statements of the Group and of the company have been prepared The Group Audit Committee comprises at least three independent
+on a going concern basis. non-executive directors and assists the Board in discharging its
+Corporate governance responsibilities for the disclosure of the financial affairs of the
+Internal control over financial reporting Group. It reviews the accounting policies, financial reporting and
+The internal controls over financial reporting for the Group are regulatory compliance practices of the Group, the Group’s
+consistent with those at the RBS Group level. The RBS Group is system and standards of internal controls, and monitors the
+required to comply with Section 404 of the US Sarbanes-Oxley Group’s processes for internal audit and external audit and
+Act of 2002 and assess the effectiveness of internal control over reviews the practices of the segmental Risk and Audit
+financial reporting as of 31 December 2017. Committees.
+The RBS Group has assessed the effectiveness of its internal The Board Risk Committee comprises at least three independent
+control over financial reporting as of 31 December 2017 based on non-executive directors. It provides oversight and advice to the
+the criteria set forth by the Committee of Sponsoring Board on current and potential future risk exposures of the Group
+Organizations of the Treadway Commission in the 2013 and risk strategy. It reviews the Group’s performance on risk
+publication of ‘Internal Control - Integrated Framework'. appetite and oversees the operation of the Group Policy
+Framework.
+Based on its assessment, management has concluded that, as of
+31 December 2017, the RBS Group’s internal control over
+financial reporting is effective.
+63
+RBS plc Annual Report and Accounts 2017
+Report of the directors
+The Group Performance and Remuneration Committee comprises at Directors’ interests
+least three independent non-executive directors and has The interests of the directors in the shares of the holding
+oversight of the Group’s policy on remuneration. It also considers company at 31 December 2017 are disclosed in the Report and
+senior executive remuneration and makes recommendations to Accounts of that company. None of the directors held an interest
+the Board on remuneration of executive directors. in the loan capital of the holding company or in the shares or loan
+capital of the Bank or any of the subsidiaries of the Bank, during
+The Group Nominations and Governance Committee comprises four
+the period from 1 January 2017 to 22 February 2018.
+non-executive directors, and is chaired by the Chairman of the
+Group. It is responsible for assisting the Board in the formal Directors' indemnities
+selection and appointment of directors. It reviews the structure, In terms of section 236 of the Companies Act 2006 (the
+size and composition of the Board, and membership and “Companies Act”), Qualifying Third Party Indemnity Provisions
+chairmanship of Board committees. The Committee also has have been issued by the holding company to its directors,
+responsibility for monitoring the Group’s governance members of the Group’s Executive Committee, individuals
+arrangements in order to ensure best corporate governance authorised by the PRA/FCA and certain directors and/or officers
+standards and practices are upheld. of the Group’s subsidiaries.
+The Technology and Innovation Committee comprises of independent In terms of section 236 of the Companies Act, Qualifying Pension
+non-executive directors. Recognising the strategic importance of Scheme Indemnity Provisions have been issued to all trustees of
+technology and innovation to the RBS Group’s business, the the Group’s pension schemes.
+Board established a new Board Committee in August 2017.The
+Technology and Innovation Committee is responsible for Post balance sheet events
+assisting the Board in overseeing and monitoring execution of our Other than the matter disclosed in Note 40 on the accounts, there
+strategic direction in relation to technology and innovation. Alison have been no significant events between the year end and the
+Davis chairs this new committee, supported by Frank Dangeard, date of approval of these accounts which would require a change
+and Yasmin Jetha as members. to or disclosure in the accounts.
+The Sustainable Banking Committee comprises of independent Political donations
+non-executive directors. It is responsible for overseeing and During 2017, no political donations were made in the UK or EU,
+challenging how management is addressing sustainability and nor any political expenditure incurred in the UK or EU.
+reputation issues relating to all stakeholder groups, except where
+Directors’ disclosure to auditors
+such issues have already been dealt with by other Board
+Each of the directors at the date of approval of this report
+committees.
+confirms that:
+The Executive Committee comprises the Group’s most senior
+(a) so far as the director is aware, there is no relevant audit
+executives and supports the Group Chief Executive in managing
+information of which the Bank’s auditors are unaware; and
+the Group’s businesses. It reviews strategic issues and initiatives,
+monitors financial performance and capital allocations, and (b) the director has taken all the steps that he/she ought to have
+considers risk strategy, policy and risk management. taken as a director to make himself/herself aware of any relevant
+audit information and to establish that the Bank’s auditors are
+Share capital
+aware of that information.
+Details of the ordinary and preference share capital at 31
+December 2017 are shown in Note 25 on the accounts. This confirmation is given and should be interpreted in
+Directors accordance with the provisions of section 418 of the Companies
+The names of the current directors are shown on page 2. Act.
+Howard Davies, Alison Davis, Frank Dangeard, Morten Friis, Auditors
+Robert Gillespie, Penny Hughes, Ross McEwan, Brendan EY LLP are the auditors. The auditors, EY LLP, have indicated
+Nelson, Baroness Noakes, Mike Rogers and Ewen Stevenson all their willingness to continue in office. A resolution to re-appoint
+served throughout the year and to the date of signing the EY LLP as the company’s auditors will be proposed at the
+financial statements. forthcoming Annual General Meeting.
+Sandy Crombie stepped down as director on 1 January 2018.
+John Hughes was appointed to the Board on 21 June.
+By order of the Board
+Unfortunately John subsequently resigned as a director on 1
+Aileen Taylor
+September 2017, due to health issues. Yasmin Jetha was
+appointed on 21 June 2017 and became a member of the
+Sustainable Banking Committee and Technology and Innovation
+Company Secretary
+Committee. Mark Seligman was appointed on 1 April 2017 and
+22 February 2018
+assumed the role of Senior Independent Director on 1 January
+2018. Dr Lena Wilson was appointed on 1 January 2018 and
+The Royal Bank of Scotland plc
+became a member of the Sustainable Banking Committee on the
+is registered in Scotland No. SC90312.
+31 January 2018.
+All directors of the company are required to stand for election or
+re-election annually by shareholders at the Annual General
+Meeting.
+64
+RBS plc Annual Report and Accounts 2017
+Statement of directors’ responsibilities
+This statement should be read in conjunction with the responsibilities of the auditor set out in their report on page 67.
+The directors are responsible for the preparation of the Annual Report and Accounts. The directors are required by Article 4 of the IAS
+Regulation (European Commission Regulation No 1606/2002) to prepare Group accounts, and as permitted by the Companies Act 2006
+have elected to prepare Bank accounts, for each financial year in accordance with International Financial Reporting Standards as
+adopted by the European Union. They are responsible for preparing accounts that present fairly the financial position, financial
+performance and cash flows of the Group and the Bank. In preparing those accounts, the directors are required to:
+•
+select suitable accounting policies and then apply them consistently;
+•
+make judgements and estimates that are reasonable and prudent; and
+•
+state whether applicable accounting standards have been followed, subject to any material departures disclosed and explained in
+the accounts.
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the financial
+position of the Group and to enable them to ensure that the Annual Report and Accounts complies with the Companies Act 2006. They
+are also responsible for safeguarding the assets of the Bank and the Group and hence for taking reasonable steps for the prevention
+and detection of fraud and other irregularities.
+The directors confirm that to the best of their knowledge:
+•
+the financial statements, prepared in accordance with International Financial Reporting Standards, give a true and fair view of the
+assets, liabilities, financial position and profit or loss of the Bank and the undertakings included in the consolidation taken as a
+whole; and
+•
+the Strategic Report and Directors’ report (incorporating the Financial review) includes a fair review of the development and
+performance of the business and the position of the Bank and the undertakings included in the consolidation taken as a whole,
+together with a description of the principal risks and uncertainties that they face.
+By order of the Board
+Howard Davies Ross McEwan Ewen Stevenson
+Chairman Chief Executive Chief Financial Officer
+22 February 2018
+Board of directors
+Chairman Executive directors Non-executive directors
+Howard Davies Ross McEwan Frank Dangeard
+Ewen Stevenson Alison Davis
+Morten Friis
+Robert Gillespie
+Penny Hughes
+Yasmin Jetha
+Brendan Nelson
+Sheila Noakes
+Mike Rogers
+Mark Seligman
+Dr Lena Wilson
+65
+RBS plc Annual Report and Accounts 2017
+Independent auditor’s report to the members of The Royal Bank of Scotland plc
+The table below illustrates the coverage obtained from the work performed by our audit teams; the coverage includes the full scope and
+specific scope components presented in disposal groups as noted above. As the Group made a loss during the year and several
+operations were moved to discontinued operations, we considered total assets, total equity and the absolute value of the amounts in the
+income statement (meaning the magnitude of the amounts without regard to their positive or negative value) to verify we had
+appropriate overall coverage on the income statement.
+Full scope(1) Specific scope(2) Other procedures(3) Total
+Total assets 90% 9% 1% 100%
+Total equity 51% 48% 1% 100%
+Absolute value of the income statement 84% 7% 9% 100%
+Involvement with component teams
+In establishing our overall approach to the Group audit, we determined the type of work that needed to be undertaken in each of the
+components by us, as the primary audit engagement team, or by component auditors in the United Kingdom or from other EY global
+network firms operating under our instruction. Of the four full scope components, audit procedures were performed on one of these
+directly by the primary audit engagement team. Of the two specific scope components, where work was performed by component
+auditors, we determined the appropriate level of involvement to enable us to determine that sufficient audit evidence had been obtained
+as a basis for our opinion on the Group as a whole.
+The primary audit engagement team interacted regularly with the component audit teams where appropriate throughout the course of
+the audit, which included holding planning meetings, maintaining regular communications on the status of the audits, reviewing key
+working papers and taking responsibility for the scope and direction of the audit process. The primary audit engagement team also
+participated in meetings with key management personnel in the components and, for certain overseas locations, implemented a
+programme of planned visits. These visits involved discussing the audit approach with the component team and any issues arising from
+their work, as well as meeting with local management. This, together with the additional procedures performed at Group level, gave us
+appropriate evidence for our opinion on the Group financial statements.
+Our application of materiality
+We apply the concept of materiality in planning and performing the audit, in evaluating the effect of identified misstatements on the audit
+and in forming our audit opinion.
+Materiality
+The magnitude of omission or misstatement that, individually or in the aggregate, could reasonably be expected to influence the
+economic decisions of the users of the financial statements. Materiality provides a basis for determining the nature and extent of our
+audit procedures.
+We determined materiality for the Group and Bank to be £220 million (2016 materiality: £210 million), which is 0.6% of the total equity of
+the Group and 0.6% of the Bank. We considered that equity represented a relevant measure used by investors, regulators and other
+stakeholders when assessing the performance of the Group and Bank. Our materiality was based on the equity of the Group given the
+significant losses and volatility of results in recent years. During the course of our audit, we reassessed initial materiality and increased
+it from our initial level of £210 million in light of the fact that many legacy items are now reflected in equity.
+Notes:
+(1) Full scope: audit procedures on all significant accounts.
+(2) Specific scope: audit procedures on selected accounts
+(3) Other procedures: considered in analytical procedures.
+78
+RBS plc Annual Report and Accounts 2017
+Independent auditor’s report to the members of The Royal Bank of Scotland plc
+Performance materiality
+The application of materiality at the individual account or balance level is set at an amount to reduce to an appropriately low level the
+probability that the aggregate of uncorrected and corrected misstatements exceed materiality.
+On the basis of our risk assessments, together with our assessment of the Group’s overall control environment, our judgement was that
+performance materiality was 50% of our planning materiality, namely £110 million (2016: £105 million). We have set performance
+materiality at this percentage (which is at the lowest end of the range of our audit methodology) based on various considerations
+including the past history of misstatements, our ability to assess the likelihood of misstatements, the effectiveness of the control
+environment and other factors affecting the entity and its financial reporting.
+Audit work of component teams for the purpose of obtaining audit coverage over significant financial statement accounts is undertaken
+based on a percentage of total performance materiality. The performance materiality set for each component team is based on the
+relative scale and risk of the component to the Group as a whole and our assessment of the risk of misstatement at that component. In
+the current year, the range of performance materiality allocated by the primary audit engagement team to components was between £45
+million and £85 million.
+Reporting threshold
+An amount below which identified misstatements are considered to be clearly trivial.
+We agreed with the Group Audit Committee that we would report to them all corrected and uncorrected audit misstatements in excess of
+£11 million, which is set at 5% of planning materiality, as well as misstatements below that threshold that, in our view, warranted
+reporting on qualitative grounds.
+We evaluate any uncorrected misstatements against both the quantitative and qualitative measures of materiality discussed above and
+in light of other relevant qualitative considerations in forming our opinion.
+Accounting developments effective 1 January 2018 – IFRS 9 Financial Instruments
+IFRS 9 replaces the current financial instruments standard IAS 39 effective 1 January 2018. It represents a fundamental change to the
+way financial instruments are classified, measured and assessed for credit impairment. The Group has established a Group-wide
+programme to implement the necessary changes as a result of this standard and disclosed the impact of transition on equity. Our audit
+work on this accounting change has been performed throughout 2017, for the purpose of the transition disclosure included in the 2017
+financial statements, and continues through 2018. Our procedures on the impact disclosed included:
+•
+Assessing the key interpretations made by management for compliance with IFRS 9
+•
+Classification and measurement:
+o Testing the intent of holding the instruments and their contractual characteristics in order to assess their classification
+•
+Credit impairment:
+o Testing the assumptions and judgements used in the impairment models to calculate expected credit losses, including
+the incorporation of economic forecasts
+o Testing the data used to run the models
+o Testing the IT applications used in the credit impairment process
+We also tested the design and operating effectiveness of key controls over the completeness and accuracy of the transition disclosure
+included in the financial statements.
+Other information
+The other information comprises the information included in the Annual Report and Accounts, including the Strategic Report (set out on
+pages 3 to 59), Report of the directors (set out on pages 60 to 64), Statement of directors’ responsibilities (set out on page 65, Additional
+information (set out on pages 187 to 222), Abbreviations and acronyms (set out on page 223), Glossary of terms (set out on pages 224
+to 230), Forward-looking statements (set out on page 231), and Principal offices (set out on page 232) other than the financial
+statements and our auditor’s report thereon. The directors are responsible for the other information.
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in this
+report, we do not express any form of assurance conclusion thereon.
+79
+RBS plc Annual Report and Accounts 2017
+Notes on the accounts
+Litigation, investigations and reviews continued
+Key points
+FCA Mortgages Market Study
+• a plan to strengthen board and senior management oversight of
+In December 2016, the FCA launched a market study into the
+the corporate governance, management, risk management, and
+provision of mortgages. The FCA is expected to publish an
+operations of the RBS Group’s US operations on an enterprise-
+interim report in Spring 2018 with the final report expected in Q4
+wide and business line basis;
+2018.
+• an enterprise-wide risk management programme for the RBS
+Group’s US operations;
+At this stage, as there is considerable uncertainty around the
+• a plan to oversee compliance by the RBS Group’s US operations
+outcome of this market study, it is not practicable reliably to
+with all applicable US laws, rules, regulations, and supervisory
+estimate the aggregate impact, if any, on the RBS Group which
+guidance;
+may be material.
+• a Bank Secrecy Act/anti-money laundering compliance
+programme for the US Branches on a consolidated basis;
+FCA Strategic Review of Retail Banking Models
+• a plan to improve the US Branches’ compliance with all applicable
+On 11 May 2017 the FCA announced a two phase strategic
+provisions of the Bank Secrecy Act and its rules and regulations
+review of retail banking models. The FCA will use the review to
+as well as the requirements of Regulation K of the Federal
+understand how these models operate, including how ‘free if in
+Reserve;
+credit’ banking is paid for and the impact of changes such as • a customer due diligence programme designed to ensure
+increased use of digital channels and reduced branch usage.
+reasonably the identification and timely, accurate, and complete
+reporting by the US Branches of all known or suspected violations
+Phase 1 will allow the FCA to enhance its understanding of
+of law or suspicious transactions to law enforcement and
+existing models and how these impact competition and conduct.
+supervisory authorities, as required by applicable suspicious
+Phase 2 will evaluate the impacts of economic, technological,
+activity reporting laws and regulations; and
+social and regulatory factors on these models. A project update is • a plan designed to enhance the US Branches’ compliance with
+expected in Q2 2018 outlining the FCA’s preliminary conclusions
+Office of Foreign Assets Control (OFAC) requirements.
+from Phase 1.
+The Governance Order identified specific items to be addressed,
+At this early stage, as there is considerable uncertainty around
+considered, and included in each proposed plan or programme.
+the outcome of this review, it is not practicable reliably to
+The RBS Group also agreed in the Governance Order to adopt
+estimate the aggregate impact, if any, on the RBS Group, which
+and implement the plans and programmes after approval by the
+in due course may be material.
+regulators, to comply fully with the plans and programmes
+thereafter, and to submit to the regulators periodic written
+Governance and risk management consent order
+progress reports regarding compliance with the Governance
+In July 2011, the RBS Group agreed with the Board of Governors
+Order.
+of the Federal Reserve System, the New York State Banking
+Department, the Connecticut Department of Banking, and the
+The RBS Group has created, submitted, and adopted plans
+Illinois Department of Financial and Professional Regulation to
+and/or programmes to address each of the areas identified
+enter into a consent Cease and Desist Order (Governance Order)
+above. In connection with the RBS Group’s efforts to implement
+(which is publicly available) to address deficiencies related to
+these plans and programmes, it has, among other things, made
+governance, risk management and compliance systems and
+investments in technology, hired and trained additional
+controls in the US branches of RBS plc and RBS N.V. branches
+personnel, and revised compliance, risk management, and other
+(the US Branches).
+policies and procedures for the RBS Group’s US operations. The
+RBS Group continues to test the effectiveness of the remediation
+In the Governance Order, the RBS Group agreed to create the
+efforts it has undertaken to ensure they are sustainable and meet
+following written plans or programmes:
+regulators' expectations. Furthermore, the RBS Group continues
+to work closely with the regulators in its efforts to fulfil its
+obligations under the Governance Order, which will remain in
+effect until terminated by the regulators.
+The RBS Group may be subject to formal and informal
+supervisory actions and may be required by its US banking
+supervisors to take further actions and implement additional
+remedial measures with respect to these and additional matters.
+The RBS Group’s activities in the US may be subject to
+significant limitations and/or conditions.
+165
+RBS plc Annual Report and Accounts 2017
+Additional information
+Risk factors continued
+• As part of the establishment of the RFB, the RFB will need • Once the UK ring-fencing regime is implemented, reliance
+to operate independently from other RBS Group entities on intragroup exemptions in relation to the limits of risk-
+outside the RFB, including the Bank, and as a result, weighted assets and large exposures will not be possible
+amendments will need to be made to the RBS Group’s between the RFB and other RBS Group entities outside the
+existing corporate governance structure to ensure the RFB RFB (including the Bank) and may result in risk-weighted
+is independent of the Bank. This new structure, which will assets inflation for the Bank and/or the RBS Group.
+also require the approval of the PRA, may result in • From 2026 it will not be possible for the Group or other
+divergences between the various governance bodies within entities outside the RFB to participate in the same defined
+the RBS Group and create operational challenges. In benefit pension scheme as RFB entities or their wholly-
+particular, capital and funding requirements of the Bank and owned subsidiaries. As a result, it will be necessary to
+other RBS Group entities outside the RFB will increasingly restructure the RBS Group’s defined benefit pension
+be managed at the level of the Group as a result of these scheme (including The Royal Bank of Scotland Group
+increasingly independent governance structures and this Pension Fund ( ‘Main scheme’) in which the Group currently
+may have an impact on the availability and cost of funding participates). This restructuring will be such that either the
+for the Group. Group or the RFB entities leave the current scheme. The
+• The implementation of the UK ring-fencing regime will costs of separation may be material and may trigger certain
+significantly impact the management of the RBS Group’s legal and regulatory obligations including possibly increased
+treasury operations, including internal and external funding contributions. Such restructuring may also result in
+arrangements. The changes required may adversely impact additional or increased cash contributions in the event the
+the assessment made by credit rating agencies, creditors pension trustees determine that the employer covenant has
+and other stakeholders of the credit strength of the Bank on been weakened as a result of such separation. See ‘The
+a standalone basis and may heighten the cost of capital and Group is subject to pension risks and may be required to
+funding for the Bank and its subsidiaries. The ability of the make additional contributions to cover pension funding
+Bank to meet funding and capital prudential requirements deficits as a result of degraded economic conditions, any
+may be dependent on obtaining adequate credit ratings. devaluation in the asset portfolio held by the pension
+There can be no guarantee that such a credit rating will be trustee, or as a result of the restructuring of its pension
+obtained by the Bank. The Group currently receives capital schemes in relation to the implementation of the UK ring-
+and funding support from RBS Group entities, including fencing regime.’
+those which will ultimately be transferred to the RFB and • The restructuring and planned transfers may also result in
+which may no longer, or only to a limited extent, provide accounting consequences for the Bank. Although a number
+capital and funding support to the Group once a ring-fence of transfers will be made at book value between fully owned
+compliant structure is established. Restrictions or changes RBS Group entities, certain transfers will be made at fair
+imposed on the ability of the RBS Group to provide intra- value which may result in a profit or loss being recognised
+group funding, capital or other support directly or indirectly by the Bank. In addition, transfers of assets that have
+to the Bank or its subsidiaries, may result in funding or related hedging arrangements may result in adverse
+capital pressures and liquidity stress for the Bank or its operational, financial or accounting consequences if the
+subsidiaries. transfer is not consistent with the unaffected continuation of
+• The Group currently receives certain services from, and such hedging arrangements.
+provides other services to, entities within the RBS Group • In addition, the proposed transfers may have tax costs, or
+and has access to the infrastructure of the RBS Group may impact the tax attributes of the Bank and the ability to
+which the Group currently requires in order to operate its transfer tax losses.
+business. In order to comply with the requirements of the UK
+ring-fencing regime, the RBS Group will need to revise its The steps required to implement the UK ring-fencing regime
+operations infrastructure so as to comply with the shared within the RBS Group (including with respect to the Group) to
+services, independence and resolvability requirements set comply with the relevant rules and regulations are complex and
+out in the UK ring-fencing legislation and rules, including in require an extended period of time to plan, execute and
+areas such as information technology (IT) infrastructure, implement and entail significant costs and operational, legal and
+human resources and critical service providers which may execution risks, which risks may be exacerbated by the RBS
+involve associated execution risk and may result in Group’s other ongoing restructuring efforts (many of which impact
+increased costs. Arrangements between the RFB and other or will impact the Group). External or internal factors including
+RBS Group entities outside the RFB, including the Bank and new and developing legal requirements relating to the regulatory
+its subsidiaries, will also need to be reviewed in light of framework for the banking industry and the evolving regulatory
+these requirements and the requirement that all such and economic landscape resulting from Brexit, as well as further
+transactions take place on an arm’s-length basis, which may political developments or changes to the RBS Group’s current
+result in increased operational costs for the Group if it strategy, may require the RBS Group to further restructure its
+duplicates certain infrastructure that, following operations (including certain Group operations in the UK and
+implementation are run from inside the RFB or rely on third Western Europe) and may in turn require further changes to be
+party providers for the provision of such services or made to the RBS Group’s ring-fencing plans (including the
+infrastructure. planned structure of the RBS Group post implementation).
+195
+RBS plc Annual Report and Accounts 2017
+Additional information
+Risk factors continued
+In addition, recent and future disposals and restructurings by the
+These trends may be catalysed by various regulatory and
+Group relating to the implementation of non-customer facing
+competition policy interventions, particularly as a result of the
+elements of the transformation programme and the UK ring-
+Open Banking initiative and other remedies imposed by the
+fencing regime, or required by the Group’s regulators, as well as
+Competition and Markets Authority (CMA) which are designed to
+constraints imposed on the Group’s ability to compensate its
+further promote competition within retail banking.
+employees at the same level as its competitors, may also have
+an impact on its ability to compete effectively. Intensified
+Increasingly many of the products and services offered by the
+competition from incumbents, challengers and new entrants in
+Group are, and will become, technology intensive and the
+the Group’s core markets could lead to greater pressure on the
+Group’s ability to develop such services has become increasingly
+Group to maintain returns and may lead to unsustainable growth
+important to retaining and growing the Group’s customer
+decisions. These and other changes in the Group’s competitive
+business in the UK.
+environment could have a material adverse effect on the Group’s
+business, margins, profitability, financial condition and prospects.
+There can be no certainty that the Group’s investment in its IT
+capability intended to address the material increase in customer
+The Group is reliant on the RBS Group for capital, liquidity
+use of online and mobile technology for banking will be
+and funding support and expects to continue to be reliant, at
+successful or that it will allow the Group to continue to grow such
+least during its transition to becoming a standalone sub-
+services in the future. Certain of the Group’s current or future
+group to comply with the UK ring-fencing requirements.
+competitors may have more efficient operations, including better
+The Group currently receives capital, liquidity and funding
+IT systems allowing them to implement innovative technologies
+support from the RBS Group, including from RBS Group entities
+for delivering services to their customers.
+which will ultimately be situated inside of the RFB.
+Furthermore, the Group’s competitors may be better able to
+Although the Group is transitioning to becoming a standalone
+attract and retain customers and key employees and may have
+sub-group of the RBS Group that will be independent of the RFB
+access to lower cost funding and/or be able to attract deposits on
+to operate in compliance with the UK ring-fencing regime by 1
+more favourable terms than the Group. Although the Group
+January 2019, the Group is expected to continue to rely on the
+invests in new technologies and participates in industry and
+RBS Group for capital, liquidity and funding support, at least
+research led initiatives aimed at developing new technologies,
+during the transition period and such reliance may be necessary
+such investments may be insufficient, especially given the RBS
+for a longer period.
+Group’s focus on its cost savings targets, which may limit
+additional investment in areas such as financial innovation and
+The Group will likely be required to hold securities that are
+therefore could affect the Group’s offering of innovative products
+compliant with the minimum requirements for own funds and
+and its competitive position.
+eligible liabilities (‘MREL’) on an internal basis and in compliance
+with the capital requirements for a ‘material subsidiary’ as set
+The Group may also fail to identify future opportunities or derive
+forth by the Bank of England. RBSG is the only entity that is able
+benefits from disruptive technologies in the context of rapid
+to issue MREL securities externally. As a result, the Group’s
+technological innovation, changing customer behaviour and
+ability to meet its internal MREL is substantially reliant on
+growing regulatory demands, including the UK initiative on Open
+RBSG’s ability to issue sufficient amounts of external MREL
+Banking (PSD2), resulting in increased competition from both
+securities and downstream the proceeds to the Group. If RBSG
+traditional banking businesses as well as new providers of
+is unable to issue adequate levels of MREL securities such that it
+financial services, including technology companies with strong
+is unable to downstream sufficient amounts to the Group, this
+brand recognition, that may be able to develop financial services
+could lead to a failure of the Group to meet its own individual
+at a lower cost base. If the Group is unable to offer competitive,
+internal MREL requirements as well as the internal MREL
+attractive and innovative products that are also profitable, it will
+requirements of subsidiaries within the Group. See ‘Failure by
+lose market share, incur losses on some or all of its activities and
+the RBS Group or the Group to comply with regulatory capital,
+lose opportunities for growth.
+funding, liquidity and leverage requirements may result in
+intervention by their regulators and loss of investor confidence,
+For example, companies in the financial services industry are
+and may have a material adverse effect on the Group’s results of
+increasingly using artificial intelligence and/or automated
+operations, financial condition and reputation and may result in
+processes to enhance their output and performance. As part of
+distribution restrictions and adversely impact existing
+this broader trend, the RBS Group is in the early stages of
+shareholders.’ and ‘As a result of extensive reforms being
+automating certain of its solutions and interactions within its
+implemented relating to the resolution of financial institutions
+customer-facing businesses. Such developments may result in
+within the UK, the EU and globally, material additional
+unintended consequences or conduct risk for the RBS Group and
+requirements will arise to ensure that financial institutions
+the Group if such new processes, including the algorithms used,
+maintain sufficient loss-absorbing capacity. Such changes to the
+are not carefully tested and integrated into the RBS Group’s and
+funding and regulatory capital framework may require the RBS
+the Group’s current solutions. In addition to such reputational
+Group to meet higher capital levels than anticipated within the
+risks, the development of automated solutions will require
+RBS Group’s strategic plans and affect the RBS Group’s and the
+investment in technology and will likely result in increased costs
+Group’s funding costs.’
+for the RBS Group and the Group.
+201
+RBS plc Annual Report and Accounts 2017
+Additional information
+Risk factors continued A failure by any of these three lines to carry out their
+The Group may be adversely impacted if its or the RBS responsibilities or to effectively embed this culture could have a
+Group’s risk management is not effective and there may be material adverse effect on the RBS Group and/or the Group
+significant challenges in maintaining the effectiveness of the through an inability to achieve their strategic objectives for their
+Group’s risk management framework as a result of the customers, employees and wider stakeholders.
+number of strategic and restructuring initiatives being
+carried out by the RBS Group simultaneously. As a result of the commercial and regulatory environment in
+The management of risk is an integral part of all of the Group’s which it operates, the Group may be unable to attract or
+activities. Risk management includes the definition and retain senior management (including members of the board)
+monitoring of the RBS Group’s risk appetite and reporting of the and other skilled personnel of the appropriate qualification
+RBS Group’s and the Group’s exposure to uncertainty and the and competence. The Group may also suffer if it does not
+consequent adverse effect on profitability or financial condition maintain good employee relations.
+arising from different sources of uncertainty and risks as The Group’s current and future success depend on its ability to
+described throughout these risk factors. attract, retain and remunerate highly skilled and qualified
+personnel, including senior management (which includes
+Ineffective risk management may arise from a wide variety of directors and other key employees), in a highly competitive
+events and behaviours, including lack of transparency or labour market. This cannot be guaranteed, particularly in light of
+incomplete risk reporting, unidentified conflicts or misaligned heightened regulatory oversight of banks and the increasing
+incentives, lack of accountability control and governance, lack of scrutiny of, and (in some cases) restrictions placed upon,
+consistency in risk monitoring and management or insufficient employee compensation arrangements, in particular those of
+challenges or assurance processes. banks in receipt of Government support (such as the RBS
+Group), which may place the Group at a competitive
+Failure to manage risks effectively could adversely impact the disadvantage. In addition, the market for skilled personnel is
+RBS Group’s and/or the Group’s reputation or their relationship increasingly competitive, thereby raising the cost of hiring,
+with their customers, shareholders or other stakeholders, which training and retaining skilled personnel.
+in turn could have a significant effect on the Group’s business
+prospects, financial condition and results of operations. Certain of the Group’s directors as well as members of its
+executive committee and certain other senior managers and
+Risk management is also strongly related to the use and employees are also subject to the new responsibility regime
+effectiveness of internal stress tests and models. See ‘The RBS introduced under the Banking Reform Act 2013 which introduces
+Group and the Group rely on valuation, capital and stress test clearer accountability rules for those within the new regime. The
+models to conduct their business, assess their risk exposure and senior managers’ regime and certification regime took effect on 7
+anticipate capital and funding requirements. Failure of these March 2016, whilst the conduct rules were applied to the wider
+models to provide accurate results or accurately reflect changes employee population from 7 March 2017, with the exception of
+in the micro-and macroeconomic environment in which the Group some transitional provisions. The new regulatory regime may
+operates or findings of deficiencies by the Group’s regulators contribute to reduce the pool of candidates for key management
+resulting in increased regulatory capital requirements could have and non-executive roles, including non-executive directors with
+a material adverse effect on the Group’s business, capital and the right skills, knowledge and experience, or increase the
+results.’ number of departures of existing employees, given concerns over
+the allocation of responsibilities introduced by the new rules.
+A failure by the Group to embed a strong risk culture across In addition, in order to ensure the independence of the RFB as
+the organisation could adversely affect the ability of the RBS part of the implementation of the UK ring-fencing regime, the
+Group and the Group to achieve their strategic objectives. RBS Group will be required to recruit new independent directors
+In response to weaknesses identified in previous years, the RBS and senior members of management to sit on the boards of
+Group is currently seeking to embed a strong risk culture within directors and board committees of the RFB and other RBS Group
+the RBS Group (including the Group) based on a robust risk entities, and there may be a limited pool of competent candidates
+appetite and governance framework. from which such appointments can be made.
+The RBS Group’s evolving strategy has led to the departure of a
+A key component of this approach is the three lines of defence large number of experienced and capable employees, including
+model designed to identify, manage and mitigate risk across all Group employees. The restructuring relating to the ongoing
+levels of the organisation. This framework has been implemented implementation of the transformation programme and related
+and improvements continue and will continue to be made to cost-reduction targets may cause experienced staff members to
+clarify and improve the three lines of defence and internal risk leave and prospective staff members not to join the RBS Group,
+responsibilities and resources, including in response to feedback including the Group. The lack of continuity of senior management
+from regulators. Notwithstanding the RBS Group’s efforts, and the loss of important personnel coordinating certain or
+changing an organisation’s risk culture requires significant time, several aspects of the RBS Group’s restructuring (including those
+investment and leadership, and such efforts may not insulate the which impact the Group) could have an adverse impact on the
+RBS Group or the Group from future instances of misconduct. Group’s business and future success.
+217
+RBS plc Annual Report and Accounts 2017

@@ -1,0 +1,1895 @@
+Top and emerging risks
+The Group employs a continuous process for identifying and managing its principal and emerging risks. These are defined as scenarios that
+could have a significant negative impact on the Group’s ability to operate or meet its strategic objectives
+Type Risk Mitigation
+3
+NatWest Plc Annual Report and Accounts 2018
+ecneiliser
+TI
+dna
+lanoitarepO
+RBS’s information technology systems are critical to the services it A major security programme has delivered control
+provides, with any outages experienced in the banking sector enhancements to mitigate the risk of cyber attack. The
+widely publicised. Cyber attacks continue to evolve in frequency, Group continues to invest in its defences.
+sophistication and severity. There is a risk that a cyber attack
+A major investment programme within the RBS Group has
+damages the Group’s ability to do business and/or compromises
+improved systems resilience. As the Group continues to
+data security.
+simplify and modernise infrastructure and applications,
+The Group’s information technology systems are complex, making system sustainability has improved.
+recovery from failure challenging.
+The Group monitors people risk closely and has plans in
+There is a risk that the Group lacks sufficient capability or capacity place to support retention of key roles, with wider
+to deliver, or adapt to, change. programmes supporting engagement and training.
+There is a risk that achieving cost reductions will lead to The Group continues to implement change in line with its
+heightened operational risk, particularly against a backdrop of project plans while assessing the implementation risks and
+political and economic uncertainty. mitigating where possible.
+There is a risk that the actions of a third-party supplier could The Group continues to maintain a strong focus on its
+negatively affect the Group’s reputation or profitability. control environment at all stages of the customer journey,
+including its approach to data management. Relationships
+A breach in data privacy, either within the Group or in a third-party
+with third-party suppliers are subject to a number of controls
+organisation, may lead to negative impacts. There is a risk that the
+and guidelines outlined in the appropriate policy within the
+Group’s data strategy is not adequate for the evolving landscape.
+RBS Group Policy Framework.
+ksir
+lacitilop
+dna
+cimonocE
+The Group remains vulnerable to changes and uncertainty in the The Group uses a number of complementary approaches to
+economic and political environment. Scenarios that could have a inform strategic planning and risk mitigation relating to a
+potentially material negative effect on the Group include the impact range of economic and political risks. These include robust
+of the UK’s exit from the European Union; a UK recession risk assessment and dynamic portfolio management in
+(including significant falls in house prices); a protracted period of accordance with the risk appetite framework, the setting of
+low interest rates and growth in the UK; vulnerabilities in emerging prudent lending criteria and, for specific market risks,
+market economies resulting in contagion in the Group’s core structural hedging. Stress testing and scenario planning is
+markets; a Eurozone crisis or major geopolitical instability. also used extensively across the Group.
+Accelerating climate change may lead to faster-than-anticipated The Group is working to embed climate risk into the risk
+climate-related impacts on the Group and the wider economy. framework, and adapting its operation and business strategy
+to mitigate the risks of both climate change and the
+transition to a low-carbon economy.
+ecneiliser
+laicnaniF
+The Group’s ongoing compliance with the UK’s ring-fencing regime The Group’s planning and strategy takes into account the
+may entail significant costs, and may also impose significant risks related to ring-fencing implementation, particularly as
+operational, legal and execution risk in the Group’s day-to-day they relate to the funding plan.
+activities.
+The Group continues to innovate – including the
+The Group’s target markets are highly competitive, which poses development of a number of digital initiatives designed to
+challenges in terms of achieving some strategic objectives. meet evolving customer needs – and monitor the
+Moreover, changes in technology, customer behaviour and competitive environment as well as associated regulatory,
+business models in these markets have accelerated. technological and strategic developments in order to make
+adjustments as appropriate.
+There is a risk that, as new technologies develop, the Group’s
+business model is disrupted or that its customer focus fails to keep
+pace with evolving customer needs.
+The changing demographic in core markets, as the average age of
+the population rises, may affect profitability.
+ksir
+tcudnoc
+dna
+yrotaluger
+lageL
+The Group expects government and regulatory intervention in the The Group considers and incorporates the implications of
+financial services industry to remain high for the foreseeable future, proposed or potential regulatory activities in its strategic and
+and also subject to increasing regulation in new areas such as financial plans.
+financial risks relating to climate change and artificial intelligence.
+The Group has invested significant resources to meet the
+The Group is subject to the requirements of the UK ring-fencing terms of the Alternative Remedies Package and manage the
+regime and is required to ensure operational continuity in associated risks.
+resolution. The steps required to ensure such compliance entail
+An enhanced compliance and conduct risk framework has
+significant costs, and also impose significant operational, legal and
+been developed, setting minimum standards for the
+execution risk that could continue to affect its business model.
+management of conduct risks across the RBS Group.
+Implementation of the Alternative Remedies Package (regarding
+Building a healthy culture is a core priority. RBS continues
+the business previously described as Williams & Glyn) brings a
+to focus on creating a solid platform for behavioural and
+range of risks for the Group including significant costs, loss of
+cultural change.
+customers/deposits and associated execution risks.
+In addition, RBS continues to strengthen its control
+The impacts of past business conduct resulting in future litigation
+environment and the journey of improvement remains an
+and conduct charges could be substantial. The Group is involved in
+ongoing area of focus.
+a number of investigations, including: investigations into the
+treatment of small and medium-sized business customers in A programme to determine the scale and scope of the
+financial difficulty; anti-money laundering; and mis-selling impacts relating to the transition to alternative risk-free rates
+(including mis-selling of payment protection insurance products). is underway. Activity to manage the transition will take place
+Settlements may result in additional financial penalties, non- within the Group’s control framework and in line with
+monetary penalties or other consequences, which may be material. expected standards of conduct.
+The transition from LIBOR and other IBOR rates to alternative risk-
+free rates may lead to heightened legal, business and conduct
+risks.
+Capital and risk management
+Page Risk appetite, which is supported by a robust set of principles,
+policies and practices, defines our levels of tolerance for a variety
+Risk management framework
+of risks.
+Introduction 9
+Risk culture 10
+It is a key element of the RBS Group’s risk management framework
+Risk governance 11 and culture, providing a structured approach to risk-taking within
+Risk appetite 12 agreed boundaries.
+Risk controls and limits 13
+Risk identification and measurement 13 Effective governance, underpinned by the three lines of defence
+model, is essential to ensure the right decisions are being made by
+Risk treatment and migration 13
+the right people at the right time. Governance includes regular and
+Risk assurance 13
+transparent risk reporting as well as discussion and decision-
+Model risk 13
+making at senior management committees, which informs
+Stress testing 14 management strategies across the organisation.
+Capital, liquidity and funding risk
+Definition and sources 17 The RBS Group aims to have the right tools in place to support
+Key developments and liquidity portfolio 17 effective risk management. Having the appropriate capability,
+Capital, Liquidity and funding risk management 18 people and infrastructure is central. This is supported by a strong
+Minimum requirements 19 emphasis on systems, training and development to ensure threats
+are anticipated and managed appropriately within the boundaries
+Measurements 20
+determined by the agreed risk appetite.
+Credit risk
+Definition and sources 25 Measurement, evaluation and transparency are also fundamental
+Risk governance and appetite 25 elements of the framework, providing robust analysis of the
+Risk controls, measurement and models 25 materiality and likelihood of specific threats as well as supporting
+understanding and communication of the financial and non-financial
+Risk mitigation 25
+risks to which the RBS Group is exposed.
+Risk assessment and monitoring 26
+Banking activities 34
+The RBS Group has a strong focus on defining the control
+Key IFRS 9 terms and differences 49 environment to ensure the effective operation of policies and
+Non-traded market risk 50 processes embedded in the customer-facing businesses, thus
+Pension risk 54 facilitating the management of the risks they take in the course of
+Compliance & conduct risk 54 their day-to-day activities.
+Financial crime 55
+Operational risk 55
+RBS Group is able to RBS Group’s strategy is
+Business risk 57 pre a p b a s r o e r d b t s o h o m c a k n s a a g n e d n i e s w, info a rm n e u d n d a e n r d s t s a h n a d p in e g d by
+Reputational risk 57 emerging a ri n s d k s u nforeseen of the risksit faces
+Presentation of information RBS Group Stress & id R e B n S ti f G ie r s o t u h p e
+Where indicated in the section headers, information in the Capital and h c o o w nt i r n is u k a l i l s y m im a p n r a o g v e e d s , s a c n e a n ly a s r i i s o B s u tr s a i t n e e g s y s a ri s r k e s s u th lt a o t f a r r u is n e n i a n s g
+risk management section (pages 9 to 57) is within the scope of the w b h y e t r a e k i n n e g c a e c s t s io a n ry a i n ts d b d u e s li i v n e e r s in s g
+Independent auditor’s report. Where a main section header, presented Response Risk its strategy
+identification
+in bold, is marked as audited all sub sections are also audited. Unless
+otherwise indicated, disclosures in this section include disposal groups
+Risk
+in relevant exposures and measures. Disposal groups comprise R th B e S a G pp ro ro u p p r i h a a te s de C fi o n n it t io ro n l & culture Risk
+NatWest Holdings Group Corp in 2018 and Ulster Bank (Ireland) policies and controls effectiveness appetite Defining the level
+embedded in the of risk which RBS
+Holdings in 2017. Capital and risk management are generally business to Group is willing to
+manage the accept
+conducted on an overall basis within RBS Group such that common risks it takes
+policies, procedures, frameworks and models apply across the RBS M e e v a a s lu u a re ti m on e n & t, Governance
+transparency
+G as r p o e u c p t . s T r h e e fl r e e c f t o s r e th , o fo s r e t i h n e t h m e o R st B p S a r G t, r d o i u s p c u a s s s r io e n le o va n n t t h f e o s r e t h q e u a b l u it s a i t n iv e e s ses u R n B d S er G st r a o n u d p s In C f p r a a e p s o a t p r b u le i c l i t t & u y , r e Grou E p ns is u r c i o n n g f i R de B n S t the
+and communicates right decisions are
+and operations in the Group. the financial and being taken, by the
+non-financial risks right people, at
+it is taking RBS Group has the tools the right time
+and capability to support
+Risk management framework
+dec
+ri
+i
+s
+s
+k
+io
+m
+n-
+a
+m
+n
+a
+a
+k
+g
+in
+e
+g
+m
+a
+e
+c
+n
+r
+t
+o
+a
+s
+n
+s
+d
+t he
+Introduction organisation
+The RBS Group operates an integrated risk management framework,
+centred around the embedding of a strong risk culture, which is
+The RBS Group also has a strong focus on continually improving the
+designed to achieve compliance with prudential and conduct
+way risk is managed, particularly in terms of how threats are
+obligations. Each element of the risk management framework
+anticipated or responded to, but also in terms of simplifying or
+functions both individually and as part of a larger continuum. The
+enhancing existing controls, policies and practice.
+framework ensures the tools and capability are in place to facilitate risk
+management and decision-making across the organisation.
+Essential to this is the ability to scan both the medium- and long-term
+horizon for risks. Stress testing is used to quantify, evaluate and
+The RBS Group’s strategy is informed and shaped by an
+understand the potential impact that changes to risks may have on the
+understanding of the risk landscape, including a range of significant
+financial strength of the RBS Group, including its capital position. In
+risks and uncertainties in the external economic, political and
+turn, the results of stress tests can be used to inform and shape
+regulatory environment. Identifying these risks and understanding how
+strategy.
+they affect the RBS Group informs risk appetite and risk management
+practice.
+9
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Risk management framework continued
+Risk governance
+Committee structure
+The diagram illustrates the Group’s risk committee structure in 2018 and the main purposes of each committee.
+National Westminster Bank Plc Board
+National Westminster Bank Plc
+Reviews and approves the risk Executive Committee
+appetite framework and risk appetite
+targets for the Group’s strategic risk Manages and oversees all aspects
+objectives. ofthe Group’s business and
+operations.
+National Westminster Bank Plc National Westminster Bank Plc National Westminster Bank Plc
+Board Risk Committee Executive RiskCommittee Asset & Liability Management
+Committee
+Provides oversight and advice on: Acts on all material and/or
+current and potential future risk enterprise-wide risk and control Oversees the effective
+exposures, and future risk strategy, mattersacross the Group. management of the current and
+including determination of risk appetite
+future balance sheet in line with
+and tolerance; and the effectiveness
+Board-approved strategy and
+of the risk management framework.
+risk appetite.
+Capital Management & Technical Asset & Liability
+ERC sub committees Provisions Committee Stress Testing Committee Management Committee
+Responsible for the establishment of risk Reviews and approves large Reviews and challenges the l R im e i s ts p , o p n o s l i i b c l i e e s fo a r n s d e t c ti o n n g t r t o h l e s
+policies –as well as oversight of compliance creditimpairment charges or end-to-end capital relating to financial balance
+–for each relevant risk type. In addition, they releases. management process. It is sheet risks, including funding
+are responsible for the approval of certain risk the focal point for prudential and liquidity,intra-group
+measuresand recommendation of other regulatory requests regarding exposures, non-traded
+measures to Group Board for approval. IFRS 9 Metrics Oversight Committee as a s n e d t s q t u re a s li s ty t e re s v ti i n e g w . s m f a o r r k e e ig t n ri s c k u r a r n e d n c s y t r r u is c k tu s r . al
+Includes Retail Credit Risk Committee,
+.
+Wholesale Credit Risk Committee,
+Responsible for approving the
+Operational Risk Executive Committee,
+Significant Deterioration framework
+Financial Crime Risk Executive Committee,
+and data rules for missing variables.
+and ReputationalRisk Committee.
+Franchise and function risk committees
+Risk committees review and monitor all risks, providing guidance, recommendations
+and decisions on risks affecting the franchises and functions.
+Note:
+(1) National Westminster Bank Plc is a wholly-owned subsidiary of NatWest Holdings Limited. The diagram above illustrates the risk governance structure of
+National Westminster Bank Plc. The IFRS 9 Metrics Oversight Committee has delegated authority from the Provisions Committee to approve the Significant
+Deterioration framework, the data rules for missing variables, materiality decisions relating to the expected credit loss calculation, adjustments relating to the
+expected credit loss calculation if necessary, and changes in expected credit loss provision calculation methodology.
+11
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Risk management framework continued
+Risk management structure
+The diagram illustrates the Group’s risk management structure in 2018 and key risk management responsibilities.
+Director, Operational Risk Design and delivery of operational risk strategy and service proposition; and oversee
+& Services effective management. Provides advice, oversight and challenge to Services business
+Director, Risk Policy and Design and delivery of risk policy, governance and frameworks (including risk appetite, Frameworks model risk governance and validation, risk culture, risk performance assessment); and oversees effective management
+ChiefFinancial Crime Officer Design and delivery of financial crime strategy and service proposition; and
+oversees effective management
+Director,Restructuring Design and delivery of restructuring strategy and service proposition including specialist exposure management, restructuring and recoveries
+Head of Risk Strategy
+& Transformation Provides a change and business improvement service to the Risk function
+12
+NatWest Plc Annual Report and Accounts 2018
+fo thgisrevo
+,egnellahc
+dna
+etiteppa
+ksir ,krowemarf
+lortnoc
+dna
+ksiR
+tnemeganam
+ksir
+Deputy Chief Risk Officer, Design and delivery of risk reporting, analysis and insight service propositions. Ring-Fenced Bank Provides advice, oversight and challenge to the Commercial & Private Banking and Personal Banking businesses
+Director, Compliance &Conduct Design and delivery of compliance and conduct strategy and service proposition;
+and oversees effective management
+RBS Group Chief Risk Officer,
+Chief Ring-Fenced Executive RBS Group Chief Bank
+Risk Officer
+NatWest Bank Plc NatWest Bank Plc Chief CreditOfficer Design and delivery of credit risk strategy and service proposition; Chief Executive Chief Risk Officer and oversees effective management Director, Financial Risk & Design and delivery of financial risk and analytics strategies including stress testing,
+Analytics model build, funding, liquidity and earnings risk, non traded market risk, pension risk
+and economic capital; and oversees effective management
+Notes:
+(1) NatWest Bank Plc is a wholly-owned subsidiary of NatWest Holdings Limited, which is the ring-fenced sub-Group of the RBS Group. The diagram above
+illustrates the risk management structure of NatWest Bank Plc.
+(2) The NatWest Bank Plc CRO reports directly to i) the NatWest Bank Plc CEO, whose role is also undertaken by the same individual who undertakes the roles of
+NatWest Holdings CEO and RBS Group CEO; and ii) the NatWest Holdings CRO, albeit given both these CRO roles are undertaken by the same individual, in
+effect, the reporting line is to the RBS Group CRO. There is a further secondary reporting line to the chair of the NatWest Bank Plc BRC and a right of access to
+the Committee, including the deputy chair, but noting the constituent members of the Committee mirror those of the NatWest Holdings BRC.
+(3) The Risk function is independent of the franchises and is structured by risk discipline to facilitate effective risk management. Risk committees in the customer
+businesses and key functional risk committees oversee risk exposures arising from management and business activities and focus on ensuring that these are
+adequately monitored and controlled.
+Three lines of defence Third line of defence – Internal Audit
+The Group uses the three lines of defence model to articulate Responsibilities include:
+accountabilities and responsibilities for managing risk across the  Providing assurance to the NatWest Holdings Audit Committee on
+organisation. The three lines of defence model is adopted across the the appropriateness of the design and operational effectiveness of
+industry to support the embedding of effective risk management and is governance, risk management and internal controls to monitor and
+expressed through a set of principles as outlined below. All roles, mitigate material risks.
+regardless of level, sit within one of these three lines.  Engaging with management to provide perspectives, insights and
+challenge in order to influence the building of a sustainable bank.
+First line of defence – Management and supervision
+ Providing independent assurance to the Financial Conduct
+The first line of defence encompasses most roles within the Group,
+Authority, Prudential Regulation Authority, Central Bank of Ireland
+including those in customer franchises, Technology and Services as
+and other key jurisdictional regulators on specific risks and
+well as support functions such as Human Resources, Communications
+controls.
+& Marketing and Finance. Responsibilities include:
+ Owning, managing and supervising, within a defined risk appetite, Risk appetite
+the risks which exist in business areas and support functions. Risk appetite defines the level and types of risk the RBS Group is
+ Ensuring the business has effective mechanisms for identifying, willing to accept, within risk capacity, in order to achieve strategic
+objectives and business plans. It links the goals and priorities to risk
+reporting and managing risk and controls.
+management in a way that guides and empowers staff to serve
+ Ensuring appropriate controls are in place to mitigate risk, customers well and achieve financial targets.
+balancing control, customer service and competitive advantage.
+For certain strategic risks, risk capacity defines the maximum level of
+ Ensuring that the culture of the business supports balanced risk
+risk the RBS Group can assume before breaching constraints
+decisions and compliance with policy, laws and regulations.
+determined by regulatory capital and liquidity needs, the operational
+environment, and from a conduct perspective. Articulating risk capacity
+Second line of defence – Oversight and control
+helps determine where risk appetite should be set, ensuring there is a
+The second line of defence is the Risk function as well as the policy
+buffer between internal risk appetite and the RBS Group’s ultimate
+and control elements of Human Resources, Legal and the Finance
+capacity to absorb losses.
+function. Responsibilities include:
+ Leading the articulation, design and development of risk culture Risk appetite framework
+and appetite. The risk appetite framework bolsters effective risk management by
+promoting sound risk-taking through a structured approach, within
+ Setting the standard for risk management across the Group.
+agreed boundaries. It also ensures emerging risks and risk-taking
+ Overseeing and challenging the management of risks and controls. activities that would be out of appetite are identified, assessed,
+ Analysing the aggregate risk profile and ensuring that risks are escalated and addressed in a timely manner.
+being managed within risk appetite.
+To facilitate this, a detailed annual review of the framework is carried
+ Providing expert advice to the first line on risk management,
+out. The review includes:
+including the application of effective risk and control frameworks
+and the consideration of risk in decision-making.  Assessing the adequacy of the framework when compared to
+internal and external expectations.
+ Providing senior executives with relevant management information
+and reports, and escalating concerns where appropriate.  Ensuring the framework remains effective as a strong control
+environment for risk appetite.
+Capital and risk management
+Risk management framework continued The process for stress testing consists of four broad stages:
+Model Risk Governance  Identify the RBS-specific vulnerabilities and risks.
+Model Risk Governance is responsible for setting policy and providing Define  Define and calibrate scenarios to examine risks
+a governance framework for all of the RBS Group’s models and and vulnerabilities.
+scenarios
+related processes. It is also responsible for defining and monitoring  Formal governance process to agree scenarios.
+model risk appetite in conjunction with model owners and model users,
+monitoring the model risk profile and reporting on the model population  Translate scenarios into risk drivers.
+as well as escalating issues to senior management, through the Model Assess  Assess impact to positions, income and costs.
+Risk Forum, and the respective franchise and function risk impact  Impact assessment captures input from across the
+committees. RBS Group.
+Model Risk Management Calcu late  Aggregate impacts into overall results.
+Model Risk Management performs independent model validation for results and  Results form part of risk management process.
+material models. It works with individual businesses and functions to assess  Scenario results are used to inform the RBS’s
+monitor adherence to model risk standards, ensuring that models are implications business and capital plans.
+developed and implemented appropriately and that their operational
+ Scenario results are analysed by subject matter
+environment is fit for purpose.
+Develop and experts and appropriate management actions are
+Model Risk Management performs reviews of relevant risk and pricing agree then developed.
+models in two instances: (i) for new models or amendments to existing management  Scenario results and management actions are
+models and (ii) as part of its ongoing programme to assess the actions reviewed and agreed by senior management
+performance of these models. through executive committees including Executive
+Risk Committee, Board Risk Committee and the
+Model Risk Management reviews may test and challenge the logic and Board.
+conceptual soundness of the methodology, or the assumptions
+underlying a model. Reviews may also test whether or not all Stress testing is used widely across the RBS Group. The diagram
+appropriate risks have been sufficiently captured as well as checking below summarises key areas of focus:
+the accuracy and robustness of calculations.
+Based on the review and findings from Model Risk Management, the Financial
+RBS Group’s model or risk committees consider whether a model can performance
+Contingency
+be approved for use. Models used for regulatory reporting may assessment
+planning & management
+additionally require regulatory approval before implementation.
+actions
+(4)
+Model Risk Management reassesses the appropriateness of approved Risk
+risk models on a periodic basis. Each periodic review begins with an Mitigation
+Capital
+initial assessment. Based on the initial assessment, an internal model adequacy
+governance committee will decide to re-ratify a model or to carry out Early
+warning
+additional work. In the initial assessment, Model Risk Management
+indicators (1)
+assesses factors such as a change in the size or composition of the (3) Stress testing Strategic
+portfolio, market changes, the performance of – or any amendments to Risk usage within Financial
+Identification RBS & Capital
+– the model and the status of any outstanding issues or scheduled
+Planning
+activities carried over from previous reviews.
+Earnings
+Model Risk Management also monitors the performance of RBS
+Tail-risk volatility
+Group’s portfolio of models to ensure they appropriately capture assessment (2)
+underlying business rationale. Risk
+Appetite
+Stress testing
+Stress testing – capital management Business Sector review
+Stress testing is a key risk management tool and a fundamental vulnerabilities & credit limit
+analysis setting
+component of the RBS group approach to capital management. It is
+used to quantify, evaluate and understand the potential impact of
+specified changes to risk factors on the financial strength of RBS
+group, including its capital position. Stress testing includes: Specific areas that involve capital management include:
+ Scenario testing, which examines the impact of a hypothetical  Strategic financial and capital planning – through assessing the
+future state to define changes in risk factors. impact of sensitivities and scenarios on the capital plan and
+capital ratios.
+ Sensitivity testing, which examines the impact of an incremental
+change to one or more risk factors.
+14
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Credit risk
+Framework Basis for classification
+Definition
+Measure Other
+Credit risk is the risk that customers fail to meet their contractual
+Risk – based on loss
+obligation to settle outstanding amounts. Single name
+concentration
+given default for a given
+The following disclosures in this section are audited: probability of default
+ Forbearance. Risk – based on
+ Impairment, provisioning and write-offs. Sector economic capital and
+ Transition from IAS 39 to IFRS 9. Exposure other qualitative factors
+ Key elements of IFRS 9 impairment provisions Probability of default of a
+o Economic loss drivers (excluding economic parameters). Country sovereign and average
+o IFRS 9 credit risk modelling. loss given default
+o Significant increase in credit risk. Risk – based on
+Product and
+o Asset lifetimes. heightened risk
+asset class
+ Measurement uncertainty and ECL sensitivity analysis. characteristics
+ Banking activities (except PDs and additional Stage 2 and Stage 3
+Risk controls
+analysis).
+Credit policy standards are in place for both the Wholesale and
+Sources of risk Personal portfolios. They are expressed as a set of mandatory
+The principal sources of credit risk are lending and related undrawn controls.
+commitments. Derivatives and securities financing and debt securities
+Risk identification and measurement
+are also a source of credit risk, primarily related to Treasury activities
+Credit stewardship
+for the Group. The Group is also exposed to settlement risk through
+Risks are identified through relationship management and/or credit
+foreign exchange and payments activities.
+stewardship of portfolios or customers. Credit risk stewardship takes
+Risk governance place throughout the customer relationship, beginning with the initial
+Credit risk management is led by the Chief Credit Officer (CCO). approval. It includes the application of credit assessment standards,
+Credit risk management activities include: credit risk mitigation and collateral, ensuring that credit documentation
+ Defining credit risk appetite for the management of concentration is complete and appropriate, carrying out regular portfolio or customer
+risk and credit policy to establish the key risks in the process of reviews and problem debt identification and management.
+providing credit and the controls that must be in place to mitigate
+Risk models
+them.
+The output of credit risk models is used in the credit approval process
+ Approving credit limits for customers.
+– as well as for ongoing assessment, monitoring and reporting – to
+ Oversight of the first line of defence to ensure that credit risk
+inform risk appetite decisions. These models are divided into different
+remains within the risk appetite set by the Board.
+categories. Where the calculation method is on an individual
+The CCO has overall responsibility for the credit risk function and counterparty or account level, the models used will be probability of
+chairs the Wholesale and Retail Credit Risk Committees. These default (PD), loss given default (LGD), or exposure at default (EAD).
+committees review, recommend or approve risk appetite limits The economic capital model is used for credit risk appetite setting.
+(depending on their materiality) within the appetite set by the Board. Asset quality
+All credit grades map to an asset quality scale, used for external
+The Provisions Committee has authority over provisions adequacy and
+financial reporting. For Wholesale customers, a master grading scale
+approves proposals from business provisions committees in
+is used for internal management reporting across portfolios.
+accordance with approval thresholds. The Provisions Committee is
+Accordingly, measures of risk exposure may be aggregated and
+chaired either by the CCO or the Head of Provisions & Restructuring
+reported at differing levels of detail depending on stakeholder or
+Credit.
+business requirements. Performing loans are defined as AQ1-AQ9
+Risk appetite (where the PD is less than 100%) and non-performing loans as AQ10
+The Group’s approach to lending is governed by comprehensive credit or Stage 3 under IFRS 9 (where the PD is 100%).
+risk appetite frameworks. The frameworks are closely monitored and
+Risk mitigation
+actions are taken to adapt lending criteria as appropriate. Credit risk
+Risk mitigation techniques, as set out in the appropriate credit
+appetite aligns to the strategic risk appetite set by the Board, which
+policies, are used in the management of credit portfolios across the
+includes capital adequacy, earnings volatility, funding and liquidity, and
+Group. These techniques mitigate credit concentrations in relation to
+stakeholder confidence. The credit risk appetite frameworks have been
+an individual customer, a borrower group or a collection of related
+designed to reflect factors (for example, strategic and emerging risks)
+borrowers. Where possible, customer credit balances are netted
+that influence the ability to operate within risk appetite. Tools such as
+against obligations. Mitigation tools can include structuring a security
+stress testing and economic capital are used to measure credit risk
+interest in a physical or financial asset, the use of credit derivatives
+volatility and develop links between the credit risk appetite frameworks
+including credit default swaps, credit-linked debt instruments and
+and risk appetite limits. The frameworks are supported by a suite of
+securitisation structures, and the use of guarantees and similar
+transaction acceptance standards that set out the risk parameters
+instruments (for example, credit insurance) from related and third
+within which franchises should operate.
+parties. Property is used to mitigate credit risk across a number of
+The Personal credit risk appetite framework sets limits that measure portfolios, in particular residential mortgage lending and commercial
+and control the quality of both existing and new business for each real estate (CRE).
+relevant franchise or business segment. The actual performance of
+each portfolio is tracked relative to these limits and management
+action is taken where necessary. The limits apply to a range of credit
+risk-related measures including expected loss at both portfolio and
+product level, projected credit default rates across products and the
+loan-to-value (LTV) ratio of the Personal mortgage portfolios.
+For Wholesale, the four formal frameworks used – and their basis for
+classification – are detailed in the following table.
+25
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Pension risk
+Definition The RBS Group also undertakes stress tests and scenario analyses
+Pension obligation risk is the risk to the Group caused by its on its material defined benefit pension schemes each year. These
+contractual or other liabilities to, or with respect to, a pension scheme tests are also used to satisfy the requests of regulatory bodies such
+(whether established for its employees or those of a related company as the Bank of England. The stress testing framework includes
+or otherwise). It is also the risk that the Group will make payments or pension risk capital calculations for the purposes of the Internal
+other contributions to, or with respect to, a pension scheme because Capital Adequacy Assessment Process as well as additional stress
+of a moral obligation or because the RBS Group considers that it tests for a number of internal management purposes.
+needs to do so for some other reason.
+The results of the stress tests and their consequential impact on the
+Sources of risk Group’s balance sheet, income statement and capital position are
+The Group has exposure to pension risk through its defined benefit incorporated into the Group’s and overall RBS Group stress test
+schemes worldwide. The Main section of The Royal Bank of Scotland results.
+Group Pension Fund (the Main section) is the largest source of
+NatWest Bank Plc is the principal employer of the Main scheme, and
+pension risk as NatWest Bank is the principal employer to the Main
+could be required to fund any deficit that arises.
+section with £43.8 billion of assets and £35.5 billion of liabilities at 31
+December 2018 (2017 – £44.7 billion assets and £37.9 billion Risk mitigation
+liabilities). Further detail on the Group’s pension obligations can be The trustee has taken measures to mitigate inflation and interest rate
+found in Note 5 on the accounts. risks, both by investing in suitable financial assets and by entering
+into inflation and interest rate swaps. The Main section also uses
+Pension scheme liabilities vary with changes in long-term interest
+derivatives to manage the allocation of the portfolio to different asset
+rates and inflation as well as with pensionable salaries, the longevity
+classes and to manage risk within asset classes. The contribution
+of scheme members and legislation. Pension scheme assets vary
+made to the Main section also facilitated a £6 billion reduction in
+with changes in interest rates, inflation expectations, credit spreads,
+quoted equity exposure and an increase in interest rates and inflation
+exchange rates, and equity and property prices. The Group is
+hedging in 2018.
+exposed to the risk that the schemes’ assets, together with future
+returns and additional future contributions, are insufficient to meet Compliance & conduct risk
+liabilities as they fall due. In such circumstances, the Group could be Definition
+obliged (or might choose) to make additional contributions to the Compliance risk is the risk that the behaviour of the Group towards
+schemes, or be required to hold additional capital to mitigate this risk. customers fails to comply with laws, regulations, rules, standards and
+Key developments in 2018 codes of conduct. Such a failure may lead to breaches of regulatory
+requirements, organisational standards or customer expectations and
+ A Memorandum of Understanding between the RBS Group and
+could result in legal or regulatory sanctions, material financial loss or
+the Trustee of the Main section was reached in April 2018, which
+reputational damage.
+enabled RBS Group to bring the pension scheme into alignment
+with ring-fencing rules and reduce exposure to pension risk. Conduct risk is the risk that the conduct of the Group and its
+ The RBS Group made a £2 billion contribution to the Main section subsidiaries and its staff towards customers – or in the markets in
+in H2 2018 and it was agreed this could be followed by up to a which it operates – leads to unfair or inappropriate customer
+further £1.5 billion of dividend linked contributions to be paid from outcomes and results in reputational damage, financial loss or both.
+2020, capped at £500 million per year.
+Sources of risk
+ The contribution to the scheme facilitated a reduction in the risk
+Compliance and conduct risks exist across all stages of the Group’s
+profile of the fund, principally the sale of approximately £6 billion of
+relationships with its customers and arise from a variety of activities
+quoted equity exposure and the purchase of further interest rate
+including product design, marketing and sales, complaint handling,
+and inflation hedging.
+staff training, and handling of confidential insider information. As set
+Risk governance out in Note 29 on the accounts, the RBS Group and certain members
+The Pension Committee is chaired by the RBS Group Chief Financial of staff are party to legal proceedings and are subject to investigation
+Officer. It receives its authority from the RBS Group Executive and other regulatory action in the UK, the US and other jurisdictions.
+Committee and formulates the RBS Group’s view of pension risk. The
+Key developments in 2018
+Pension Committee is a key component of the RBS Group’s
+ An enhanced compliance and conduct risk framework was
+approach to managing pension risk and it reviews and monitors risk
+developed, setting minimum standards for the management and
+management, asset strategy and financing issues on behalf of the
+measurement of compliance and conduct risks across the RBS
+RBS Group. It also considers investment strategy proposals from the
+Group.
+Trustee. For further information on Risk governance, refer to page
+11.  Enhanced product monitoring and reporting was introduced.
+ Controls, systems and processes were revised to ensure
+Risk appetite compliance with the UK’s ring-fencing rules.
+The RBS Group maintains an independent view of the risk inherent in
+ PPI remediation continued in advance of the FCA’s August 2019
+its pension funds. The Group has an annually reviewed pension risk
+deadline for claims (refer to Note 21 on the accounts).
+appetite statement incorporating defined metrics against which risk is
+ Work to address legacy GRG complaints continued. The process
+measured. The RBS Group undertakes regular pension risk
+closed to new complaints in the UK on 22 October 2018.
+monitoring and reporting to the RBS Group Board, the RBS Group
+ Product and pricing continued to be simplified for new and existing
+Board Risk Committee and the Pension Committee on the material
+customers.
+pension schemes that the RBS Group has an obligation to support.
+Risk governance
+Risk controls
+The RBS Group defines appropriate standards of compliance and
+A pension risk management framework is in place to provide formal
+conduct and ensures adherence to those standards through its risk
+controls for pension risk reporting, modelling, governance and stress
+management framework.
+testing. A pension risk policy which sits within the RBS Group policy
+framework is also in place and is subject to associated framework Risk appetite
+controls. Risk appetite for compliance and conduct risks is set at RBS Group
+Board level. Risk appetite statements articulate the levels of risk that
+Risk monitoring and measurement
+legal entities, franchises and functions work within when pursuing
+Pension risk reports are submitted to the RBS Group Executive Risk
+their strategic objectives and business plans.
+Committee and the RBS Group Board Risk Committee four times a
+year in the Risk Management Quarterly Report.
+54
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Compliance and conduct risk continued
+Risk controls Risk appetite
+The RBS Group operates a range of controls to ensure its business is The Group has no appetite to operate in an environment where
+conducted in accordance with legal and regulatory requirements, as systems and controls do not enable the Group to identify, assess,
+well as delivering good customer outcomes. A suite of policies monitor, manage and mitigate financial crime risk. The Group’s
+addressing compliance and conduct risks set appropriate standards systems and controls must be comprehensive and proportionate to
+across RBS. Examples of these include the Complaints Management the nature, scale and complexity of its businesses. The Group has no
+Policy, Client Assets & Money Policy, and Product Lifecycle Policy as tolerance to systematically or repeatedly breach relevant financial
+well as policies relating to customers in vulnerable situations, cross- crime regulations and laws.
+border activities and market abuse. Continuous monitoring and
+Risk mitigation
+targeted assurance is undertaken, as appropriate.
+Through the financial crime framework, the Group employs relevant
+Risk monitoring and measurement policies, systems, processes and controls to mitigate financial crime
+Compliance and conduct risks are measured and managed through risk. This would include the use of dedicated screening and
+continuous assessment and reporting to the RBS Group’s senior risk monitoring controls to identify people, organisations, transactions and
+committees and at RBS Group Board level. behaviours which might require further investigation or other actions.
+The Group ensures that centralised expertise is available to detect
+The compliance and conduct risk framework facilitates the consistent
+and disrupt threats to the Group and its customers. Intelligence is
+monitoring and measurement of compliance with laws and
+shared with law enforcement, regulators and government bodies to
+regulations and the delivery of consistently good customer outcomes.
+strengthen national and international defences against those who
+The first line of defence is responsible for effective risk identification, would misuse the financial system for criminal motives.
+reporting and monitoring, with oversight, challenge and review by the
+Risk controls
+second line. Compliance and conduct risk management is also
+The Group operates a framework of preventative and detective
+integrated into the RBS Group’s strategic planning cycle.
+controls designed to ensure the Group mitigates the risk that it could
+Risk mitigation facilitate financial crime. These controls are supported by a suite of
+Activity to mitigate the most-material compliance and conduct risks is policies, procedures and detailed instructions to ensure they operate
+carried out across the RBS Group with specific areas of focus in the effectively.
+customer-facing franchises and legal entities. Examples of mitigation
+Risk monitoring and measurement
+include consideration of customer needs in business and product
+Financial crime risks are identified and reported through continuous
+planning, targeted training, complaints management, as well as
+risk management and regular monthly reporting to RBS Group’s
+independent assurance activity. Internal policies help support a
+senior risk committees and the Board. Quantitative and qualitative
+strong customer focus across the RBS Group. Independent
+data is reviewed and assessed to measure whether financial crime
+assessments of compliance with applicable regulations are also
+risk is within the Group’s risk appetite.
+carried out at a legal entity level.
+Operational risk
+Financial crime
+Definition
+Definition
+Operational risk is the risk of loss resulting from inadequate or failed
+Financial crime risk is the risk presented by criminal activity in the
+internal processes, people and systems, or external events. It arises
+form of money laundering, terrorist financing, bribery and corruption,
+from day-to-day operations and is relevant to every aspect of the
+sanctions and tax evasion. It does not include fraud risk
+business.
+management.
+Sources of risk
+Sources of risk
+Operational risk may arise from a failure to manage operations,
+Financial crime risk may be presented if the Group’s employees,
+systems, transactions and assets appropriately. This can take the
+customers or third parties undertake or facilitate financial crime, or if
+form of human error, an inability to deliver change adequately or on
+the Group’s products or services are used to facilitate such crime.
+time, the non-availability of technology services, or the loss of
+Financial crime risk is an inherent risk across all of the Group’s lines
+customer data. Fraud and theft – as well as the increasing threat of
+of business.
+cyber attacks – are sources of operational risk, as is the impact of
+Key developments in 2018 natural and man-made disasters. Operational risk can also arise from
+ In October 2018, the Federal Reserve Board terminated a Cease & a failure to account for changes in law or regulations or to take
+Desist Order originally imposed in December 2013. The Order, appropriate measures to protect assets.
+which related to RBS Group and RBS plc’s historical compliance
+Key developments in 2018
+with Office of Foreign Assets Control (OFAC) economic sanctions
+ Risk provided oversight of several bank-wide programmes
+regulations, was terminated following a multi-year programme of
+including the Transformation portfolio, structural reform, European
+work to establish a robust, sustainable OFAC Sanctions
+Commission (EC) State Aid obligations and Brexit preparations.
+compliance framework.
+ Key corporate structural reform milestones were delivered,
+ While the financial crime governance framework was strengthened
+including the implementation of the Financial Services Markets Act
+during 2018 – along with the introduction of enhanced control
+Part VII and migration activities to separate the ring-fence bank
+effectiveness assurance processes, enhancements to existing risk
+from the non ring-fenced bank.
+assessment models, the introduction of a new Anti-Tax Evasion
+ The Group is well positioned to deliver the activities required to
+risk assessment; and improved monitoring controls and enhanced
+support the Business Banking Switch Scheme that is due to
+investigation processes – the journey of improvement continues.
+commence in 2019, as part of the Group’s final EC State Aid
+Risk governance obligation.
+Financial crime risk is principally governed through the Financial  The Group has established an Innovation Risk Oversight team to
+Crime Risk Executive Committee, which is chaired by the Chief provide bank-wide oversight of its innovation portfolio to help
+Financial Crime Officer. The committee reviews and, where deliver safely and at pace
+appropriate, escalates material risks and issues to the RBS Group  The Group continued to review its well established incident
+Executive Risk Committee and the Group Board Risk Committee. management and coordination procedures to manage the
+persistent and evolving nature of information and cyber security
+risks.
+55
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Operational risk continued Risk monitoring and measurement
+ Internal security improvement programmes and controls were Risk and control assessments are used across all business areas
+developed and strengthened to protect the Group and its and support functions to identify and assess material operational and
+customers. The Group uses proactive threat management and conduct risks and key controls. All risks and controls are mapped to
+intelligence processes to identify, manage and mitigate credible the Group’s Risk Directory. Risk assessments are refreshed at least
+threats. annually to ensure they remain relevant and capture any emerging
+ The Group continued to reduce and simplify its technology estate risks, with associated trigger processes to ensure risks are
+through strategic investment and Technology transformation reassessed at key periods of change.
+initiatives in order to limit opportunities for hackers and fraudsters.
+Improvements in capability were also made to the Security The process is designed to confirm that risks are effectively managed
+Operations Centre, strengthening controls to prevent data leakage, and prioritised in line with risk appetite. Controls are tested at the
+enhance malware defences and management of user access to appropriate frequency to verify that they remain fit-for-purpose and
+key systems. operate effectively.
+ Internal training programmes ensure all employees are aware of
+the threats facing the Group and remain vigilant to unauthorised The Group uses the standardised approach to calculate its Pillar 1
+attempts to access systems and data. operational risk capital requirement. This is based on multiplying
+three years’ average historical gross income by coefficients set by the
+Risk governance regulator based on business line. As part of the wider Internal Capital
+A strong operational risk management function is vital to support the Adequacy Assessment Process an operational risk economic capital
+Group’s ambitions to serve its customers better. Improved model is used to assess Pillar 2A, which is a risk-sensitive add-on to
+management of operational risk against defined appetite directly Pillar 1.The model uses historical loss data (internal and external)
+supports the strategic risk objective of improving stakeholder and forward-looking scenario analysis that is provided by Operational
+confidence and is vital for stability and reputational integrity. Risk to provide a risk-sensitive view of the Group’s P2A capital
+requirement.
+The operational risk function, which is the second line of defence,
+delivers a robust operational risk management framework and culture Scenario analysis is used to assess how extreme but plausible
+across the Group. operational risks will affect the Group. It provides a forward-looking
+basis for evaluating and managing operational risk exposures.
+The Operational Risk function is responsible for the execution and
+continuous improvement of the operational risk management Refer to the Capital, liquidity and funding risk section for operational
+framework. risk capital requirement figures.
+The Operational Risk Executive Committee is responsible for Event and loss data management
+reviewing operational risk exposure; identifying and assessing both The operational risk event and loss data management process
+current and emerging material operational risks; reviewing and ensures the Group captures and records operational risk loss events
+monitoring the operational risk profile; and reviewing and approving that meet defined criteria. Loss data is used for regulatory and
+material operational risk policy changes. industry reporting and is included in capital modelling when
+calculating economic capital for operational risk. The most serious
+Risk appetite events are escalated in a simple, standardised process to all senior
+Operational risk appetite supports effective management of material management, by way of a Group Notifiable Event Process.
+operational risks. It expresses the level and types of operational risk
+the Group is willing to accept to achieve its strategic objectives and All losses and recoveries associated with an operational risk event
+business plans. are reported against their financial accounting date. A single event
+can result in multiple losses (or recoveries) that may take time to
+The Group-wide operational risk appetite statement encompasses crystallise. Losses and recoveries with a financial accounting date in
+the full range of operational risks faced by its legal entities, franchises 2018 may relate to events that occurred, or were identified in, prior
+and functions, supported by board risk measures which, should the years. The Group purchases insurance against specific losses and to
+limit be breached, would impact on our ability to achieve business comply with statutory or contractual requirements.
+plans and threaten stakeholder confidence. Strategic measures and
+Group-wide material risks are reviewed at least annually and Operational resilience
+approved at Group Board. The Group manages and monitors operational resilience through its
+risk and control assessments methodology. As challenges to
+Risk controls operational resilience become more demanding, given a hostile cyber
+The Control Environment Certification (CEC) process is a half yearly environment and a greater focus on serving customers through digital
+self-assessment by the CEO of the Group’s business units, as well as platforms, the Group is working with supervisory authorities in the UK
+the heads of the support and control functions, providing a view on to ensure the provision of its products and services can be
+the adequacy and effectiveness of the internal control environment in maintained regardless of the cause of disruption.
+a consistent and comparable manner.
+This is underpinned by setting, monitoring and testing tolerances for
+CEC covers material risks and the underlying key controls, including key business services, which define the amount of disruption that
+financial, operational and compliance controls, as well as supporting could be tolerated.
+risk management frameworks. The CEC outcomes, including
+forward-looking assessments for the next two half-yearly cycles and Risk mitigation
+progress on control environment improvements, are reported to the Risks are mitigated by applying key preventative and detective
+Board, Audit Committee and Board Risk Committee. They are also controls, an integral step in the risk assessment methodology which
+shared with external auditors. determines residual risk exposure. Control owners are accountable
+for the design, execution, performance and maintenance of key
+controls. Key controls are regularly assessed for adequacy and
+tested for effectiveness. The results are monitored and, where a
+material change in performance is identified, the associated risk is re-
+evaluated.
+56
+NatWest Plc Annual Report and Accounts 2018
+Capital and risk management
+Business risk franchise monitors its financial performance relative to plans and
+Definition reports this on a regular basis to the finance directors of each
+Business risk is the risk that the Group does not have a strategy that franchise.
+is sufficiently well defined to provide clarity on its long-term ambitions
+to key internal and external stakeholders, or that it is not able to Risk mitigation
+execute upon its chosen strategy as communicated to the market, The Group operates a monthly rolling forecasting process to identify
+regulators and other key stakeholders. The risk is that the Group projected changes in, or risks to, key financial metrics, and ensures
+does not deliver its expected business performance which could give appropriate actions are taken.
+rise to a deterioration in stakeholder trust and confidence and/or a
+breach of regulatory thresholds. The Group may not be able to Reputational risk
+execute its chosen strategy if there are material changes to its Definition
+internal or external operating environment. Reputational risk is the risk to the Group’s public image from a failure
+to meet stakeholders’ expectations in relation to performance,
+Sources of risk
+conduct or business profile. Stakeholders include customers,
+Business risk arises as a result of the Group’s exposure to the
+investors, employees, suppliers, government, regulators, special
+macro-economy (including economic and political factors), the
+interest and consumer groups, media and the general public.
+competitive environment, regulatory and technological changes. In
+addition, internal factors such as the ability to deliver complex
+Sources of risk
+change, volatility in sales volumes, input costs, and other operational
+Reputational risk can arise from the conduct of employees; customer
+risks affect the Group’s ability to execute its chosen strategic
+activities and the sectors and countries in which they operate;
+business plan as intended and thus contribute to business risk.
+provision of products and transactions; as well as operations and
+Key developments in 2018 infrastructure.
+ In preparation for ring-fencing the RBS Group completed a
+Key developments in 2018
+business restructure. The UK Personal & Business Banking and
+Commercial Banking business of NatWest Markets (formerly RBS  Metrics were reviewed and enhanced to help measure
+plc renamed in 2018) were transferred to the Group. reputational risk across the Group.
+ RBS Group also restructured the NatWest Markets Plc (former  Risk appetite positions for countries and sectors identified as
+RBS plc) capital structure. The shares in NatWest Holdings presenting heightened reputational risk continued to be reviewed
+Limited, which owns the ring-fenced sub-group, were distributed to and strengthened.
+RBS Group. This separated the ring-fenced sub-group from the
+Risk governance
+non-ring-fenced entities, as required by ring-fencing legislation.
+A reputational risk policy supports reputational risk management
+RBS Group also transferred the customer interest rate and foreign
+across the Group. Reputational risk committees review relevant
+exchange derivatives business of National Westminster Bank Plc
+issues at an individual franchise or entity level, while the RBS Group
+to NatWest Markets Plc.
+Reputational Risk Committee – which has delegated authority from
+ NatWest Bank Plc entered into a Memorandum of Understanding
+the Executive Risk Committee – opines on cases, issues, sectors and
+with the Trustees of the Main Scheme of the RBS Group Pension
+themes that represent a material reputational risk to the RBS Group.
+Fund to address the historical funding weakness of the pension
+The Board Risk Committee oversees the identification and reporting
+scheme, recognising a pre-tax £2.0 billion contribution against
+of reputational risk. The Sustainable Banking Committee has a
+reserves and an equivalent reduction in CET1 capital.
+specific focus on environmental, social and ethical issues.
+Risk governance
+The Board has ultimate responsibility for business risk and for Risk appetite
+approving strategic plans, initiatives and changes to strategic The Group manages and articulates its appetite for reputational risk
+direction. through a qualitative reputational risk appetite statement and
+quantitative measures. The Group seeks a continued improvement in
+The Group’s strategic planning process is managed by Strategy and the identification, assessment and management of customers,
+Corporate Development. The Risk and Finance functions are key transactions, products and issues that present a material reputational
+contributors to strategic planning. risk.
+Responsibility for the day-to-day management of business risk lies Risk controls
+primarily with the franchises, with oversight by the Finance function. For more information on risk controls, refer to page 13.
+The franchises are responsible for delivery of their business plans
+and the management of such factors as pricing, sales volumes, Risk monitoring and measurement
+marketing expenditure and other factors that can introduce volatility Primary reputational risk measures are in place to assess internal
+into earnings. activity relating to the management of reputational risk, including
+training. A number of secondary risk measures – including measures
+Risk appetite also used in the management of operational, conduct and financial
+Risk Appetite defines the level and types of risk the Group is willing to risks – are used to assess relevant external factors. Quarterly reports
+accept in order to achieve its strategic objectives and business plans. on performance against these measures are provided to the
+The Group articulates its appetite for business risk through the Executive Risk Committee and Board Risk Committee.
+implementation of qualitative risk appetite statements and
+quantitative risk measures at franchise and function level. These Risk mitigation
+statements and measures help determine the level and types of Reputational risk is mitigated through the policy and governance
+business risk RBS is willing to accept. framework, with ongoing staff training to ensure early identification,
+assessment and escalation of material issues.
+Risk controls
+For more information on risk controls, refer to page 13. The most material threats to the Group’s reputation continued to
+originate from historical and more recent conduct issues. As a result,
+Risk monitoring and measurement the Group has been the subject of investigations and reviews by a
+Business risk is identified and managed at the product and number of regulators and governmental authorities, some of which
+transaction level. Estimated revenue, costs and capital are key have resulted in fines, settlements and public censure. Refer to the
+considerations in the design of any new product or in any new Litigation, investigations and reviews section of Note 29 on the
+investment decision. Business risk is reported, assessed and accounts.
+challenged at every governance level within the organisation. Each
+57
+NatWest Plc Annual Report and Accounts 2018
+Report of the directors
+The directors present their report together operational processes under Intra-Group
+with the audited accounts for the year ended Agreements. Health and wellbeing of colleagues
+31 December 2018. As a strong component of making the RBS
+Creating a healthy culture Group a great place to work, wellbeing has
+Other information incorporated into this report Building a healthy culture that embodies Our successfully delivered against three pillars –
+by reference can be found at: Values is a core priority for the RBS Group. physical, mental, and social; and in 2018 built
+Page/Note momentum on the fourth pillar, financial
+RBS Group ring-fencing 1 Our Values, which guide the way the RBS wellbeing. Further details can be found on
+Board of directors and secretary 2 Group identifies the right people to serve page 16 of the 2018 Annual Report and
+Financial review 4 customers well, and how to manage, engage Accounts of the RBS Group and on the
+Segmental analysis Note 4
+and reward colleagues, are at the heart of Our Sustainable Banking pages on rbs.com.
+Share capital and reserves Note 22
+Code (the bank-wide Code of Conduct).
+Post balance sheet events Note 38
+Employee consultation
+Risk factors 132
+Engaging colleagues The RBS Group recognises employee
+Engaging colleagues is crucial to achieving representatives such as trade unions and
+Group structure
+RBS Group’s ambition. Every year colleagues work councils in a number of businesses and
+National Westminster Bank Plc (the ‘Bank’) is
+are asked to share their thoughts on what it’s countries, and management regularly discuss
+a wholly-owned subsidiary of NatWest
+like to work for the RBS Group via a colleague developments and updates on the progress of
+Holdings Limited (‘NWH Ltd’, ‘NatWest
+opinion survey. The results from the 2018 its strategic plans with the European
+Holdings’ or the ‘intermediate holding
+survey are the most positive ever reported Employee Council (EEC). The RBS Group
+company’). The ultimate holding company is
+since engagement started to be measured in has ongoing engagement and discussion with
+The Royal Bank of Scotland Group plc
+2002. All key measures have improved and those bodies given the scale of change taking
+(‘RBSG’ or the ‘ultimate parent company),
+the RBS Group is now above the global place across the RBS Group.
+which is incorporated in Great Britain and has
+financial norms in all comparable survey
+its registered office at 36 St Andrew Square,
+categories. The continued strengthening of Colleague Voice
+Edinburgh EH2 2YB. The ‘Group’ or ‘NatWest
+the culture in the RBS Group was also echoed In response to changes which have been
+Group’ comprises the Bank and its subsidiary
+in this year’s improved Banking Standards made to the UK Corporate Governance Code,
+and associated undertakings. Details of the
+Board assessment which provided further the RBS Group has established a Colleague
+principal subsidiary undertakings and their
+proof of progress across a range of measures. Advisory Panel (“the Panel”) which is chaired
+activities are shown in Note 15 on the
+by Lena Wilson, Non-executive Director. The
+accounts. A full list of related undertakings of
+Rewarding employees purpose of the Panel is to promote greater
+the Bank is shown in Note 39 on the
+The RBS Group’s approach to performance colleague voice in the boardroom and provide
+accounts. ‘RBS Group’ comprises The Royal
+management provides clarity for employees an additional way for the Board to engage
+Bank of Scotland Group plc (the ‘ultimate
+about how their contribution links to the RBS directly with colleagues. The Panel consists of
+holding company’) and its subsidiary and
+Group’s ambition. existing employee representatives (e.g. Unite,
+associated undertakings.
+Financial Services Union (FSU), EEC,
+The RBS Group has made further progress on Employee Led Networks, Junior
+The financial statements of The Royal Bank of
+making sure employees are paid fairly for the Management/Colleague Focus Groups and
+Scotland Group plc can be obtained from RBS
+work they do with simple and transparent pay colleagues who have volunteered to be
+Corporate Governance and Regulatory
+structures, and in the UK the RBS Group’s involved). Colleagues from locations outside
+Affairs, RBS Gogarburn, Edinburgh, EH12
+rates continue to exceed the Living Wage. of the UK and Ireland also sit on the Panel to
+1HQ, the Registrar of Companies or through
+More information can be found on page 62 of ensure a broad, diverse range of views. In
+the RBS Group’s website rbs.com.
+the 2018 Annual Report and Accounts of the total, there are approximately 20 colleagues
+RBS Group. (or their representatives) who attend each
+Strategic report
+Panel meeting. The Panel does not duplicate
+Activities
+Developing colleagues existing methods to inform and consult, in
+The Group is engaged principally in providing
+The RBS Group offers a wide range of particular with employee representatives,
+a wide range of banking and other financial
+additional learning opportunities. In 2018 the focusing instead on broader strategic issues
+services.
+NextGen talent development programme was facing the RBS Group. The design of the
+launched for high-potential colleagues at Panel has been built around having two-way
+Results and dividends
+managerial level, helping them become the dialogue with clear outputs from the sessions
+The profit attributable to the ordinary
+future leaders the RBS Group will need. and follow-up to ensure it is viewed as a
+shareholders of the Group for the year ended
+valuable addition to existing colleague voice
+31 December 2018 was £2,619 million
+There is also a range of Female Development methods. More detail can be found on page
+compared with a profit of £2,065 million for the
+Programmes supporting women to reach their 14 of the 2018 Annual Report and Accounts of
+year ended 31 December 2017, as set out in
+full potential, and helping the RBS Group in the RBS Group.
+the consolidated income statement on page
+the aspiration to be fully gender balanced by
+72.
+2030. Inclusion
+Building a more inclusive RBS Group is
+The Bank paid an ordinary dividend to RBSG
+2018 also saw Sales Excellence, the RBS essential for customers and colleagues. The
+in 2018 totalling £292 million. No dividend was
+Group’s bank-wide sales programme, get ambition to be number one for customer
+paid in 2017.
+underway, teaching the tools and techniques service, trust and advocacy will only be
+that enable those in sales roles to be the best achieved by understanding the needs of all
+Employees
+at ethical, needs-based selling. More colleagues and customers.
+As at 31 December 2018, the Group
+information can be found on page 15 of the
+employed 56,800 people (full-time equivalent
+2018 Annual Report and Accounts of the RBS The RBS Group’s inclusion guidelines apply
+basis, including temporary workers). Details of
+Group and on the Sustainable Banking pages to all colleagues globally and cover being
+related costs are included in Note 3 on the
+on rbs.com. LGBT Innovative, Gender Balanced, Disability
+consolidated accounts.
+Smart, Ethnically Diverse, all leading to
+Youth Employment Inclusive Culture. Detailed information can be
+Following the completion of the ring-fencing
+In 2018, the RBS Group welcomed 516 found on page 16 of the 2018 Annual Report
+exercise, the Bank provides the majority of
+people across the Graduate and and Accounts of the RBS Group and on the
+shared services (including technology) and
+Apprenticeship schemes as well as around Sustainable Banking pages on rbs.com.
+150 Interns into internship programmes.
+58
+NatWest Plc Annual Report and Accounts 2018
+Report of the directors
+The RBS Group has been recognised for work The DINEDs are independent in two respects: to ensure that, as far as is reasonably
+on Equality, Diversity and Inclusion in 2018 by (i) independent of management as non- practicable, the NWH Ltd sub-group is able to
+retaining position in the Times Top 50 executives; and (ii) independent of the rest of take decisions independently of the wider
+Employers for Women; being recognised the RBS Group by virtue of their NWH Ltd sub RBS Group. The Audit, Performance &
+again as a Top 10 Employer for Working group-only directorships. They play a critical Remuneration, Nominations and Executive
+Families; being rated as an Exemplary Level role in our ring-fencing governance structure, Committees of NWH Ltd operate as the Audit,
+Employer by Carer Positive Scotland; being with an enhanced role in managing any Performance & Remuneration, Nominations
+named a Stonewall Global Diversity conflicts which may arise between the and Executive Committees of each of, NWH
+Champion; being Platinum Ranked by interests of NWH Ltd and RBSG. The DINEDs Ltd, the Bank, Ulster Bank Limited and The
+Business in the Community for both Gender attend RBSG Board meetings in an observer Royal Bank of Scotland plc, with meetings
+and Ethnicity work; and being upgraded to capacity. running concurrently.
+Gold Rated Disability Standard for the
+Business Disability Forum. The RBS Group On 30 April 2018 Yasmin Jetha stood down The Audit Committee comprises at least three
+was also proud to be named Employer of the as a director of RBSG allowing her to assume independent non-executive directors and
+Year by Women in Finance 2018. DINED status. A further 3 DINEDs were assists the Board in discharging its
+appointed to the NWH Ltd sub-group boards responsibilities for monitoring the quality of
+Going concern with effect from 1 May 2018: Francesca the financial statements. It reviews the
+The Group’s business activities and financial Barnes, Graham Beale and Ian Cormack. accounting policies, financial reporting and
+position, the factors likely to affect its future regulatory compliance practices of the Bank,
+development and performance and its Board of directors the Bank’s system and standards of internal
+objectives and policies in managing the The Board is the main decision-making forum controls, and monitors the Bank’s processes
+financial risks to which it is exposed, and its for the Bank. The Board is collectively for internal audit and external audit.
+capital are discussed in the Business review. responsible for the long-term success of the
+The risk factors which could materially affect Bank and the delivery of sustainable value to The Board Risk Committee comprises at least
+the Group’s future results are set out on its shareholders. The Board’s role is to three independent non-executive directors. It
+pages 132 to 141. The Group’s regulatory provide leadership of the Bank. It monitors provides oversight and advice to the Board on
+capital resources and significant and maintains the consistency of the Bank’s current and potential future risk exposures of
+developments in 2018, and anticipated future activities within the strategic direction of the the Group and future risk strategy. It reviews
+developments are detailed in the Capital, RBS Group; it reviews and approves risk the Bank’s compliance with approved risk
+liquidity and funding section on pages 17 to appetite for strategic and material risks in appetite and oversees the operation of the
+24. This section also describes the Group’s accordance with the RBS Group Risk Appetite RBS Group’s Policy Framework and
+funding and liquidity profile, including changes Framework and it monitors performance submission to regulators.
+in key metrics and the build up of liquidity against risk appetite for the Bank. It approves
+reserves. the Bank’s key financial objectives and keeps The Performance and Remuneration
+the capital and liquidity positions of the Bank Committee comprises at least three
+Having reviewed the Bank’s forecasts, under review. The Board’s terms of reference independent non-executive directors and
+projections and other relevant evidence, the includes key aspects of the Group’s affairs assists the RBSG Performance and
+directors have a reasonable expectation that reserved for the Board’s decision and are Remuneration Committee with the oversight
+the Bank will continue in operational existence reviewed at least annually. and implementation of the RBS Group’s policy
+for the foreseeable future. Accordingly, the on remuneration. It also considers and makes
+financial statements of the Bank have been There are a number of areas where the Board recommendations on remuneration
+prepared on a going concern basis. has delegated specific responsibility to arrangements for senior executives of the
+management, including the Chief Executive Group.
+Corporate governance and the Chief Financial Officer. These include
+Internal control over financial reporting responsibility for the operational management The Nominations Committee comprises four
+The internal controls over financial reporting of the Group’s businesses as well as non-executive directors, and is chaired by the
+for the Group are consistent with those at the reviewing high level strategic issues and Chairman of the Bank. It is responsible for
+RBS Group level. The Group has designed considering risk appetite, risk policies and risk assisting the Board in the formal selection and
+and assessed the effectiveness of its internal management strategies in advance of these appointment of directors. It reviews the
+control over financial reporting as of 31 being considered by the Board and/or its structure, size and composition of the Board,
+December 2018 based on the criteria set forth Committees. and membership and chairmanship of Board
+by the Committee of Sponsoring committees.
+Organizations of the Treadway Commission in Specific delegated authorities are also in
+the 2013 publication of ‘Internal Control – place in relation to business commitments The Executive Committee comprises the
+Integrated Framework’. Any deficiencies across the Group. Bank’s most senior executives and supports
+identified are reported to the Group Audit the Chief Executive Officer in managing the
+Committee along with management’s The roles of Chairman and Chief Executive Bank’s businesses. It is responsible for
+remediation plans. are distinct and separate, with a clear division managing and overseeing strategic, financial
+of responsibilities. The Chairman leads the capital, risk and operational issues.
+The RBS Group's auditors have audited the Board and ensures the effective engagement
+effectiveness of the RBS Group's internal and contribution of all executive and non- Directors
+control over financial reporting and have given executive directors. The Chief Executive has The names of the current directors are shown
+an unqualified opinion. responsibility for all Group businesses and on page 2.
+acts in accordance with authority delegated by
+Double Independent Non-Executive the Board. The non-executive directors All directors of the Bank are required to stand
+Directors combine broad business and commercial for election or re-election at the Annual
+An integral part of our ring-fencing experience with independent and objective General Meeting.
+governance arrangements is the appointment judgement and they provide independent
+of “Double Independent Non-Executive challenge to the executive directors and the Directors’ interests
+Directors” or “DINEDs” to the NWH Ltd sub- leadership team. Where directors of the Bank are also directors
+group boards (NWH Ltd, the Bank, Ulster of RBSG, their interests in the shares of the
+Bank Limited and The Royal Bank of Scotland The governance arrangements for the ultimate holding company at 31 December
+plc), and board committees. committees have been designed to enable 2018 are shown in the Corporate governance,
+RBSG to exercise appropriate oversight and Annual report on remuneration section of the
+59
+NatWest Plc Annual Report and Accounts 2018
+Statement of directors’ responsibilities
+This statement should be read in conjunction with the responsibilities of the auditor set out in their report on pages 63 to 71.
+The directors are responsible for the preparation of the Annual Report and Accounts. The directors are required by Article 4 of the IAS
+Regulation (European Commission Regulation No 1606/2002) to prepare Group accounts, and as permitted by the Companies Act 2006 have
+elected to prepare company accounts, for each financial year in accordance with International Financial Reporting Standards as adopted by the
+European Union. They are responsible for preparing accounts that present fairly the financial position, financial performance and cash flows of
+the Group and the Bank. In preparing those accounts, the directors are required to:
+ select suitable accounting policies and then apply them consistently;
+ make judgements and estimates that are reasonable and prudent; and
+ state whether applicable accounting standards have been followed, subject to any material departures disclosed and explained in the
+accounts.
+The directors are responsible for keeping proper accounting records which disclose with reasonable accuracy at any time the financial position
+of the Group and to enable them to ensure that the Annual Report and Accounts complies with the Companies Act 2006. They are also
+responsible for safeguarding the assets of the Bank and the Group and hence for taking reasonable steps for the prevention and detection of
+fraud and other irregularities.
+The directors confirm that to the best of their knowledge:
+ the financial statements, prepared in accordance with International Financial Reporting Standards, give a true and fair view of the assets,
+liabilities, financial position and profit or loss of the Bank and the undertakings included in the consolidation taken as a whole; and
+ the Strategic report and Directors’ report (incorporating the Financial review) includes a fair review of the development and performance of
+the business and the position of the Bank and the undertakings included in the consolidation taken as a whole, together with a description of
+the principal risks and uncertainties that they face.
+By order of the Board
+Howard Davies Ross McEwan Katie Murray
+Chairman Chief Executive Chief Financial Officer
+14 February 2019
+Board of directors
+Chairman Executivedirectors Non-executivedirectors
+Howard Davies Ross McEwan Francesca Barnes
+Katie Murray Graham Beale
+Alison Rose-Slade Ian Cormack
+Alison Davis
+Patrick Flynn
+Morten Friis
+Robert Gillespie
+Yasmin Jetha
+Baroness Noakes
+Mike Rogers
+Mark Seligman
+Dr Lena Wilson
+61
+NatWest Plc Annual Report and Accounts 2018
+Independent auditor’s report to the members of National Westminster Bank Plc
+Risk Our response to the risk
+Impairment of loans
+On 1 January 2018, a new accounting standard As IFRS 9 was adopted at the start of the year, we performed audit procedures on the
+for financial instruments (IFRS 9) became opening balances to gain assurance on the transition from IAS 39. This included
+effective, which introduced impairment based on evaluating the accounting interpretations for compliance with IFRS 9 and testing the
+expected credit losses, rather than the incurred adjustments and disclosures made on transition.
+loss model previously applied under IAS 39. We tested the design and operating effectiveness of key controls across the processes
+At 31 December 2018 the Group reported total relevant to the ECL. This included the allocation of assets into stages, model
+gross loans of £216 billion and £1.7 billion of governance, data accuracy and completeness, credit monitoring, multiple economic
+expected credit loss provisions. scenarios, post model adjustments, individual provisions and production of journal
+Key judgements and estimates in respect of the entries and disclosures.
+timing and measurement of expected credit We observed the key executive finance and risk committees where the inputs,
+losses (‘ECL’) include: assumptions and adjustments to the ECL were discussed and approved.
+ Allocation of assets to stage 1, 2, or 3 using We performed an overall assessment of the ECL provision levels by stage to determine
+criteria in accordance with the accounting if they were reasonable considering the Group’s portfolio, risk profile, credit risk
+standard; management practices and the macroeconomic environment. We considered trends in
+the economy and industries to which the Group is exposed.
+ Accounting interpretations and modelling
+We challenged the criteria used to allocate an asset to stage 1, 2 or 3 in accordance
+assumptions used to build the models that
+with IFRS 9; this included peer benchmarking to assess staging levels. We tested
+calculate the ECL;
+assets in stage 1, 2 and 3 to verify that they were allocated to the appropriate stage.
+ Completeness and accuracy of data used to With the support of our internal modelling specialists, we tested the assumptions, inputs
+calculate the ECL; and formulas used in a sample of ECL models. This included assessing the
+ Inputs and assumptions used to estimate appropriateness of model design and formulas used, considering alternative modelling
+the impact of multiple economic scenarios; techniques and recalculating the Probability of Default, Loss Given Default and
+ Completeness and valuation of post model Exposure at Default for a sample of models.
+adjustments; To verify data quality, we tested the data used in the ECL calculation by reconciling to
+source systems. To test credit monitoring, we recalculated the risk ratings for a sample
+ Measurements of individually assessed
+of performing loans.
+provisions including the assessment of
+With the support of our internal economic specialists, we assessed the base case and
+multiple scenarios; and
+alternative economic scenarios, including challenging probability weights and
+ Accuracy and adequacy of the financial comparing to other scenarios from a variety of external sources, as well as EY internally
+statement disclosures. developed forecasts. We assessed whether forecasted macroeconomic variables were
+appropriate, such as GDP, unemployment, interest rates and House Price Index. With
+the support of our modelling specialists we challenged the correlation and impact of the
+macroeconomic factors to the ECL including how non-linearity was captured.
+We assessed the completeness and appropriateness of post model adjustments and
+recalculated a sample. Based on current economic conditions and market
+circumstances, we considered the need for sector or systemic adjustments. We
+assessed the appropriateness of the scenarios used and calculation of the overlay in
+response to Brexit related economic uncertainty.
+With the support of our internal valuation specialists, we recalculated a sample of
+individually assessed provisions including comparing to alternative scenarios and
+challenging probability weights assigned. The sample was based on a number of
+factors including higher risk sectors such as construction, retail, automotive, commercial
+real estate, shipping and oil and gas
+We assessed the adequacy and appropriateness of disclosures for compliance with the
+accounting standards including disclosure of transition from IAS 39.
+Key observations communicated to the Audit Committee
+We are satisfied that credit impairment provisions were reasonable and in compliance with IFRS 9.
+We highlighted the following matters to the Audit Committee:
+ Control deficiencies were identified on the transition to IFRS 9 and several compensating controls were implemented notably in the
+process to produce the financial statement disclosures;
+ Our testing and sensitivity analysis on the staging criteria did not identify material differences and overall, we concluded that the stage
+allocation at 31 December 2018 was reasonable;
+ Our testing of models and model assumptions did not highlight material differences; and
+For individually assessed impairments, in a few instances we reported judgemental differences in respect of the extent of the impairment
+identified, however none of these differences were considered material.
+Relevant references in the Annual Report and Accounts
+Credit Risk section of the Capital and risk management section
+Accounting policies
+Note 13 on the financial statements
+65
+NatWest Plc Annual Report and Accounts 2018
+Independent auditor’s report to the members of National Westminster Bank Plc
+Key observations communicated to the Audit Committee
+We are satisfied that IT controls relevant to financial reporting operated effectively at year-end. We highlighted the following matters to the
+Audit Committee:
+ Instances of user access related deficiencies were identified. Compensating controls were tested or alternate procedures were
+performed; and
+ Exceptions were reported in some Service Organisation Controls Reports provided by third parties including Cloud providers. We tested
+compensating controls with no issues noted.
+Relevant references in the Annual Report and Accounts
+Accounting policies
+In the prior year, our auditor’s report included key audit matters in relation to costs recharged to or from other RBS Group companies and
+provision for restructuring costs. In 2018, given materiality and our assessment of the risk, these were not considered key audit matters.
+An overview of the scope of our audit
+Tailoring the scope
+Our assessment of audit risk, our evaluation of materiality and our allocation of performance materiality determine our audit scope for each
+component of the Group. Taken together, this enables us to form an opinion on the financial statements. We take into account the size and risk
+profile of the component and its activities, the organisation of the Group and effectiveness of group-wide controls, changes in the business
+environment and other factors such as recent internal audit results when assessing the level of work to be performed at each component. The
+scoping below is consistent with the prior year.
+Component Scope Keylocations
+UK Personal & Business Banking Full United Kingdom
+Commercial Banking Full United Kingdom
+Private Banking Specific United Kingdom
+Central items, Treasury and Services Full United Kingdom, India, Poland
+The table below illustrates the coverage obtained from the work performed by our audit teams, the coverage includes the full scope components
+presented in disposal groups as noted above. We considered total assets, total equity and absolute value of the amounts in the income
+statement (meaning the magnitude of the amounts without regard to their positive or negative value) to verify we had appropriate overall
+coverage on the income statement.
+Full scope (1) Specific scope (2) Other procedures (3) Total
+Total assets 85% 14% 1% 100%
+Total equity 71% 27% 2% 100%
+Absolute value of the income statement 92% 4% 4% 100%
+The audit scope of Specific scope component may not have included testing of all significant accounts within the component. However, the
+testing will have contributed to the total coverage of significant accounts tested for the overall Group.
+Notes:
+(1) Full scope audit procedures on all significant accounts.
+(2) Specific scope: audit procedures on selected accounts
+(3) Other procedures: considered in analytical procedures.
+Involvement with component teams
+In establishing our overall approach to the Group audit, we determined the type of work that needed to be undertaken in each of the
+components by us, as the primary audit engagement team, or by component auditors in the United Kingdom or from other EY global network
+firms operating under our instruction.
+The primary audit engagement team interacted regularly with the component audit teams where appropriate throughout the course of the audit,
+which included holding planning meetings, maintaining regular communications on the status of the audits, reviewing key working papers and
+taking responsibility for the scope and direction of the audit process. The primary audit engagement team also participated in meetings with key
+management personnel in the components and, for certain overseas locations, implemented a programme of planned visits. These visits
+involved discussing the audit approach with the component team and any issues arising from their work, as well as meeting with local
+management. This, together with the additional procedures performed at Group level, gave us appropriate evidence for our opinion on the
+Group financial statements.
+Our application of materiality
+We apply the concept of materiality in planning and performing the audit, in evaluating the effect of identified misstatements on the audit and in
+forming our audit opinion.
+Materiality
+The magnitude of omission or misstatement that, individually or in the aggregate, could reasonably be expected to influence the economic
+decisions of the users of the financial statements. Materiality provides a basis for determining the nature and extent of our audit procedures.
+We determined materiality for the Group and Bank to be £175 million (2017 materiality: £160 million), which is 5% of profit before tax of the
+Group and 1% of equity of the Bank (2017 materiality basis was equity). As the Group has been profitable for the past two years, we
+changed our basis of materiality to profit before tax. This measure is consistent with the wider industry and is the standard for listed and
+regulated entities and we believe it reflects the most useful measure for users of the financial statements. The materiality of the Bank is
+based on equity as we consider this to be the most appropriate factor to the users of the financial statements.
+69
+NatWest Plc Annual Report and Accounts 2018
+Independent auditor’s report to the members of National Westminster Bank Plc
+Performance materiality
+The application of materiality at the individual account or balance level is set at an amount to reduce to an appropriately low level the probability
+that the aggregate of uncorrected and corrected misstatements exceed materiality.
+On the basis of our risk assessments, together with our assessment of the Group’s overall control environment, our judgement was that
+performance materiality was 50% of our planning materiality, namely £88 million (2017: £80 million). We have set performance materiality at this
+percentage (which is at the lowest end of the range of our audit methodology) based on various considerations including the past history of
+misstatements, the effectiveness of the control environment and other factors affecting the entity and its financial reporting.
+Audit work of component teams for the purpose of obtaining audit coverage over significant financial statement accounts is undertaken based on
+a percentage of total performance materiality. The performance materiality set for each component team is based on the relative scale and risk
+of the component to the Group as a whole and our assessment of the risk of misstatement at that component. In the current year, the range of
+performance materiality allocated by the primary audit engagement team to components was between £60 million and £30 million.
+Reporting threshold
+An amount below which identified misstatements are considered to be clearly trivial.
+We agreed with the Audit Committee that we would report to them all corrected and uncorrected audit misstatements in excess of £8 million,
+which is set at 5% of planning materiality, as well as misstatements below that threshold that, in our view, warranted reporting on qualitative
+grounds.
+We evaluate any uncorrected misstatements against both the quantitative and qualitative measures of materiality discussed above and in light of
+other relevant qualitative considerations in forming our opinion.
+Other information
+The other information comprises the information included in the Annual Report and Accounts, including the Strategic report, Report of the
+directors, Statement of directors’ responsibilities, and Forward-looking statements, other than the financial statements and our auditor’s report
+thereon. The directors are responsible for the other information.
+Our opinion on the financial statements does not cover the other information and, except to the extent otherwise explicitly stated in this report,
+we do not express any form of assurance conclusion thereon.
+In connection with our audit of the financial statements, our responsibility is to read the other information and, in doing so, consider whether the
+other information is materially inconsistent with the financial statements or our knowledge obtained in the audit or otherwise appears to be
+materially misstated. If we identify such material inconsistencies or apparent material misstatements, we are required to determine whether
+there is a material misstatement in the financial statements or a material misstatement of the other information. If, based on the work we have
+performed, we conclude that there is a material misstatement of the other information, we are required to report that fact.
+We have nothing to report in this regard.
+Opinions on other matters prescribed by the Companies Act 2006
+In our opinion, the part of the directors’ remuneration disclosure to be audited has been properly prepared in accordance with the Companies
+Act 2006.
+In our opinion, based on the work undertaken in the course of the audit:
+ the information given in the Strategic report and the Report of the directors for the financial year for which the financial statements are
+prepared is consistent with the financial statements; and
+ the Strategic report and the Report of the directors have been prepared in accordance with applicable legal requirements.
+Matters on which we are required to report by exception
+In the light of the knowledge and understanding of the Group and the Bank and its environment obtained in the course of the audit, we have not
+identified material misstatements in the Strategic report or the Report of the directors.
+We have nothing to report in respect of the following matters in relation to which the Companies Act 2006 requires us to report to you if, in our
+opinion:
+ adequate accounting records have not been kept by the Group, or returns adequate for our audit have not been received from branches
+not visited by us; or
+ the Bank financial statements are not in agreement with the accounting records and returns; or
+ certain disclosures of directors’ remuneration specified by law are not made; or
+ we have not received all the information and explanations we require for our audit
+Responsibilities of directors
+As explained more fully in the directors’ responsibilities statement, the directors are responsible for the preparation of the financial statements
+and for being satisfied that they give a true and fair view, and for the implementation of such internal control as the directors determine is
+necessary to enable the preparation of financial statements that are free from material misstatement, whether due to fraud or error. In preparing
+the financial statements, the directors are responsible for assessing the Group and Bank’s ability to continue as a going concern, disclosing, as
+applicable, matters related to going concern and using the going concern basis of accounting unless the directors either intend to liquidate the
+Group or the Bank or to cease operations, or have no realistic alternative but to do so.
+Auditor’s responsibilities for the audit of the financial statements
+Our objectives are to obtain reasonable assurance about whether the financial statements as a whole are free from material misstatement,
+whether due to fraud or error, and to issue an auditor’s report that includes our opinion. Reasonable assurance is a high level of assurance, but
+is not a guarantee that an audit conducted in accordance with ISAs (UK) will always detect a material misstatement when it exists.
+Misstatements can arise from fraud or error and are considered material if, individually or in the aggregate, they could reasonably be expected
+to influence the economic decisions of users taken on the basis of these financial statements.
+Explanation as to what extent the audit was considered capable of detecting irregularities, including fraud
+The objectives of our audit, in respect to fraud, are; to identify and assess the risks of material misstatement of the financial statements due to
+fraud; to obtain sufficient appropriate audit evidence regarding the assessed risks of material misstatement due to fraud, through designing and
+implementing appropriate responses; and to respond appropriately to fraud or suspected fraud identified during the audit. However, the primary
+responsibility for the prevention and detection of fraud rests with both those charged with governance of the entity and management. We
+70
+NatWest Plc Annual Report and Accounts 2018
+Risk factors
+Republic of Ireland and continental Europe stakeholders.
+and rationalisation initiatives fail to achieve are represented by employee representative
+the expected results or prove to be insufficient bodies, including trade unions. Engagement The Group’s operations are subject to
+due to cost challenges or otherwise, this could with its employees and such bodies is inherent reputational risk.
+negatively affect the Group’s operations, its important to the Group in maintaining good Reputational risk relates to stakeholder and
+reputation and ability to retain or grow its employee relations. Any failure to do so could public perceptions of the Group arising from
+customer business or adversely impact its impact the Group’s ability to operate its an actual or perceived failure to meet
+competitive position, thereby negatively business effectively. stakeholder expectations due to any events,
+impacting the Group’s financial position. behaviour, action or inaction by the Group, its
+A failure in the Group’s risk management employees or those with whom the Group is
+The Group, including the Bank, is required framework could adversely affect the associated. This includes brand damage,
+to comply with regulatory requirements in Group, including its ability to achieve its which may be detrimental to the Group’s
+respect of the implementation of the UK strategic objectives. business, including its ability to build or
+ring-fencing regime. Risk management is an integral part of all of sustain business relationships with customers,
+The UK ring-fencing regime came into force the Group’s activities and includes the and may cause low employee morale,
+on 1 January 2019. As part of the transition to definition and monitoring of the Group’s risk regulatory censure or reduced access to, or
+become compliant with the UK ring-fencing appetite and reporting on its risk exposure an increase in the cost of, funding.
+regime, the Bank has established stand-alone and the potential impact thereof on its Reputational risk may arise whenever there is
+market-facing capabilities for derivatives, financial condition. Financial risk management a material lapse in standards of integrity,
+foreign exchange and fixed income, in order is highly dependent on the use and compliance, customer or operating efficiency
+to manage funding and market risk in the effectiveness of internal stress tests and and may adversely affect the Group’s ability
+Group. The Bank is now a direct member of models and ineffective risk management may attract and retain customers. In particular, the
+GBP and EUR payment systems and a direct arise from a wide variety of factors, including Group’s ability to attract and retain customers
+member of the London Clearing House and lack of transparency or incomplete risk (and, in particular, corporate and retail
+the Continuous Linked Settlement. The reporting, unidentified conflicts or misaligned depositors) may be adversely affected by,
+Group’s ongoing compliance with the UK ring- incentives, lack of accountability control and amongst others: negative public opinion
+fencing regime may entail significant costs, governance, lack of consistency in risk resulting from the actual or perceived manner
+and may also impose significant operational, monitoring and management or insufficient in which the Group or any other member of
+legal and execution risk in the Group’s day-to- challenges or assurance processes. Failure to the RBS Group conducts or modifies its
+day activities. manage risks effectively could adversely business activities and operations, media
+In addition, the implementation of the UK ring- impact the Group’s reputation or its coverage (whether accurate or otherwise),
+fencing regime may impact the Group’s relationship with its customers, shareholders employee misconduct, the Group’s financial
+treasury operations, including internal and or other stakeholders. performance, IT systems failures or
+external funding arrangements and the The Group’s operations are inherently cyberattacks, the level of direct and indirect
+Group’s funding strategy as certain Group exposed to conduct risks. These include government support, or the actual or
+entities, including the Bank, will be required to business decisions, actions or incentives that perceived practices in the banking and
+access the debt capital markets as new stand- are not responsive to or aligned with the financial industry in general, or a wide variety
+alone entities which may entail increased Group’s customers’ needs or do not reflect the o f other factors.
+execution risk for the Group’s funding plan Group’s customer-focussed strategy, Modern technologies, in particular online
+and may increase the cost of funding for ineffective product management, unethical or social networks and other broadcast tools
+certain Group entities, including the Bank. inappropriate use of data, outsourcing of which facilitate communication with large
+The Group relies on attracting, retaining customer service and product delivery, the audiences in short time frames and with
+and developing senior management and possibility of alleged mis-selling of financial minimal costs, may also significantly enhance
+skilled personnel, and is required to products and mishandling of customer and accelerate the impact of damaging
+maintain good employee relations. complaints. Some of these risks have information and allegations.
+The Group’s current and future success materialised in the past and ineffective Although the Group has implemented a
+depends on its ability to attract, retain and management and oversight of conduct risks Reputational Risk Policy to improve the
+develop highly skilled and qualified personnel, may lead to further remediation and regulatory identification, assessment and management
+including senior management, directors and intervention or enforcement. The Group’s of customers, transactions, products and
+key employees, in a highly competitive labour businesses are also exposed to risks from issues which represent a reputational risk, the
+market and under internal cost reduction employee misconduct including non- Group cannot be certain that it will be
+pressures. This entails risk, particularly in light compliance with policies and regulations, successful in avoiding damage to its business
+of heightened regulatory oversight of banks negligence or fraud (including financial from reputational risk.
+and the increasing scrutiny of, and (in some crimes), any of which could result in
+cases) restrictions placed upon, employee regulatory fines or sanctions and serious Economic and political risk
+compensation arrangements, in particular reputational or financial harm to the Group. Uncertainties surrounding the UK’s
+those of banks in receipt of government The Group is seeking to embed a strong risk withdrawal from the European Union may
+support such as the RBS Group, which may culture across the organisation and has adversely affect the Group.
+have an adverse effect on the Group’s ability implemented policies and allocated new Following the EU Referendum in June 2016,
+to hire, retain and engage well-qualified resources across all levels of the organisation and pursuant to the exit process triggered
+employees. The market for skilled personnel to manage and mitigate conduct risk and under Article 50 of the Treaty on European
+is increasingly competitive, especially for expects to continue to invest in its risk Union in March 2017, the UK is scheduled to
+technology-focussed roles, thereby raising the management framework. However, such leave the EU on 29 March 2019. The terms of
+cost of hiring, training and retaining skilled efforts may not insulate the Group from future a Brexit withdrawal agreement negotiated by
+personnel. In addition, certain economic, instances of misconduct and no assurance the UK Government were decisively voted
+market and regulatory conditions and political can be given that the Group’s strategy and against by Parliament on 15 January 2019.
+developments (including Brexit) may reduce control framework will be effective. Any failure The UK Government and Parliament are
+the pool of candidates for key management in the Group’s risk management framework currently actively engaged in seeking to
+and non-executive roles, including non- could negatively affect the Group and its determine the terms of this departure,
+executive directors with the right skills, financial condition through reputational and
+including any transition period, and the
+knowledge and experience, or increase the financial harm and may result in the inability to
+number of departures of existing employees. achieve its strategic objectives for their resulting economic, trading and legal
+relationships with both the EU and other
+Many of the Group’s employees in the UK, customers, employees and wider
+133
+NatWest Plc Annual Report and Accounts 2018
+Risk factors
+confidence, higher levels of unemployment or its financial policy frameworks, including
+macro-economic deterioration in the underemployment, adverse changes to levels proposals (e.g. through amendments to MiFID
+Eurozone, China or the US, increased of inflation, and falling property prices in the II) for institutional investors (including pension
+instability in the global financial system and markets in which the Group operates. funds) to consider and disclose climate risk
+concerns relating to further financial shocks or criteria as part of their investment decision,
+The Group expects to face significant risks
+contagion (for example, due to economic and also proposals to consider changes to
+in connection with climate change and the
+concerns in emerging markets), market RWA methodologies. Furthermore, credit
+transition to a low carbon economy
+volatility or fluctuations in the value of the The risks associated with climate change are ratings agencies are increasingly taking into
+pound sterling, new or extended economic subject to rapidly increasing prudential and account environmental, social and
+governance (‘ESG’) factors, including climate
+sanctions, volatility in commodity prices or regulatory, political and societal focus, both in
+risk, as part of the credit ratings analysis, as
+concerns regarding sovereign debt. This may the UK and internationally. Embedding climate are investors in their investment decisions.
+be compounded by the ageing demographics risk into the Group’s risk framework in line
+of the populations in the markets that the with expected regulatory expectations, and If the Group does not adequately embed
+Group serves, or rapid change to the adapting the Group’s operation and business climate risk into its risk framework to
+economic environment due to the adoption of strategy to address both the risks of climate appropriately measure, manage and disclose
+technology and artificial intelligence. Any of change and the transition to a low carbon the various financial and physical risks it faces
+the above developments could impact the economy are likely to have a significant associated with climate change, or fails to
+Group directly (for example, as a result of impact on the Group. adapt its strategy and business model to the
+credit losses) or indirectly (for example, by changing regulatory requirements and market
+impacting global economic growth and Multilateral and UK Government undertakings expectations on a timely basis, it may have a
+financial markets and the Group’s customers to limit increases in carbon emissions in the material and adverse impact on the Group’s
+and their banking needs). near and medium term will require widespread
+level of business growth, its competitiveness,
+levels of adjustment across all sectors of the
+In addition, the Group is exposed to risks profitability, prudential capital requirements,
+economy, with some sectors such as
+arising out of geopolitical events or political credit ratings, cost of funding, results of
+property, energy, infrastructure (including
+developments, such as trade barriers, operation and financial condition.
+exchange controls, sanctions and other
+transport) and agriculture likely to be
+measures taken by sovereign governments particularly impacted. The nature and timing Changes in foreign currency exchange
+that may hinder economic or financial activity of the far-reaching commercial, technological rates may affect the Group’s results and
+levels. Furthermore, unfavourable political, and regulatory changes that this transition will financial position.
+military or diplomatic events, including entail are currently uncertain but the impact of The Group’s foreign exchange exposure
+secession movements or the exit of other such changes may be disruptive, especially if arises from structural foreign exchange risk,
+member states from the EU, armed conflict, such changes do not occur in an orderly or including capital deployed in the Group’s
+pandemics and widespread public health timely manner or are not effective in reducing foreign subsidiaries, branches and joint
+crises, state and privately sponsored cyber emissions sufficiently. Furthermore, the nature arrangements, and non-trading foreign
+and terrorist acts or threats, and the and timing of the manifestation of the physical exchange risk, including customer
+responses to them by governments and risks of climate change (which include more transactions and profits and losses that are in
+markets, could negatively affect the business extreme specific weather events such as a currency other than the functional currency
+and performance of the Group. flooding and heat waves and longer term of the transaction entity. The Group is
+shifts in climate) are also uncertain, and their required to issue instruments in foreign
+Continued low interest rates have impact on the economy is predicted to be currencies that assist in meeting the Group’s
+significantly affected and will continue to more acute if carbon emissions are not minimum requirements for own funds and
+affect the Group’s business and results. reduced on a timely basis or to the requisite eligible liabilities (‘MREL’). The Group
+Interest rate risk is significant for the Group, extent. The potential impact on the economy maintains policies and procedures designed
+as monetary policy has been accommodative includes, but is not limited to, lower GDP to manage the impact of exposures to
+in recent years, including as a result of certain growth, significant changes in asset prices fluctuations in currency rates. Nevertheless,
+policies implemented by the Bank of England and profitability of industries, higher changes in currency rates, particularly in the
+and HM Treasury such as the Term Funding unemployment and the prevailing level of sterling-US dollar and euro-sterling exchange
+Scheme, which have helped to support interest rates. rates, can adversely affect the value of
+demand at a time of pronounced fiscal assets, liabilities (including the total amount of
+tightening and balance sheet repair. However, UK and international regulators are actively MREL eligible instruments), income, RWAs,
+there remains considerable uncertainty as to seeking to develop new and existing capital base and expenses and the reported
+the direction of interest rates and pace of regulations that are directly and indirectly earnings of the Bank’s UK and non-UK
+change, as set by the Bank of England. focussed on climate change and the subsidiaries and may affect the Group’s
+Continued sustained low or negative interest associated financial risks. Such new reported consolidated financial condition.
+rates could put pressure on the Group’s regulations are being developed in parallel
+interest margins and adversely affect the with an increasing market focus on the risks Decisions of major central banks (including by
+Group’s profitability and prospects. In associated with climate change. In October the Bank of England, the ECB and the US
+addition, a continued period of low interest 2018, the Group’s prudential regulator, the Federal Reserve) and political or market
+rates and flat yield curves has affected and PRA, published a draft supervisory standard events (including Brexit), which are outside of
+may continue to affect the Group’s interest which sets forth an expectation that regulated the Group’s control, may lead to sharp and
+rate margin realised between lending and entities adopt a Board-level strategic sudden variations in foreign exchange rates.
+borrowing costs. approach to managing and mitigating the HM Treasury (or UKGI on its behalf) could
+financial risks of climate change and embed
+Conversely, while increases in interest rates the management of them into their exercise a significant degree of influence
+may support Group income, sharp increases governance frameworks, subject to existing over the RBS Group.
+in interest rates could lead to generally prudential regulatory supervisory tools In its November 2018 Autumn Budget, the UK
+weaker than expected growth, or even (including stress testing and individual and Government announced its intention to
+contracting GDP, reduced business systemic capital requirements). Climate risk is continue the process of privatisation of RBSG
+and to carry out a programme of sales of
+also subject to various legislative actions and
+RBSG ordinary shares with the objective of
+proposals by, among others, the European
+selling all of its remaining shares in RBSG by
+Commission’s Sustainable Finance initiative
+2023-2024. On 5 June 2018, the UK
+that focuses on incorporating climate risk into
+Government (via HM Treasury and UK
+135
+NatWest Plc Annual Report and Accounts 2018
+Risk factors
+vary considerably from year to year. if default rates consequently increase. In
+Government Investments Limited (‘UKGI’)) Furthermore, the focus on meeting cost addition, the Group’s credit risk may be
+disposed of approximately 7.7% of its stake in reduction targets may result in limited exacerbated if the collateral that it holds
+RBSG. As at 31 December 2018, the UK investment in other areas which could affect cannot be realised as a result of market
+Government held 62.3% of the issued the Group’s long-term product offering or conditions or regulatory intervention or if it is
+ordinary share capital of RBSG. There can be competitive position and its ability to meet its liquidated at prices not sufficient to recover
+no certainty as to the continuation of the sell- other targets, including those related to the full amount of the loan or derivative
+down process or the timing or extent of such customer satisfaction. exposure that is due to the Group. This is
+sell-downs. most likely to occur during periods of illiquidity
+There is no certainty that the RBS Group’s
+UKGI manages HM Treasury’s shareholder strategy will be successfully executed, that the o r depressed asset valuations.
+relationship with RBSG and, although HM Group will meet its targets and expectations, Concerns about, or a default by, a financial
+Treasury has indicated that it intends to or that the Group will be a viable, competitive institution could lead to significant liquidity
+respect the commercial decisions of the RBS or profitable banking business. problems and losses or defaults by other
+Group and that the RBS Group entities financial institutions, since the commercial
+(including the Group) will continue to have The Group has significant exposure to and financial soundness of many financial
+their own independent board of directors and counterparty and borrower risk. institutions is closely related and inter-
+management team determining their own The Group has exposure to many different dependent as a result of credit, trading,
+strategy, its position as a majority shareholder industries, customers and counterparties, and clearing and other relationships among these
+(and UKGI’s position as manager of this risks arising from actual or perceived changes financial institutions. Any perceived lack of
+shareholding) means that HM Treasury or in credit quality and the recoverability of creditworthiness of a counterparty may lead to
+UKGI could exercise a significant degree of monies due from borrowers and other market-wide liquidity problems and losses for
+influence over, among other things, the counterparties are inherent in a wide range of the Group. This systemic risk may also
+election of directors and appointment of senior the Group’s businesses. The Group is adversely affect financial intermediaries, such
+management, the RBS Group’s (including the exposed to credit risk if a customer, borrower as clearing agencies, clearing houses, banks,
+Group’s) capital strategy, dividend policy, or counterparty defaults, or under IFRS 9, securities firms and exchanges with which the
+remuneration policy or the conduct of the RBS suffers a sufficiently significant deterioration of Group interacts on a daily basis. See also,
+Group’s (including the Group’s) operations, credit quality under SICR (‘significant ‘The Group may not be able to adequately
+and HM Treasury’s approach depends on increases in credit risk’) rules such that it access sources of liquidity and funding’.
+government policy, which could change, moves to Stage 2 for impairment calculation
+including as a result of a general election. The purposes. The Group’s lending strategy and As a result, borrower and counterparty credit
+exertion of such influence over RBS Group associated processes may fail to identify or quality may cause accelerated impairment
+could in turn have an adverse effect on the anticipate weaknesses or risks in a particular charges under IFRS 9, increased repurchase
+governance or business strategy of the sector, market or borrower category, or fail to demands, higher costs, additional write-downs
+Group. adequately value physical or financial and losses for the Group and an inability to
+collateral, which may result in an increase in engage in routine funding transactions.
+Financial resilience risk default rates for loans, which may, in turn,
+The Group may not meet targets nor impact the Group’s profitability. See ‘Capital The Group operates in markets that are
+generate sustainable returns. and risk management — Credit Risk’. highly competitive, with increasing
+As part of the RBS Group’s strategy, the competitive pressures and technology
+Group has principally become a UK-focussed The credit quality of the Group’s borrowers disruption.
+domestic banking group and is included in a and other counterparties is impacted by The market for UK financial services is highly
+number of financial, capital and operational prevailing economic and market conditions competitive, and the Group expects such
+targets for the RBS Group including in respect and by the legal and regulatory landscape in competition to continue or intensify in
+of: cost:income ratios, cost reductions the UK and any deterioration in such response to customer behaviour,
+leverage ratio targets, funding plans and conditions or changes to legal or regulatory technological changes (including the growth of
+requirements, reductions in RWAs and the landscapes could worsen borrower and digital banking), competitor behaviour, new
+timing thereof, employee engagement, counterparty credit quality and consequently entrants to the market (including non-
+diversity and inclusion as well as impact the Group’s ability to enforce traditional financial services providers such as
+environmental, social and customer contractual security rights. See also, ‘The large retail or technology conglomerates),
+satisfaction targets. Group faces increased political and economic industry trends resulting in increased
+risks and uncertainty in the UK and global disaggregation or unbundling of financial
+The Group’s ability to meet the RBS Group markets’. In particular, developments relating services or conversely the re-intermediation of
+and the Group’s respective targets and to to Brexit or the consequences thereof, may traditional banking services, and the impact of
+successfully meet its strategy are subject to adversely impact credit quality in the UK, and regulatory actions and other factors. In
+various internal and external factors and risks. the resulting negative economic outlook could particular, developments in the financial
+These include, but are not limited to, market, drive an increased level of credit impairments sector resulting from new banking, lending
+regulatory, economic and political factors, reflecting the more forward-looking nature of and payment solutions offered by rapidly
+developments relating to litigation, IFRS 9. evolving incumbents, challengers and new
+governmental actions, investigations and entrants, notably with respect to payment
+regulatory matters, and operational risks and Within the UK, the level of household services and products, and the introduction of
+risks relating to the Group’s business indebtedness remains high although the pace disruptive technology may impede the
+model and strategy (including emerging risks of credit growth has slowed during 2018. The Group’s ability to grow or retain its market
+associated with environmental, social and ability of such households to service their share and impact its revenues and
+governance issues). A number of factors may debts could be challenged by a period of high profitability, particularly in its key UK retail
+impact the Bank’s ability to maintain its unemployment or increased interest rates. In banking segment. These trends may be
+current CET1 ratio, including impairments, particular, the Group may be affected by catalysed by various regulatory and
+limited organic capital generation or volatility in property prices both in the competition policy interventions, particularly
+unanticipated increases in RWAs. In addition, residential and commercial sectors (including as a result of the UK initiative on Open
+the run-down of RWAs may be accompanied as a result of Brexit) given that the Group’s Banking and other remedies imposed by the
+by the recognition of disposal losses which mortgage loan portfolio as at 31 December Competition and Markets Authority (‘CMA’)
+may be higher than anticipated. 2018, amounted to £124 billion, representing which are designed to further promote
+The Group’s ability to meet its respective 59% of the Group’s customer loan exposure. competition within retail banking, as well as
+cost:income ratio targets and the planned If property prices were to weaken this could the competition-enhancing measures under
+reductions in its annual underlying costs may lead to higher impairment charges, particularly the RBS Group’s Alternative Remedies
+136
+NatWest Plc Annual Report and Accounts 2018
+Risk factors
+ developments relating to the UK initiative other matters, the setting of benchmark rates
+failure to comply with new rules and on Open Banking and the European such as LIBOR and related derivatives
+regulations) could have a significant impact on directive on payment services; trading, product mis-selling, customer
+the Group’s authorisations and licenses, the mistreatment, anti-money laundering, antitrust
+products and services that the Group may  new or increased regulations relating to and various other compliance issues. Legal
+offer, its reputation and the value of its assets, customer data and privacy protection as and regulatory actions are subject to many
+the Group’s operations or legal entity well as IT controls and resilience, including uncertainties, and their outcomes, including
+structure, and the manner in which the Group the GDPR; the timing, amount of fines or settlements or
+conducts its business. Areas in which, and  the introduction of, and changes to, taxes, the form of any settlements, which may be
+examples of where, governmental policies, levies or fees applicable to the Group’s material and in excess of any related
+regulatory and accounting changes and operations, such as the imposition of a provisions, are often difficult to predict,
+increased public and regulatory scrutiny could financial transaction tax, changes in tax particularly in the early stages of a case or
+have an adverse impact (some of which could rates, changes in the scope and investigation, and the Group’s expectations
+be material) on the Group include, but are not administration of the Bank Levy, increases for resolution may change.
+limited to, those set out above as well as the in the bank corporation tax surcharge in
+following: the UK, restrictions on the tax deductibility In particular, the Group has for a number of
+years been involved in conduct-related
+ general changes in government, central of interest payments or further restrictions
+reviews and redress projects, including a
+bank, regulatory or competition policy, or imposed on the treatment of carry-forward
+review of certain historic customer
+changes in regulatory regimes that may tax losses that reduce the value of
+connections in its former Global Restructuring
+influence investor decisions in the markets deferred tax assets and require increased
+Group (GRG), management of claims arising
+in which the Group operates; payments of tax;
+from historic sales of payment protection
+ amendments to the framework or  laws and regulations in respect of climate insurance. In relation to the GRG review, the
+requirements relating to the quality and change and sustainable finance (including Group established a complaints process in
+quantity of regulatory capital to be held by ESG) considerations; and November 2016, overseen by an independent
+the Group as well as liquidity and leverage  other requirements or policies affecting the third party. The complaints process closed on
+requirements, either on a solo, Group and its profitability or product 22 October 2018 for new complaints in the UK
+consolidated or subgroup level; offering, including through the imposition and, with the exception of a small cohort of
+ changes to the design and implementation of increased compliance obligations or potential complainants for whom there is an
+of national or supranational mandated obligations which may lead to restrictions extended deadline, on 31 December 2018 for
+recovery, resolution or insolvency regimes on business growth, product offerings, or new complaints in the Republic of Ireland. An
+or the implementation of additional or pricing. additional provision of £50 million was taken
+conflicting loss-absorption requirements, Changes in laws, rules or regulations, or in in Q4 2018, reflecting greater than predicted
+including those mandated under UK rules, complaints volumes in the week leading up to
+their interpretation or enforcement, or the
+the BRRD, MREL or by the Financial implementation of new laws, rules or the closure of the complaints process. In
+Stability Board’s (‘FSB’) recommendations regulations, including contradictory or addition, the Group continues to handle
+on total loss-absorbing capacity (‘TLAC’); conflicting laws, rules or regulations by key claims in relation to historic sales of payment
+ additional rules and regulatory initiatives regulators or policymakers in different protection insurance and took additional
+provisions of £125 million in Q3 2018,
+and review relating to customer protection jurisdictions, or failure by the Group to comply
+reflecting increased complaint volumes as the
+and resolution of disputes and complaints, with such laws, rules and regulations, may
+complaint deadline of 31 August 2019
+including increased focus by regulators adversely affect the Group’s business and
+approaches. See ‘Litigation, investigations
+(including the Financial Ombudsman results. In addition, uncertainty and insufficient
+and reviews’ of Note 29 on the consolidated
+Service) on how institutions conduct international regulatory coordination as
+for details of these matters. The Group has
+business, particularly with regard to the enhanced supervisory standards are
+dedicated resources in place to manage
+delivery of fair outcomes for customers developed and implemented may adversely
+claims and complaints relating to the above
+and orderly/transparent markets; affect the Group’s ability to engage in effective
+and other conduct-related matters. Provisions
+ rules and regulations relating to, and business, capital and risk management
+taken in respect of such matters include the
+enforcement of, anti-corruption, anti- planning.
+costs involved in administering the various
+bribery, anti-money laundering, anti- The Group is subject to a number of legal, complaints processes. Any failure to
+terrorism, sanctions, anti-tax evasion or regulatory and governmental actions and administer such processes adequately, or to
+other similar regimes; investigations including conduct-related handle individual complaints fairly or
+ the imposition of additional restrictions on reviews and redress projects, the appropriately, could result in further claims as
+the Group’s ability to compensate its outcomes of which are inherently difficult well as the imposition of additional measures
+ senior management and other employees to predict, and which could have an or limitations on the Group’s operations,
+and increased responsibility and liability adverse effect on the Group. additional supervision by the Group’s
+rules applicable to senior and key The Group’s operations are diverse and regulators, and loss of investor confidence.
+employees; complex and it operates in legal and Adverse outcomes or resolution of current or
+regulatory environments that expose it to
+ rules relating to foreign ownership, future legal or regulatory actions, including
+potentially significant legal proceedings, and
+expropriation, nationalisation and conduct-related reviews or redress projects,
+civil and criminal regulatory and governmental
+confiscation of assets; could result in restrictions or limitations on the
+actions. The Group has settled a number of
+ changes to corporate governance practice legal and regulatory actions over the past Group’s operations, and could adversely
+and disclosure requirements, senior several years but continues to be, and may in impact the Group’s capital position or its
+manager responsibility, corporate the future be, involved in such actions in the ability to meet regulatory capital adequacy
+structures and conduct of business rules; UK, the US and other jurisdictions. requirements. Failure to comply with
+undertakings made by the Group to its
+ financial market infrastructure reforms
+The legal and regulatory actions specifically regulators may result in additional measures
+establishing new rules applying to
+referred to below are, in the Group’s view, the or penalties being taken against the Group.
+investment services, short selling, market
+most significant legal and regulatory actions to
+abuse, derivatives markets and investment The Group may not effectively manage the
+which the Group is currently exposed.
+funds; transition of LIBOR and other IBOR rates
+However, the Group is also subject to a
+ increased attention to the protection and number of ongoing reviews, investigations to alternative risk free rates.
+resilience of, and competition and and litigation proceedings relating to, among UK and international regulators are driving a
+innovation in, UK payment systems and transition from the use of interbank offer rates
+140
+NatWest Plc Annual Report and Accounts 2018
+Risk factors
+including the FCA and the Financial the Alternative Remedies Package), the
+(IBOR’s), including LIBOR, to alternative risk Ombudsman Service, in recent years, Group will lose existing customers and
+free rates (RFRs). In the UK, the FCA has including with a number of reviews/inquiries deposits, which in turn will have adverse
+asserted that they will not compel LIBOR being carried out, including market reviews
+impacts on the Group’s business and
+submissions beyond 2021, thereby conducted by the CMA and its predecessor
+associated revenues and margins.
+jeopardising its continued availability, and the Office of Fair Trading regarding SME
+have strongly urged market participants to banking and personal banking products and Furthermore, the capability and innovation
+transition to RFRs, as the CFTC and other services, the Independent Commission on fund (which also comprises part of the
+regulators in the United States. The Group Banking and the Parliamentary Commission Alternative Remedies Package) is intended to
+has significant exposure to IBORs primarily on on Banking Standards. benefit eligible competitors and negatively
+its commercial lending and legacy securities. impact the Group’s competitive position. To
+Until there is market acceptance on the form These reviews raised significant concerns support the incentivised switching initiative,
+of alternative RFRs for different products, the about the effectiveness of competition in the upon request by an eligible bank, the RBS
+legal mechanisms to effect transition cannot retail banking sector. The CMA’s Retail Group has agreed to grant those customers
+be confirmed, and the impact cannot be Banking Market Order 2017 imposes which have switched to eligible banks under
+determined nor any associated costs remedies primarily intended to make it easier
+the incentivised switching scheme access to
+accounted for. The transition and for consumers and businesses to compare
+its branch network for cash and cheque
+uncertainties around the timing and manner of personal current account (‘PCA’) and SME
+handling services, which may impact
+transition to RFRs represent a number of risks bank products, increase the transparency of
+customer service quality for the Group’s own
+for the Group, its customers and the financial price comparison between banks and amend
+customers with consequent competitive,
+services industry more widely. These include PCA overdraft charging. These remedies
+financial and reputational implications. The
+risks related to: legal risks (as changes may impose additional compliance requirements
+implementation of the incentivised switching
+be required to documentation for new or on the RBS Group and the Group and could,
+scheme is also dependent on the engagement
+existing transactions); financial risks (which in aggregate, adversely impact the Group’s
+of the eligible banks with the incentivised
+may arise from any changes in valuation of competitive position, product offering and
+switching scheme and the application of the
+financial instruments linked to benchmarks revenues.
+eligible banks to and approval by the
+rates and may impact the Group’s cost of Adverse findings resulting from current or Independent Body. The incentivised transfer
+funds and its risk management related future competition investigations may result in of SME customers to third party banks places
+financial models); pricing risks (such as the imposition of reforms or remedies which reliance on those third parties to achieve
+changes to benchmark rates could impact may impact the competitive landscape in satisfactory customer outcomes which could
+pricing mechanisms on certain instruments); which the Group operates or result in give rise to reputational damage to the Group
+operational risks (due to the potential restrictions on mergers and consolidations if these are not forthcoming.
+requirement to adapt IT systems, trade within the financial sector.
+reporting infrastructure and operational A failure to comply with the terms of the
+processes); and conduct risks (which may The cost of implementing the Alternative Alternative Remedies Package could result in
+relate to communication regarding the Remedies Package could be more onerous the imposition of additional measures or
+potential impact on customers, and than anticipated. limitations on the Group’s operations,
+engagement with customers during the In connection with the implementation of the additional supervision by the Group’s
+transition period). Alternative Remedies Package (regarding the regulators, and loss of investor confidence.
+business previously described as Williams &
+It is therefore currently difficult to determine to Glyn), an independent body (‘Independent Changes in tax legislation or failure to
+what extent the changes will affect the Group, Body’) has been established to administer the generate future taxable profits may impact
+or the costs of implementing any relevant Alternative Remedies Package. The the recoverability of certain deferred tax
+remedial action. Uncertainty as to the nature implementation of the Alternative Remedies assets recognised by the Group.
+of such potential changes, alternative Package has involved costs for the Group, In accordance with IFRS, the Group has
+reference rates or other reforms and as to the including but not limited to the funding recognised deferred tax assets on losses
+continuation of LIBOR or EURIBOR may commitments of £425 million for the Capability available to relieve future profits from tax only
+adversely affect financial instruments using and Innovation Fund and £350 million for the to the extent it is probable that they will be
+LIBOR or EURIBOR as benchmarks. The incentivised switching scheme, both being recovered. The deferred tax assets are
+implementation of any alternative RFRs may administered by the Independent Body. quantified on the basis of current tax
+be impossible or impracticable under the Implementation of the Alternative Remedies legislation and accounting standards and are
+existing terms of such financial instruments Package may involve additional costs for the subject to change in respect of the future
+and could have an adverse effect on the value Group and may also divert resources from the rates of tax or the rules for computing taxable
+of, return on and trading market for such Group’s operations and jeopardise the p rofits and offsetting allowable losses.
+financial instruments. delivery and implementation of other Failure to generate sufficient future taxable
+significant plans and initiatives. In addition, profits or further changes in tax legislation
+The Group operates in markets that are under the terms of the Alternative Remedies (including with respect to rates of tax) or
+subject to intense scrutiny by the Package, the Independent Body may require accounting standards may reduce the
+competition authorities. the Group to modify certain aspects of the recoverable amount of the recognised tax loss
+There is significant oversight by competition Group’s execution of the incentivised deferred tax assets, amounting to £1.4 billion
+authorities of the markets which the Group switching scheme, which could increase the as at 31 December 2018. Changes to the
+operates in. The competitive landscape for cost of implementation. Furthermore, should treatment of certain deferred tax assets may
+banks and other financial institutions in the UK the uptake within the incentivised switching impact the Group’s capital position. In
+and the rest of Europe is rapidly changing. scheme not be sufficient, the Independent addition, the Group’s interpretation or
+Recent regulatory and legal changes have Body has the ability to extend the duration of application of relevant tax laws may differ
+and may continue to result in new market the scheme by up to twelve months, impose from those of the relevant tax authorities and
+participants and changed competitive penalties of up to £50 million, and can compel provisions are made for potential tax liabilities
+dynamics in certain key areas, such as in the RBS Group to extend the customer base that may arise on the basis of the amounts
+retail and SME banking in the UK where the to which the scheme applies which may result expected to be paid to tax authorities. The
+introduction of new entrants is being actively in prolonged periods of disruption to a wider amounts ultimately paid may differ materially
+e ncouraged by the UK Government. p ortion of the Group’s business. from the amounts provided depending on the
+The UK retail banking sector has been As a direct consequence of the incentivised ultimate resolution of such matters.
+subjected to intense scrutiny by the UK
+switching scheme (which comprises part of
+competition authorities and by other bodies,
+141
+NatWest Plc Annual Report and Accounts 2018
+Forward-looking statements
+Cautionary statement regarding forward-looking statements These include the significant risks presented by: operational and IT resilience
+Certain sections in this document contain ‘forward-looking statements’ as that risk (including in respect of: the Group being subject to cyberattacks; operational
+term is defined in the United States Private Securities Litigation Reform Act of risks inherent in the Group’s business; the Group’s operations being highly
+1995, such as statements that include the words ‘expect’, ‘estimate’, ‘project’, dependent on its IT systems; the Group being required to comply with regulatory
+‘anticipate’, ‘commit’, ‘believe’, ‘should’, ‘intend’, ‘plan’, ‘could’, ‘probability’, ‘risk’, requirements in respect of the implementation of the UK ring-fencing regime; the
+‘Value-at-Risk (VaR)’, ‘target’, ‘goal’, ‘objective’, ‘may’, ‘endeavour’, ‘outlook’, Group relying on attracting, retaining and developing senior management and
+‘optimistic’, ‘prospects’ and similar expressions or variations on these skilled personnel and maintaining good employee relations; the Group’s risk
+expressions. management framework; and reputational risk), economic and political risk
+(including in respect of: uncertainties surrounding the UK’s withdrawal from the
+In particular, this document includes forward-looking statements relating, but not European Union; increased political and economic risks and uncertainty in the
+limited to: future profitability and performance, including financial performance UK and global markets; continued low interest rates; climate change and the
+targets such as return on tangible equity; cost savings and targets, including transition to a low carbon economy; changes in foreign currency exchange rates;
+cost:income ratios; litigation and government and regulatory investigations, and HM Treasury’s ownership of RBSG and the possibility that it may exert a
+including the timing and financial and other impacts thereof; the implementation significant degree of influence over the RBS Group), financial resilience risk
+of the Alternative Remedies Package; the continuation of the Group’s balance (including in respect of: the Group’s ability to meet targets and generate
+sheet reduction programme, including the reduction of risk-weighted assets sustainable returns; deteriorations in borrower and counterparty credit quality;
+(RWAs) and the timing thereof; capital and strategic plans and targets; capital, the highly competitive markets in which the Group operates; the ability of the
+liquidity and leverage ratios and requirements, including CET1 Ratio, RWA Group to meet prudential regulatory requirements for capital or manage its
+equivalents (RWAe), Pillar 2 and other regulatory buffer requirements, minimum capital effectively; the ability of the Group to access adequate sources of liquidity
+requirement for own funds and eligible liabilities, and other funding plans; and funding; the Group’s reliance on RBS Group for capital and funding support;
+funding and credit risk profile; capitalisation; portfolios; net interest margin; changes in the credit ratings of RBSG, any of its subsidiaries or any of its
+customer loan and income growth; the level and extent of future impairments respective debt securities; the RBS Group’s ability to meet requirements of
+and write-downs, including with respect to restructuring and remediation costs regulatory stress tests; possible losses or the requirement to maintain higher
+and charges; and the Group’s exposure to political risk, economic risk, climate levels of capital as a result of limitations or failure of various models; sensitivity
+change risk, operational risk, conduct risk, cyber and IT risk and credit rating risk of the Group’s financial statements to underlying accounting policies,
+and to various types of market risks, including interest rate risk, foreign judgements, assumptions and estimates; changes in applicable accounting
+exchange rate risk and commodity and equity price risk; customer experience policies or rules; and the application of UK statutory stabilisation or resolution
+including our Net Promotor Score (NPS); employee engagement and gender powers) and legal, regulatory and conduct risk (including in respect of: the
+balance in leadership positions. Group’s businesses being subject to substantial regulation and oversight; legal,
+regulatory and governmental actions and investigations; the replacement of
+Limitations inherent to forward-looking statements LIBOR, EURIBOR and other benchmark rates; heightened regulatory and
+These statements are based on current plans, estimates, targets and governmental scrutiny (including by competition authorities); implementation of
+projections, and are subject to significant inherent risks, uncertainties and other the Alternative Remedies Package and the costs related thereto; and changes in
+factors, both external and relating to the Group’s strategy or operations, which tax legislation).
+may result in the Group being unable to achieve the current targets, predictions,
+expectations and other anticipated outcomes expressed or implied by such The forward-looking statements contained in this document speak only as at the
+forward-looking statements. In addition, certain of these disclosures are date hereof, and the Group does not assume or undertake any obligation or
+dependent on choices relying on key model characteristics and assumptions and responsibility to update any forward-looking statement to reflect events or
+are subject to various limitations, including assumptions and estimates made by circumstances after the date hereof or to reflect the occurrence of unanticipated
+management. By their nature, certain of these disclosures are only estimates events.
+and, as a result, actual future gains and losses could differ materially from those
+that have been estimated. Accordingly, undue reliance should not be placed on The information, statements and opinions contained in this document do not
+these statements. Forward-looking statements speak only as of the date we constitute a public offer under any applicable legislation or an offer to sell or
+make them and we expressly disclaim any obligation or undertaking to release solicit of any offer to buy any securities or financial instruments or any advice or
+publicly any updates or revisions to any forward-looking statements contained recommendation with respect to such securities or other financial instruments.
+herein to reflect any change in the Group’s expectations with regard thereto or
+any change in events, conditions or circumstances on which any such statement
+is based.
+Important factors that could affect the actual outcome of the forward-
+looking statements
+We caution you that a large number of important factors could adversely affect
+our results or our ability to implement our strategy, cause us to fail to meet our
+targets, predictions, expectations and other anticipated outcomes or affect the
+accuracy of forward-looking statements we describe in this document including
+in the risk factors and other uncertainties set out in the Group’s 2018 Annual
+Report and Accounts and other risk factors and uncertainties discussed in this
+document.
+142
+NatWest Plc Annual Report and Accounts 2018
